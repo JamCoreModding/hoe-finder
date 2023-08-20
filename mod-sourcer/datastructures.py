@@ -142,11 +142,11 @@ class TagContainer:
     def from_json(cls, json):
         tags = TagContainer()
     
-        sources = {}
+        json_sources = {}
         if('sources' in json):
-            sources = json['sources']
+            json_sources = json['sources']
 
-        tags.sources = {TagSource.from_json(x) for x in sources.values()}
+        tags.sources = {TagSource.from_json(x) for x in json_sources.values()}
         sources = {s.mod_id: s for s in tags.sources}
 
         def load_tags(key):

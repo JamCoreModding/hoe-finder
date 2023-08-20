@@ -10,7 +10,7 @@ from datastructures import *
 
 build_dir = Path('build')
 
-TAG_PATTERN = re.compile("^data/c/tags/(items|blocks|fluids|entity_types|game_events)/(.*).json$")
+TAG_PATTERN = re.compile("^data/c/tags/(items|blocks|fluids|entity_types|game_events|worldgen/biome)/(.*).json$")
 
 
 def load_tags(mod_jar: ZipFile, source: TagSource, tags: TagContainer):
@@ -24,7 +24,7 @@ def load_tags(mod_jar: ZipFile, source: TagSource, tags: TagContainer):
         tag_type = match.group(1)
         tag_id = match.group(2)
         tag_json = json.loads(mod_jar.read(path))
-        tags.add_tag(tag_type, source, tag_id, tag_json)
+        tags.add_tag(tag_type.replace('/','_'), source, tag_id, tag_json)
 
 
 def pull_mod_tags(mod_path: Path, tags: TagContainer):

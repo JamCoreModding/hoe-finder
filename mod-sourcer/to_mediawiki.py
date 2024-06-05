@@ -51,6 +51,11 @@ with open('tags.txt', 'wt') as out:
     generate_page(root['sources'], root['game_events'], out)
 
     print(file=out)
+    print('===== Biome Tags =====', file=out)
+    print(file=out)
+    generate_page(root['sources'], root['worldgen_biome'], out)
+
+    print(file=out)
     print('===== Sources =====', file=out)
     print(file=out)
     print("^ Mod ID ^ Name ^ Version ^ URL ^", file=out)

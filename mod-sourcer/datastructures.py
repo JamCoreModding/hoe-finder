@@ -105,6 +105,7 @@ class TagContainer:
     fluids: Dict[str, Tag]
     entity_types: Dict[str, Tag]
     game_events: Dict[str, Tag]
+    worldgen_biome: Dict[str, Tag]
 
     def __init__(self) -> None:
         super().__init__()
@@ -114,6 +115,7 @@ class TagContainer:
         self.fluids = {}
         self.entity_types = {}
         self.game_events = {}
+        self.worldgen_biome = {}
 
     def add_tag(self, tag_type: str, source: TagSource, tag_id: str, tag_json: Dict):
         self.sources.add(source)
@@ -132,13 +134,19 @@ class TagContainer:
             'blocks': [x.to_json() for x in self.blocks.values()],
             'fluids': [x.to_json() for x in self.fluids.values()],
             'entity_types': [x.to_json() for x in self.entity_types.values()],
-            'game_events': [x.to_json() for x in self.game_events.values()]
+            'game_events': [x.to_json() for x in self.game_events.values()],
+            'worldgen_biome': [x.to_json() for x in self.worldgen_biome.values()],
         }
 
     @classmethod
     def from_json(cls, json):
         tags = TagContainer()
-        tags.sources = {TagSource.from_json(x) for x in json['sources'].values()}
+    
+        json_sources = {}
+        if('sources' in json):
+            json_sources = json['sources']
+
+        tags.sources = {TagSource.from_json(x) for x in json_sources.values()}
         sources = {s.mod_id: s for s in tags.sources}
 
         def load_tags(key):
@@ -152,4 +160,5 @@ class TagContainer:
         tags.fluids = load_tags('fluids')
         tags.entity_types = load_tags('entity_types')
         tags.game_events = load_tags('game_events')
+        tags.worldgen_biome = load_tags('worldgen_biome')
         return tags

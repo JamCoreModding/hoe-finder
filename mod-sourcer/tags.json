@@ -1,5 +1,89 @@
 {
   "sources": {
+    "anvil_crushing_recipes": {
+      "id": "anvil_crushing_recipes",
+      "name": "Anvil Crushing Recipes",
+      "version": "1.3.14",
+      "url": "https://modrinth.com/mod/anvil-crushing-recipes"
+    },
+    "telepass": {
+      "id": "telepass",
+      "name": "Telepass",
+      "version": "5.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/telepass"
+    },
+    "ring_of_miner": {
+      "id": "ring_of_miner",
+      "name": "Ring Of Miner",
+      "version": "1.6.30",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ring-of-the-miner-fabric"
+    },
+    "rpgdifficulty": {
+      "id": "rpgdifficulty",
+      "name": "RpgDifficulty",
+      "version": "1.1.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rpgdifficulty"
+    },
+    "terrestria-common": {
+      "id": "terrestria-common",
+      "name": "Terrestria: Common",
+      "version": "6.3.0",
+      "url": null
+    },
+    "ingotcraft": {
+      "id": "ingotcraft",
+      "name": "IngotCraft",
+      "version": "1.20.6-2.4.1-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
+    },
+    "xtraarrows": {
+      "id": "xtraarrows",
+      "name": "Xtra Arrows 3",
+      "version": "3.1.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xtra-arrows"
+    },
+    "terralith": {
+      "id": "terralith",
+      "name": "Terralith",
+      "version": "2.5.1",
+      "url": "https://www.stardustlabs.net/"
+    },
+    "redbits-common": {
+      "id": "redbits-common",
+      "name": "Red Bits",
+      "version": "1.16.5",
+      "url": "http://darktree.net/"
+    },
+    "through-the-lilypads-gently": {
+      "id": "through-the-lilypads-gently",
+      "name": "Through the lily pads, gently",
+      "version": "1.1.1",
+      "url": "https://modrinth.com/mod/through-the-lily-pads-gently"
+    },
+    "gobber2": {
+      "id": "gobber2",
+      "name": "Gobber2",
+      "version": "2.9.39",
+      "url": ""
+    },
+    "cinderscapes-common": {
+      "id": "cinderscapes-common",
+      "name": "Cinderscapes: Common",
+      "version": "4.3.1",
+      "url": null
+    },
+    "energizedpower": {
+      "id": "energizedpower",
+      "name": "Energized Power",
+      "version": "1.20.6-2.11.0-fabric",
+      "url": "https://github.com/JDDev0/EnergizedPower"
+    },
+    "advancedgolems": {
+      "id": "advancedgolems",
+      "name": "Advanced Golems",
+      "version": "1.20.6-1.5.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-golems-fabric"
+    },
     "axesareweapons": {
       "id": "axesareweapons",
       "name": "Axes Are Weapons",
@@ -11,6 +95,18 @@
       "name": "Basic Weapons",
       "version": "1.2.1",
       "url": "https://basicweapons.khazoda.com"
+    },
+    "more_gems": {
+      "id": "more_gems",
+      "name": "More Gems",
+      "version": "1.6.29",
+      "url": ""
+    },
+    "pearfection": {
+      "id": "pearfection",
+      "name": "Pearfection",
+      "version": "1.2.2",
+      "url": null
     },
     "blockus": {
       "id": "blockus",
@@ -24,23 +120,11 @@
       "version": "2.0.5",
       "url": null
     },
-    "redbits-common": {
-      "id": "redbits-common",
-      "name": "Red Bits",
-      "version": "1.16.5",
-      "url": "http://darktree.net/"
-    },
     "sereneseasons": {
       "id": "sereneseasons",
       "name": "SereneSeasons",
       "version": "9.4.0.5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons"
-    },
-    "through-the-lilypads-gently": {
-      "id": "through-the-lilypads-gently",
-      "name": "Through the lily pads, gently",
-      "version": "1.1.1",
-      "url": "https://modrinth.com/mod/through-the-lily-pads-gently"
     },
     "combat-plus-core": {
       "id": "combat-plus-core",
@@ -54,11 +138,23 @@
       "version": "1.5.29",
       "url": "https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric"
     },
+    "balm-fabric": {
+      "id": "balm-fabric",
+      "name": "Balm",
+      "version": "10.3.2",
+      "url": "https://mods.twelveiterations.com/"
+    },
     "extra-damage-enchantments": {
       "id": "extra-damage-enchantments",
       "name": "Extra Damage Enchantments",
       "version": "1.3.0+1.20.6",
       "url": "https://github.com/Provismet/Extra-Damage-Enchantments"
+    },
+    "resourceful_tools": {
+      "id": "resourceful_tools",
+      "name": "Resourceful Tools",
+      "version": "1.5.29",
+      "url": ""
     },
     "pugh_tools": {
       "id": "pugh_tools",
@@ -66,17 +162,17 @@
       "version": "1.7.18",
       "url": ""
     },
-    "more_gems": {
-      "id": "more_gems",
-      "name": "More Gems",
-      "version": "1.6.29",
-      "url": ""
+    "additional-armoury": {
+      "id": "additional-armoury",
+      "name": "Additional Armoury",
+      "version": "1.0.3+1.20.6",
+      "url": "https://github.com/Provismet/Additional-Armoury"
     },
-    "terralith": {
-      "id": "terralith",
-      "name": "Terralith",
-      "version": "2.5.1",
-      "url": "https://www.stardustlabs.net/"
+    "resource_cracker": {
+      "id": "resource_cracker",
+      "name": "Resource Cracker",
+      "version": "1.12.1",
+      "url": "https://github.com/Stein-N/Resource-Cracker"
     },
     "pigsteel": {
       "id": "pigsteel",
@@ -90,11 +186,11 @@
       "version": "8.0.1+1.20.6",
       "url": null
     },
-    "additional-armoury": {
-      "id": "additional-armoury",
-      "name": "Additional Armoury",
-      "version": "1.0.3+1.20.6",
-      "url": "https://github.com/Provismet/Additional-Armoury"
+    "traverse-common": {
+      "id": "traverse-common",
+      "name": "Traverse: Common",
+      "version": "7.3.0",
+      "url": null
     },
     "enchancement": {
       "id": "enchancement",
@@ -108,23 +204,11 @@
       "version": "18.4.0.5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
     },
-    "ring_of_miner": {
-      "id": "ring_of_miner",
-      "name": "Ring Of Miner",
-      "version": "1.6.30",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ring-of-the-miner-fabric"
-    },
-    "terrestria-common": {
-      "id": "terrestria-common",
-      "name": "Terrestria: Common",
-      "version": "6.3.0",
+    "veggie_way": {
+      "id": "veggie_way",
+      "name": "The Veggie Way",
+      "version": "1.5.30",
       "url": null
-    },
-    "advancedgolems": {
-      "id": "advancedgolems",
-      "name": "Advanced Golems",
-      "version": "1.20.6-1.5.2",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-golems-fabric"
     },
     "bronze": {
       "id": "bronze",
@@ -138,29 +222,29 @@
       "version": "4.0.0+1.20.6",
       "url": "https://sites.google.com/view/moritz-htk/mods/better-mcdonalds-mod"
     },
-    "energizedpower": {
-      "id": "energizedpower",
-      "name": "Energized Power",
-      "version": "1.20.6-2.11.0-fabric",
-      "url": "https://github.com/JDDev0/EnergizedPower"
-    },
-    "gobber2": {
-      "id": "gobber2",
-      "name": "Gobber2",
-      "version": "2.9.39",
-      "url": ""
-    },
-    "pearfection": {
-      "id": "pearfection",
-      "name": "Pearfection",
-      "version": "1.2.2",
-      "url": null
+    "toms_storage": {
+      "id": "toms_storage",
+      "name": "Tom's Simple Storage Mod",
+      "version": "1.6.16",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
     },
     "crockpot": {
       "id": "crockpot",
       "name": "Crock Pot",
       "version": "1.14.1+1.20.6",
       "url": "https://github.com/Nosrick"
+    },
+    "slimyboyos": {
+      "id": "slimyboyos",
+      "name": "SlimyBoyos",
+      "version": "12.0.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/slimyboyos"
+    },
+    "nullscape": {
+      "id": "nullscape",
+      "name": "Nullscape",
+      "version": "1.2.5",
+      "url": "https://www.stardustlabs.net/"
     },
     "extended-enchanting": {
       "id": "extended-enchanting",
@@ -180,29 +264,17 @@
       "version": "1.7.20",
       "url": "https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric"
     },
-    "balm-fabric": {
-      "id": "balm-fabric",
-      "name": "Balm",
-      "version": "10.3.2",
-      "url": "https://mods.twelveiterations.com/"
-    },
-    "ingotcraft": {
-      "id": "ingotcraft",
-      "name": "IngotCraft",
-      "version": "1.20.6-2.4.1-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
-    },
-    "slimyboyos": {
-      "id": "slimyboyos",
-      "name": "SlimyBoyos",
-      "version": "12.0.1",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/slimyboyos"
-    },
     "fabricaeexnihilo": {
       "id": "fabricaeexnihilo",
       "name": "FabricaeExNihilo",
       "version": "2.0.0+mc1.20.6",
       "url": null
+    },
+    "greater_eye": {
+      "id": "greater_eye",
+      "name": "Greater Eye of Ender",
+      "version": "1.6.29",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/greater-eye-of-ender-fabric"
     },
     "enderite": {
       "id": "enderite",
@@ -210,17 +282,11 @@
       "version": "1.20.5-2.1.4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/enderite-cj-edition/"
     },
-    "traverse-common": {
-      "id": "traverse-common",
-      "name": "Traverse: Common",
-      "version": "7.3.0",
-      "url": null
-    },
-    "resource_cracker": {
-      "id": "resource_cracker",
-      "name": "Resource Cracker",
-      "version": "1.12.1",
-      "url": "https://github.com/Stein-N/Resource-Cracker"
+    "advancednetherite": {
+      "id": "advancednetherite",
+      "name": "Advanced Netherite",
+      "version": "2.1.2-1.20.6",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric"
     },
     "fabric-convention-tags-v2": {
       "id": "fabric-convention-tags-v2",
@@ -228,23 +294,17 @@
       "version": "2.1.1+4152abe8b0",
       "url": "https://fabricmc.net"
     },
+    "mining_dims": {
+      "id": "mining_dims",
+      "name": "Mining Dimensions",
+      "version": "1.6.31",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
+    },
     "resource_nether_ores": {
       "id": "resource_nether_ores",
       "name": "Resource Nether Ores",
       "version": "1.0.1",
       "url": "https://fabricmc.net/"
-    },
-    "xtraarrows": {
-      "id": "xtraarrows",
-      "name": "Xtra Arrows 3",
-      "version": "3.1.1",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/xtra-arrows"
-    },
-    "veggie_way": {
-      "id": "veggie_way",
-      "name": "The Veggie Way",
-      "version": "1.5.30",
-      "url": null
     },
     "the_bumblezone": {
       "id": "the_bumblezone",
@@ -252,23 +312,17 @@
       "version": "7.5.0+1.20.6-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
-    "advancednetherite": {
-      "id": "advancednetherite",
-      "name": "Advanced Netherite",
-      "version": "2.1.2-1.20.6",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric"
-    },
     "usefulhats": {
       "id": "usefulhats",
       "name": "Useful Hats",
       "version": "1.20.6-5.2.0.0",
       "url": "https://github.com/cech12/UsefulHats"
     },
-    "toms_storage": {
-      "id": "toms_storage",
-      "name": "Tom's Simple Storage Mod",
-      "version": "1.6.16",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
+    "mob_catcher": {
+      "id": "mob_catcher",
+      "name": "Mob Catcher",
+      "version": "1.4.26",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric"
     },
     "foodtxf": {
       "id": "foodtxf",
@@ -276,23 +330,47 @@
       "version": "1.20.6-1.6.2-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
     },
-    "nullscape": {
-      "id": "nullscape",
-      "name": "Nullscape",
-      "version": "1.2.5",
-      "url": "https://www.stardustlabs.net/"
+    "walljump": {
+      "id": "walljump",
+      "name": "Wall-Jump TXF",
+      "version": "1.20.6-1.1.6-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf"
     },
-    "anvil_crushing_recipes": {
-      "id": "anvil_crushing_recipes",
-      "name": "Anvil Crushing Recipes",
-      "version": "1.3.14",
-      "url": "https://modrinth.com/mod/anvil-crushing-recipes"
+    "mo_glass": {
+      "id": "mo_glass",
+      "name": "Mo Glass",
+      "version": "1.8.1-MC1.20.6",
+      "url": "https://www.wimods.net/mo-glass/?utm_source=Mo+Glass&utm_medium=ModMenu&utm_content=Mo+Glass+ModMenu+website+link"
     },
-    "cinderscapes-common": {
-      "id": "cinderscapes-common",
-      "name": "Cinderscapes: Common",
-      "version": "4.3.1",
+    "material_beacons": {
+      "id": "material_beacons",
+      "name": "Material Beacons",
+      "version": "1.0.0",
+      "url": "https://fabricmc.net/"
+    },
+    "ironladders": {
+      "id": "ironladders",
+      "name": "Iron Ladders",
+      "version": "2.2.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/iron-ladders"
+    },
+    "basalt-crusher": {
+      "id": "basalt-crusher",
+      "name": "Basalt Crusher",
+      "version": "1.8.2",
       "url": null
+    },
+    "desolation": {
+      "id": "desolation",
+      "name": "Desolation",
+      "version": "1.6.0-beta.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/desolation"
+    },
+    "leaves_us_in_peace": {
+      "id": "leaves_us_in_peace",
+      "name": "Leaves Us In Peace",
+      "version": "1.0.22",
+      "url": "https://modrinth.com/mod/leaves-us-in-peace"
     }
   },
   "items": [
@@ -630,17 +708,17 @@
         {
           "value": "#c:nuggets/gold",
           "sources": [
+            "ingotcraft",
             "balm-fabric",
-            "foodtxf",
-            "ingotcraft"
+            "foodtxf"
           ]
         },
         {
           "value": "#c:nuggets/iron",
           "sources": [
+            "ingotcraft",
             "balm-fabric",
-            "foodtxf",
-            "ingotcraft"
+            "foodtxf"
           ]
         },
         {
@@ -670,8 +748,8 @@
         {
           "value": "#c:nuggets/copper",
           "sources": [
-            "ingotcraft",
-            "resource_cracker"
+            "resource_cracker",
+            "ingotcraft"
           ]
         },
         {
@@ -721,10 +799,10 @@
           "value": "minecraft:gold_nugget",
           "sources": [
             "balm-fabric",
-            "usefulhats",
             "foodtxf",
-            "energizedpower",
-            "ingotcraft"
+            "usefulhats",
+            "ingotcraft",
+            "energizedpower"
           ]
         }
       ]
@@ -737,9 +815,9 @@
         {
           "value": "minecraft:iron_nugget",
           "sources": [
-            "balm-fabric",
-            "energizedpower",
             "ingotcraft",
+            "energizedpower",
+            "balm-fabric",
             "foodtxf"
           ]
         }
@@ -754,21 +832,24 @@
           "value": "minecraft:andesite",
           "sources": [
             "balm-fabric",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:diorite",
           "sources": [
             "balm-fabric",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:granite",
           "sources": [
             "balm-fabric",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "resourceful_tools"
           ]
         },
         {
@@ -806,7 +887,8 @@
           "value": "minecraft:deepslate",
           "sources": [
             "balm-fabric",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "resourceful_tools"
           ]
         },
         {
@@ -825,7 +907,14 @@
           "value": "minecraft:tuff",
           "sources": [
             "balm-fabric",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "resourceful_tools"
+          ]
+        },
+        {
+          "value": "minecraft:cobblestone",
+          "sources": [
+            "resourceful_tools"
           ]
         },
         {
@@ -2043,8 +2132,8 @@
         {
           "value": "minecraft:porkchop",
           "sources": [
-            "foodtxf",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "foodtxf"
           ]
         },
         {
@@ -4461,8 +4550,8 @@
         {
           "value": "minecraft:ender_pearl",
           "sources": [
-            "energizedpower",
-            "toms_storage"
+            "toms_storage",
+            "energizedpower"
           ]
         }
       ]
@@ -4501,9 +4590,9 @@
         {
           "value": "minecraft:glass",
           "sources": [
+            "toms_storage",
             "energizedpower",
             "ingotcraft",
-            "toms_storage",
             "foodtxf"
           ]
         }
@@ -6584,61 +6673,81 @@
         {
           "value": "minecraft:leather",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:rabbit_hide",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:feather",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:slime_ball",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:gunpowder",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:iron_ingot",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:gold_ingot",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:ender_pearl",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:blaze_powder",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:quartz",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
@@ -6666,6 +6775,12 @@
           },
           "sources": [
             "more_gems"
+          ]
+        },
+        {
+          "value": "resourceful_tools:hook_knife",
+          "sources": [
+            "resourceful_tools"
           ]
         },
         {
@@ -6732,15 +6847,15 @@
         {
           "value": "minecraft:diamond_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:deepslate_diamond_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -6753,15 +6868,15 @@
         {
           "value": "minecraft:emerald_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:deepslate_emerald_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -6822,15 +6937,15 @@
         {
           "value": "minecraft:gold_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:deepslate_gold_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -6843,15 +6958,15 @@
         {
           "value": "minecraft:iron_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:deepslate_iron_ore",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -6864,29 +6979,37 @@
         {
           "value": "minecraft:netherite_scrap",
           "sources": [
+            "veggie_way",
             "gobber2",
-            "veggie_way"
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:prismarine_shard",
           "sources": [
+            "veggie_way",
             "gobber2",
-            "veggie_way"
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:prismarine_crystals",
           "sources": [
+            "veggie_way",
             "gobber2",
-            "veggie_way"
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:nautilus_shell",
           "sources": [
+            "veggie_way",
             "gobber2",
-            "veggie_way"
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
@@ -6920,6 +7043,12 @@
           ]
         },
         {
+          "value": "greater_eye:greater_eye_nether",
+          "sources": [
+            "greater_eye"
+          ]
+        },
+        {
           "value": {
             "id": "more_gems:corundum_juju",
             "required": false
@@ -6936,6 +7065,12 @@
           "sources": [
             "more_gems"
           ]
+        },
+        {
+          "value": "resourceful_tools:crack_hammer_copper",
+          "sources": [
+            "resourceful_tools"
+          ]
         }
       ]
     },
@@ -6947,43 +7082,57 @@
         {
           "value": "minecraft:diamond",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:emerald",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:shulker_shell",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:rabbit_foot",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:heart_of_the_sea",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:blaze_rod",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:ghast_tear",
           "sources": [
-            "gobber2"
+            "gobber2",
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
@@ -6996,6 +7145,12 @@
           "value": "gobber2:gobber2_arrow",
           "sources": [
             "gobber2"
+          ]
+        },
+        {
+          "value": "greater_eye:greater_eye",
+          "sources": [
+            "greater_eye"
           ]
         },
         {
@@ -7026,6 +7181,24 @@
           ]
         },
         {
+          "value": "resourceful_tools:hand_pick",
+          "sources": [
+            "resourceful_tools"
+          ]
+        },
+        {
+          "value": "resourceful_tools:tree_trimmer",
+          "sources": [
+            "resourceful_tools"
+          ]
+        },
+        {
+          "value": "resourceful_tools:crack_hammer",
+          "sources": [
+            "resourceful_tools"
+          ]
+        },
+        {
           "value": "veggie_way:superfood_shake",
           "sources": [
             "veggie_way"
@@ -7053,15 +7226,19 @@
         {
           "value": "minecraft:totem_of_undying",
           "sources": [
+            "veggie_way",
             "gobber2",
-            "veggie_way"
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:elytra",
           "sources": [
+            "veggie_way",
             "gobber2",
-            "veggie_way"
+            "greater_eye",
+            "resourceful_tools"
           ]
         },
         {
@@ -7095,6 +7272,12 @@
           ]
         },
         {
+          "value": "greater_eye:greater_eye_end",
+          "sources": [
+            "greater_eye"
+          ]
+        },
+        {
           "value": {
             "id": "more_gems:spinel_juju",
             "required": false
@@ -7110,6 +7293,12 @@
           },
           "sources": [
             "more_gems"
+          ]
+        },
+        {
+          "value": "resourceful_tools:crack_hammer_diamond",
+          "sources": [
+            "resourceful_tools"
           ]
         }
       ]
@@ -8489,6 +8678,12 @@
       "sources": [],
       "content": [
         {
+          "value": "resourceful_tools:bamboo_sheet",
+          "sources": [
+            "resourceful_tools"
+          ]
+        },
+        {
           "value": "veggie_way:bamboo_sheet",
           "sources": [
             "veggie_way"
@@ -8566,6 +8761,12 @@
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "resourceful_tools:large_bamboo_sheet",
+          "sources": [
+            "resourceful_tools"
+          ]
+        },
         {
           "value": "veggie_way:large_bamboo_sheet",
           "sources": [
@@ -9115,120 +9316,120 @@
         {
           "value": "minecraft:shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:white_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:orange_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:magenta_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:light_blue_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:yellow_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:lime_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:pink_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:gray_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:light_gray_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:cyan_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:purple_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:blue_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:brown_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:green_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:red_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:black_shulker_box",
           "sources": [
-            "the_bumblezone",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "the_bumblezone"
           ]
         }
       ]
@@ -9241,97 +9442,113 @@
         {
           "value": "minecraft:white_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:orange_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:magenta_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:light_blue_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:yellow_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:lime_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:pink_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:gray_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:light_gray_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:cyan_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:purple_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:blue_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:brown_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:green_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:red_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:black_stained_glass_pane",
           "sources": [
-            "the_bumblezone"
+            "the_bumblezone",
+            "mo_glass"
           ]
         }
       ]
@@ -10340,6 +10557,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:black_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:black_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -10418,6 +10647,18 @@
           "value": "minecraft:blue_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -10498,6 +10739,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:brown_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:brown_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -10576,6 +10829,18 @@
           "value": "minecraft:cyan_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:cyan_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:cyan_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -10656,6 +10921,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -10734,6 +11011,18 @@
           "value": "minecraft:green_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:green_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:green_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -10814,6 +11103,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:light_blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -10892,6 +11193,18 @@
           "value": "minecraft:light_gray_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:light_gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -10972,6 +11285,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:lime_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:lime_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -11050,6 +11375,18 @@
           "value": "minecraft:magenta_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:magenta_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:magenta_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -11130,6 +11467,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:orange_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:orange_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -11208,6 +11557,18 @@
           "value": "minecraft:pink_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:pink_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:pink_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -11288,6 +11649,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:purple_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:purple_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -11366,6 +11739,18 @@
           "value": "minecraft:red_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:red_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:red_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -11446,6 +11831,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:white_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:white_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -11524,6 +11921,18 @@
           "value": "minecraft:yellow_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:yellow_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:yellow_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -12357,6 +12766,24 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "#c:clear_glass_blocks",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "#c:stained_glass_blocks",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "#c:tinted_glass_blocks",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -12465,6 +12892,18 @@
           "value": "minecraft:red_stained_glass_pane",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#c:clear_glass_panes",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "#c:stained_glass_panes",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -13819,6 +14258,24 @@
       "sources": [],
       "content": [
         {
+          "value": "minecraft:basalt",
+          "sources": [
+            "basalt-crusher"
+          ]
+        },
+        {
+          "value": "minecraft:polished_basalt",
+          "sources": [
+            "basalt-crusher"
+          ]
+        },
+        {
+          "value": "minecraft:smooth_basalt",
+          "sources": [
+            "basalt-crusher"
+          ]
+        },
+        {
           "value": "terrestria:basalt_bricks",
           "sources": [
             "terrestria-common"
@@ -13935,6 +14392,1464 @@
           "value": "terrestria:smooth_basalt",
           "sources": [
             "terrestria-common"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravel",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "basalt-crusher:black_gravel",
+          "sources": [
+            "basalt-crusher"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copper_ingots",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:copper_ingot",
+          "sources": [
+            "ironladders"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diamond_nuggets",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mining_dims:diamond_nugget",
+          "sources": [
+            "mining_dims"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "black_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:black_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "black_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:black_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "black_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:black_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "black_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:black_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blue_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:blue_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blue_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:blue_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blue_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blue_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brown_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:brown_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brown_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:brown_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brown_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:brown_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brown_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:brown_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clear_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clear_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clear_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clear_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyan_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:cyan_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyan_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:cyan_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyan_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:cyan_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyan_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:cyan_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mo_glass:glass_slabs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mo_glass:glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gray_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:gray_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gray_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:gray_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gray_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gray_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "green_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:green_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "green_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:green_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "green_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:green_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "green_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:green_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_blue_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:light_blue_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_blue_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:light_blue_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_blue_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:light_blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_blue_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:light_blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_gray_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:light_gray_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_gray_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:light_gray_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_gray_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:light_gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light_gray_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:light_gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lime_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:lime_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lime_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:lime_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lime_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:lime_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lime_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:lime_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magenta_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:magenta_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magenta_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:magenta_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magenta_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:magenta_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magenta_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:magenta_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orange_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:orange_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orange_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:orange_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orange_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:orange_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orange_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:orange_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pink_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:pink_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pink_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:pink_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pink_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:pink_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pink_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:pink_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purple_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:purple_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purple_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:purple_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purple_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:purple_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purple_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:purple_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:red_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:red_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:red_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:red_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stained_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:white_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:orange_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:magenta_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:light_blue_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:yellow_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:lime_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:pink_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:gray_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:light_gray_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:cyan_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:purple_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:blue_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:brown_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:green_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:red_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "minecraft:black_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stained_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:white_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:orange_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:magenta_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:yellow_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:lime_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:pink_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:cyan_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:purple_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:brown_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:green_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:red_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:black_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stained_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:white_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:orange_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:magenta_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:yellow_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:lime_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:pink_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:cyan_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:purple_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:brown_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:green_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:red_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:black_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tinted_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:tinted_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tinted_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:tinted_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tinted_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:tinted_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "white_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:white_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "white_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:white_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "white_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:white_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "white_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:white_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yellow_glass_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:yellow_stained_glass",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yellow_glass_panes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:yellow_stained_glass_pane",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yellow_glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:yellow_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yellow_glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mo_glass:yellow_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coal_dusts",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:powder_carbon",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copper_dusts",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:powder_copper",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copper_nuggets",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:copper_nugget",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copper_ores",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:copper_ore",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crack_hammers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:crack_hammer",
+          "sources": [
+            "resourceful_tools"
+          ]
+        },
+        {
+          "value": "resourceful_tools:crack_hammer_copper",
+          "sources": [
+            "resourceful_tools"
+          ]
+        },
+        {
+          "value": "resourceful_tools:crack_hammer_diamond",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gold_dusts",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:powder_gold",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iron_dusts",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:powder_iron",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_tin_ores",
+      "replaced_by": [],
+      "sources": [],
+      "content": []
+    },
+    {
+      "id": "steel_dusts",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:powder_steel",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tin_dusts",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "resourceful_tools:powder_tin",
+          "sources": [
+            "resourceful_tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diamonds",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:diamond",
+          "sources": [
+            "telepass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gold_ingots",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:gold_ingot",
+          "sources": [
+            "telepass"
           ]
         }
       ]
@@ -15106,9 +17021,9 @@
         {
           "value": "minecraft:end_stone",
           "sources": [
-            "enderite",
+            "ring_of_miner",
             "gobber2",
-            "ring_of_miner"
+            "enderite"
           ]
         },
         {
@@ -15178,8 +17093,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15188,8 +17103,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15198,8 +17113,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15208,8 +17123,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15218,8 +17133,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15228,8 +17143,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15238,8 +17153,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15257,8 +17172,8 @@
             "required": false
           },
           "sources": [
-            "terralith",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "terralith"
           ]
         },
         {
@@ -15789,8 +17704,8 @@
         {
           "value": "minecraft:glass",
           "sources": [
-            "foodtxf",
-            "ingotcraft"
+            "ingotcraft",
+            "foodtxf"
           ]
         }
       ]
@@ -15816,8 +17731,8 @@
         {
           "value": "minecraft:clay",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -15830,17 +17745,17 @@
         {
           "value": "minecraft:cobblestone",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:mossy_cobblestone",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
@@ -15872,29 +17787,29 @@
         {
           "value": "minecraft:dirt",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:podzol",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:mycelium",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:coarse_dirt",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
@@ -15912,8 +17827,8 @@
         {
           "value": "minecraft:grass_block",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
@@ -16040,8 +17955,8 @@
         {
           "value": "minecraft:netherrack",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -16054,15 +17969,15 @@
         {
           "value": "minecraft:sand",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:red_sand",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
@@ -16081,15 +17996,15 @@
         {
           "value": "minecraft:sandstone",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:red_sandstone",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -16102,15 +18017,15 @@
         {
           "value": "minecraft:soul_sand",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:soul_soil",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         }
       ]
@@ -16123,203 +18038,203 @@
         {
           "value": "minecraft:stone",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:andesite",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:diorite",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:granite",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:tuff",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:deepslate",
           "sources": [
+            "ring_of_miner",
             "gobber2",
-            "fabric-convention-tags-v2",
-            "ring_of_miner"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:calcite",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:dripstone_block",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:basalt",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:smooth_basalt",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:blackstone",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:white_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:orange_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:magenta_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:light_blue_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:yellow_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:lime_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:pink_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:gray_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:light_gray_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:cyan_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:purple_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:blue_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:brown_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:green_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:red_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
           "value": "minecraft:black_terracotta",
           "sources": [
-            "gobber2",
-            "ring_of_miner"
+            "ring_of_miner",
+            "gobber2"
           ]
         },
         {
@@ -17215,6 +19130,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:black_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:black_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -17299,6 +19226,18 @@
           "value": "minecraft:blue_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -17385,6 +19324,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:brown_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:brown_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -17469,6 +19420,18 @@
           "value": "minecraft:cyan_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:cyan_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:cyan_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -17555,6 +19518,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -17639,6 +19614,18 @@
           "value": "minecraft:green_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:green_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:green_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -17725,6 +19712,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:light_blue_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_blue_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -17809,6 +19808,18 @@
           "value": "minecraft:light_gray_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:light_gray_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:light_gray_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -17895,6 +19906,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:lime_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:lime_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -17979,6 +20002,18 @@
           "value": "minecraft:magenta_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:magenta_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:magenta_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -18065,6 +20100,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:orange_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:orange_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -18149,6 +20196,18 @@
           "value": "minecraft:pink_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:pink_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:pink_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -18235,6 +20294,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:purple_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:purple_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -18319,6 +20390,18 @@
           "value": "minecraft:red_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:red_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:red_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -18405,6 +20488,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mo_glass:white_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:white_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
+          ]
         }
       ]
     },
@@ -18489,6 +20584,18 @@
           "value": "minecraft:yellow_wool",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mo_glass:yellow_stained_glass_slab",
+          "sources": [
+            "mo_glass"
+          ]
+        },
+        {
+          "value": "mo_glass:yellow_stained_glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -19322,6 +21429,294 @@
           ]
         },
         {
+          "value": "stripped_acacia_log",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_birch_log",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_dark_oak_log",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_jungle_log",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_oak_log",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_spruce_log",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_crimson_stem",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_warped_stem",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "#c:stripped_woods",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "promenade:stripped_cherry_oak_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "promenade:stripped_palm_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_blue_enchanted_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_boabab_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_cherry_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_cika_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_cypress_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_ebony_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_ether_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_fir_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_green_enchanted_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_holly_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_imbued_nightshade_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_lament_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_mahogany_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_maple_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_nightshade_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_palm_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_palo_verde_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_pine_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_redlog_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_skyris_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_white_mangrove_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_willow_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_witch_hazel_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_withering_oak_log",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
           "value": "terrestria:stripped_small_oak_log",
           "sources": [
             "terrestria-common"
@@ -19602,6 +21997,751 @@
           "value": "terrestria:smooth_basalt",
           "sources": [
             "terrestria-common"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravel",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "basalt-crusher:black_gravel",
+          "sources": [
+            "basalt-crusher"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stripped_woods",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "stripped_acacia_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_birch_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_dark_oak_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_jungle_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_oak_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_spruce_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_crimson_hyphae",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "stripped_warped_hyphae",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "promenade:stripped_cherry_oak_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "promenade:stripped_palm_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_blue_enchanted_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_boabab_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_cherry_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_cika_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_cypress_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_ebony_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_ether_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_fir_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_green_enchanted_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_holly_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_imbued_nightshade_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_lament_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_mahogany_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_maple_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_nightshade_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_palm_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_palo_verde_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_pine_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_redwood_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_skyris_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_white_mangrove_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_willow_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_witch_hazel_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:stripped_withering_oak_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "woods",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "acacia_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "birch_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "dark_oak_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "jungle_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "oak_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "spruce_wood",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "crimson_hyphae",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "warped_hyphae",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": "#c:stripped_woods",
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "promenade:cherry_oak_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "promenade:palm_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:blue_enchanted_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:boabab_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:cherry_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:cika_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:cypress_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:ebony_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:ether_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:fir_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:green_enchanted_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:holly_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:imbued_nightshade_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:lament_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:mahogany_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:maple_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:nightshade_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:palm_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:palo_verde_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:pine_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:redwood_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:skyris_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:white_mangrove_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:willow_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:witch_hazel_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        },
+        {
+          "value": {
+            "id": "byg:withering_oak_wood",
+            "required": false
+          },
+          "sources": [
+            "leaves_us_in_peace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copper_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:copper_block",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:exposed_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:weathered_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:oxidized_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_copper_block",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_exposed_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_weathered_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_oxidized_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:exposed_cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:weathered_cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:oxidized_cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "sources": [
+            "material_beacons"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purpur_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:purpur_block",
+          "sources": [
+            "material_beacons"
+          ]
+        },
+        {
+          "value": "minecraft:purpur_pillar",
+          "sources": [
+            "material_beacons"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_slabs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mo_glass:glass_slabs",
+          "sources": [
+            "mo_glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_stairs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mo_glass:glass_stairs",
+          "sources": [
+            "mo_glass"
           ]
         }
       ]
@@ -19900,6 +23040,12 @@
           "value": "minecraft:wither",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:warden",
+          "sources": [
+            "rpgdifficulty"
           ]
         },
         {
@@ -20778,6 +23924,33 @@
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": {
+            "id": "desolation:charred_forest",
+            "required": false
+          },
+          "sources": [
+            "desolation"
+          ]
+        },
+        {
+          "value": {
+            "id": "desolation:charred_forest_clearing",
+            "required": false
+          },
+          "sources": [
+            "desolation"
+          ]
+        },
+        {
+          "value": {
+            "id": "desolation:charred_forest_small",
+            "required": false
+          },
+          "sources": [
+            "desolation"
+          ]
+        },
         {
           "value": "terralith:alpha_islands",
           "sources": [
@@ -25000,6 +28173,33 @@
       "content": [
         {
           "value": {
+            "id": "desolation:charred_forest",
+            "required": false
+          },
+          "sources": [
+            "desolation"
+          ]
+        },
+        {
+          "value": {
+            "id": "desolation:charred_forest_clearing",
+            "required": false
+          },
+          "sources": [
+            "desolation"
+          ]
+        },
+        {
+          "value": {
+            "id": "desolation:charred_forest_small",
+            "required": false
+          },
+          "sources": [
+            "desolation"
+          ]
+        },
+        {
+          "value": {
             "id": "terrestria:caldera",
             "required": false
           },
@@ -25518,6 +28718,24 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "walljump:wall_jump",
+          "sources": [
+            "walljump"
+          ]
+        },
+        {
+          "value": "walljump:double_jump",
+          "sources": [
+            "walljump"
+          ]
+        },
+        {
+          "value": "walljump:speed_boost",
+          "sources": [
+            "walljump"
           ]
         }
       ]

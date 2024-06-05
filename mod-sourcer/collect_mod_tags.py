@@ -10,7 +10,7 @@ from datastructures import *
 
 build_dir = Path('build')
 
-TAG_PATTERN = re.compile("^data/c/tags/(items|blocks|fluids|entity_types|game_events|worldgen/biome)/(.*).json$")
+TAG_PATTERN = re.compile("^data/c/tags/(items|blocks|fluids|entity_types|worldgen/biome|enchantment)/(.*).json$")
 
 
 def load_tags(mod_jar: ZipFile, source: TagSource, tags: TagContainer):

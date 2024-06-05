@@ -104,8 +104,8 @@ class TagContainer:
     blocks: Dict[str, Tag]
     fluids: Dict[str, Tag]
     entity_types: Dict[str, Tag]
-    game_events: Dict[str, Tag]
     worldgen_biome: Dict[str, Tag]
+    enchantment: Dict[str, Tag]
 
     def __init__(self) -> None:
         super().__init__()
@@ -114,8 +114,8 @@ class TagContainer:
         self.blocks = {}
         self.fluids = {}
         self.entity_types = {}
-        self.game_events = {}
         self.worldgen_biome = {}
+        self.enchantment = {}
 
     def add_tag(self, tag_type: str, source: TagSource, tag_id: str, tag_json: Dict):
         self.sources.add(source)
@@ -134,8 +134,8 @@ class TagContainer:
             'blocks': [x.to_json() for x in self.blocks.values()],
             'fluids': [x.to_json() for x in self.fluids.values()],
             'entity_types': [x.to_json() for x in self.entity_types.values()],
-            'game_events': [x.to_json() for x in self.game_events.values()],
             'worldgen_biome': [x.to_json() for x in self.worldgen_biome.values()],
+            'enchantment': [x.to_json() for x in self.enchantment.values()],
         }
 
     @classmethod
@@ -159,6 +159,6 @@ class TagContainer:
         tags.blocks = load_tags('blocks')
         tags.fluids = load_tags('fluids')
         tags.entity_types = load_tags('entity_types')
-        tags.game_events = load_tags('game_events')
         tags.worldgen_biome = load_tags('worldgen_biome')
+        tags.enchantment = load_tags('enchantment')
         return tags

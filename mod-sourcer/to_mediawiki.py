@@ -41,19 +41,19 @@ with open('tags.txt', 'wt') as out:
     generate_page(root['sources'], root['fluids'], out)
 
     print(file=out)
-    print('===== Entity Types Tags =====', file=out)
+    print('===== Entity Type Tags =====', file=out)
     print(file=out)
     generate_page(root['sources'], root['entity_types'], out)
-
-    print(file=out)
-    print('===== Game Events Tags =====', file=out)
-    print(file=out)
-    generate_page(root['sources'], root['game_events'], out)
 
     print(file=out)
     print('===== Biome Tags =====', file=out)
     print(file=out)
     generate_page(root['sources'], root['worldgen_biome'], out)
+    
+    print(file=out)
+    print('===== Enchantment Tags =====', file=out)
+    print(file=out)
+    generate_page(root['sources'], root['enchantment'], out)
 
     print(file=out)
     print('===== Sources =====', file=out)

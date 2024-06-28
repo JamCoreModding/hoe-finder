@@ -100,20 +100,20 @@ class Tag:
 
 class TagContainer:
     sources: Set[TagSource]
-    items: Dict[str, Tag]
-    blocks: Dict[str, Tag]
-    fluids: Dict[str, Tag]
-    entity_types: Dict[str, Tag]
+    item: Dict[str, Tag]
+    block: Dict[str, Tag]
+    fluid: Dict[str, Tag]
+    entity_type: Dict[str, Tag]
     worldgen_biome: Dict[str, Tag]
     enchantment: Dict[str, Tag]
 
     def __init__(self) -> None:
         super().__init__()
         self.sources = set()
-        self.items = {}
-        self.blocks = {}
-        self.fluids = {}
-        self.entity_types = {}
+        self.item = {}
+        self.block = {}
+        self.fluid = {}
+        self.entity_type = {}
         self.worldgen_biome = {}
         self.enchantment = {}
 
@@ -130,10 +130,10 @@ class TagContainer:
     def to_json(self) -> Dict:
         return {
             'sources': {source.mod_id: source.to_json() for source in self.sources},
-            'items': [x.to_json() for x in self.items.values()],
-            'blocks': [x.to_json() for x in self.blocks.values()],
-            'fluids': [x.to_json() for x in self.fluids.values()],
-            'entity_types': [x.to_json() for x in self.entity_types.values()],
+            'item': [x.to_json() for x in self.item.values()],
+            'block': [x.to_json() for x in self.block.values()],
+            'fluid': [x.to_json() for x in self.fluid.values()],
+            'entity_type': [x.to_json() for x in self.entity_type.values()],
             'worldgen_biome': [x.to_json() for x in self.worldgen_biome.values()],
             'enchantment': [x.to_json() for x in self.enchantment.values()],
         }
@@ -155,10 +155,10 @@ class TagContainer:
             tag_list = [Tag.from_json(x, sources) for x in json[key]]
             return {t.id: t for t in tag_list}
 
-        tags.items = load_tags('items')
-        tags.blocks = load_tags('blocks')
-        tags.fluids = load_tags('fluids')
-        tags.entity_types = load_tags('entity_types')
+        tags.item = load_tags('item')
+        tags.block = load_tags('block')
+        tags.fluid = load_tags('fluid')
+        tags.entity_type = load_tags('entity_type')
         tags.worldgen_biome = load_tags('worldgen_biome')
         tags.enchantment = load_tags('enchantment')
         return tags

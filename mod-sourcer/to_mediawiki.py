@@ -28,22 +28,22 @@ with open('tags.txt', 'wt') as out:
     print(file=out)
     print('===== Item Tags =====', file=out)
     print(file=out)
-    generate_page(root['sources'], root['items'], out)
+    generate_page(root['sources'], root['item'], out)
 
     print(file=out)
     print('===== Block Tags =====', file=out)
     print(file=out)
-    generate_page(root['sources'], root['blocks'], out)
+    generate_page(root['sources'], root['block'], out)
 
     print(file=out)
     print('===== Fluid Tags =====', file=out)
     print(file=out)
-    generate_page(root['sources'], root['fluids'], out)
+    generate_page(root['sources'], root['fluid'], out)
 
     print(file=out)
     print('===== Entity Type Tags =====', file=out)
     print(file=out)
-    generate_page(root['sources'], root['entity_types'], out)
+    generate_page(root['sources'], root['entity_type'], out)
 
     print(file=out)
     print('===== Biome Tags =====', file=out)

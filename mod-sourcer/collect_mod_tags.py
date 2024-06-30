@@ -46,7 +46,10 @@ def pull_mod_tags(mod_path: Path, tags: TagContainer):
             return False
 
         mod_id = fabric_mod_info['id']
-        mod_name = fabric_mod_info['name']
+        try:
+            mod_name = fabric_mod_info['name']
+        except KeyError:
+            mod_name = mod_id
         mod_version = fabric_mod_info['version']
         mod_url = fabric_mod_info.get('contact', {}).get('homepage', None)
 
@@ -61,8 +64,8 @@ def gather_all_tags(mod_folder: Path, tags: TagContainer):
     """
     Gather all convention tags from configured mods.
     """
-    for mob_path in mod_folder.glob("*.jar"):
-        pull_mod_tags(mob_path, tags)
+    for mod_path in mod_folder.glob("*.jar"):
+        pull_mod_tags(mod_path, tags)
 
     return True
 

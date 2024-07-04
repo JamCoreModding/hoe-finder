@@ -6,23 +6,23 @@
       "version": "10.0.2",
       "url": "https://minecraft.curseforge.com/projects/basic-nether-ores"
     },
-    "tommylib": {
-      "id": "tommylib",
-      "name": "TommyLib",
-      "version": "16.0.1",
-      "url": "https://github.com/thomasglasser/TommyLib"
-    },
     "better_mcdonalds_mod": {
       "id": "better_mcdonalds_mod",
       "name": "Better McDonald's Mod",
       "version": "4.0.2+1.21",
       "url": "https://sites.google.com/view/moritz-htk/mods/better-mcdonalds-mod"
     },
-    "simple-gems": {
-      "id": "simple-gems",
-      "name": "Simple Gems Fabricated",
-      "version": "0.5.0+1.21",
-      "url": ""
+    "wilderwild": {
+      "id": "wilderwild",
+      "name": "Wilder Wild",
+      "version": "2.4.5-Fabric+1.21",
+      "url": "https://modrinth.com/mod/wilder-wild"
+    },
+    "woodenshears": {
+      "id": "woodenshears",
+      "name": "Wooden Shears",
+      "version": "1.21-3.1.1.0",
+      "url": "https://github.com/cech12/WoodenShears"
     },
     "desolation": {
       "id": "desolation",
@@ -30,71 +30,29 @@
       "version": "1.6.0-beta.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/desolation"
     },
-    "pearfection": {
-      "id": "pearfection",
-      "name": "Pearfection",
-      "version": "1.2.3",
+    "tommylib": {
+      "id": "tommylib",
+      "name": "TommyLib",
+      "version": "16.1.2",
+      "url": "https://github.com/thomasglasser/TommyLib"
+    },
+    "variantchests": {
+      "id": "variantchests",
+      "name": "Variant Chests",
+      "version": "2.0.1",
       "url": null
     },
-    "stringerthings": {
-      "id": "stringerthings",
-      "name": "Stringer Things",
-      "version": "1.5.0+1.21",
-      "url": null
+    "nullscape": {
+      "id": "nullscape",
+      "name": "Nullscape",
+      "version": "1.2.6",
+      "url": "https://www.stardustlabs.net/"
     },
-    "polyfactory": {
-      "id": "polyfactory",
-      "name": "PolyFactory",
-      "version": "0.4.0-pre.5+1.21",
-      "url": "https://pb4.eu"
-    },
-    "sereneseasons": {
-      "id": "sereneseasons",
-      "name": "SereneSeasons",
-      "version": "10.0.0.2",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons"
-    },
-    "personalplayer": {
-      "id": "personalplayer",
-      "name": "Personal Disc Player",
-      "version": "1.21-1.1.3",
-      "url": "https://github.com/DentedLeft/Dented-Modding"
-    },
-    "oritech": {
-      "id": "oritech",
-      "name": "Oritech",
-      "version": "0.6.1",
-      "url": null
-    },
-    "tinycoal": {
-      "id": "tinycoal",
-      "name": "TinyCoal",
-      "version": "1.0.2",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/tiny-coal"
-    },
-    "veggie_way": {
-      "id": "veggie_way",
-      "name": "The Veggie Way",
-      "version": "1.6.6",
-      "url": null
-    },
-    "mob_catcher": {
-      "id": "mob_catcher",
-      "name": "Mob Catcher",
-      "version": "1.5.5",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric"
-    },
-    "natures_spirit": {
-      "id": "natures_spirit",
-      "name": "Nature's Spirit",
-      "version": "1.5.3-1.21",
-      "url": null
-    },
-    "simple_backpack": {
-      "id": "simple_backpack",
-      "name": "SimpleBackpack",
-      "version": "1.6.8",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric"
+    "resource_cracker": {
+      "id": "resource_cracker",
+      "name": "Resource Cracker",
+      "version": "2.0.1",
+      "url": "https://github.com/Stein-N/Resource-Cracker"
     },
     "basalt-crusher": {
       "id": "basalt-crusher",
@@ -102,17 +60,17 @@
       "version": "1.9.1",
       "url": null
     },
-    "snowrealmagic": {
-      "id": "snowrealmagic",
-      "name": "Snow! Real Magic!",
-      "version": "11.0.2+fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/snowrealmagic"
-    },
     "balm-fabric": {
       "id": "balm-fabric",
       "name": "Balm",
       "version": "21.0.11",
       "url": "https://mods.twelveiterations.com/"
+    },
+    "tinycoal": {
+      "id": "tinycoal",
+      "name": "TinyCoal",
+      "version": "1.0.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tiny-coal"
     },
     "dramaticdoors": {
       "id": "dramaticdoors",
@@ -120,10 +78,22 @@
       "version": "1.21-3.2.2",
       "url": "https://www.curseforge.com/minecraft/mc-mods/dramatic-doors"
     },
-    "variantchests": {
-      "id": "variantchests",
-      "name": "Variant Chests",
-      "version": "2.0.1",
+    "mo_glass": {
+      "id": "mo_glass",
+      "name": "Mo Glass",
+      "version": "1.8.1-MC1.21",
+      "url": "https://www.wimods.net/mo-glass/?utm_source=Mo+Glass&utm_medium=ModMenu&utm_content=Mo+Glass+ModMenu+website+link"
+    },
+    "veggie_way": {
+      "id": "veggie_way",
+      "name": "The Veggie Way",
+      "version": "1.6.6",
+      "url": null
+    },
+    "pearfection": {
+      "id": "pearfection",
+      "name": "Pearfection",
+      "version": "1.2.3",
       "url": null
     },
     "crockpot": {
@@ -132,23 +102,77 @@
       "version": "1.14.3+1.21",
       "url": "https://github.com/Nosrick"
     },
-    "mo_glass": {
-      "id": "mo_glass",
-      "name": "Mo Glass",
-      "version": "1.8.1-MC1.21",
-      "url": "https://www.wimods.net/mo-glass/?utm_source=Mo+Glass&utm_medium=ModMenu&utm_content=Mo+Glass+ModMenu+website+link"
+    "simple_backpack": {
+      "id": "simple_backpack",
+      "name": "SimpleBackpack",
+      "version": "1.6.8",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric"
     },
-    "modern_beta": {
-      "id": "modern_beta",
-      "name": "Moderner Beta Fabric",
-      "version": "6.5+er1.3.1+1.21",
-      "url": "https://github.com/BlueStaggo/"
+    "sereneseasons": {
+      "id": "sereneseasons",
+      "name": "SereneSeasons",
+      "version": "10.0.0.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons"
+    },
+    "stringerthings": {
+      "id": "stringerthings",
+      "name": "Stringer Things",
+      "version": "1.5.0+1.21",
+      "url": null
+    },
+    "mining_dims": {
+      "id": "mining_dims",
+      "name": "Mining Dimensions",
+      "version": "1.7.7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
+    },
+    "quickiemod": {
+      "id": "quickiemod",
+      "name": "QuickieMod",
+      "version": "1.21.0.2",
+      "url": "https://gitlab.com/jottyfan/quickiemod/"
     },
     "croptopia": {
       "id": "croptopia",
       "name": "Croptopia",
       "version": "3.0.4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric"
+    },
+    "polyfactory": {
+      "id": "polyfactory",
+      "name": "PolyFactory",
+      "version": "0.4.0-pre.5+1.21",
+      "url": "https://pb4.eu"
+    },
+    "personalplayer": {
+      "id": "personalplayer",
+      "name": "Personal Disc Player",
+      "version": "1.21-1.1.4",
+      "url": "https://github.com/DentedLeft/Dented-Modding"
+    },
+    "oritech": {
+      "id": "oritech",
+      "name": "Oritech",
+      "version": "0.6.1",
+      "url": null
+    },
+    "softerpastels": {
+      "id": "softerpastels",
+      "name": "Softer Pastels",
+      "version": "0.8.0-rev.da982e0",
+      "url": "https://devos.one/"
+    },
+    "mcore": {
+      "id": "mcore",
+      "name": "Marbled's Core",
+      "version": "1.0.1",
+      "url": "https://modrinth.com/mod/marbleds-core-fabric"
+    },
+    "snowrealmagic": {
+      "id": "snowrealmagic",
+      "name": "Snow! Real Magic!",
+      "version": "11.0.2+fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/snowrealmagic"
     },
     "traverse-common": {
       "id": "traverse-common",
@@ -165,26 +189,8 @@
     "toms_storage": {
       "id": "toms_storage",
       "name": "Tom's Simple Storage Mod",
-      "version": "2.0.4",
+      "version": "2.0.5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
-    },
-    "lolmcgt": {
-      "id": "lolmcgt",
-      "name": "More Cartography Tables",
-      "version": "1.5.6",
-      "url": "https://lieonlion.github.io/LieOnLion/"
-    },
-    "terrestria-common": {
-      "id": "terrestria-common",
-      "name": "Terrestria: Common",
-      "version": "7.0.0",
-      "url": null
-    },
-    "mcore": {
-      "id": "mcore",
-      "name": "Marbled's Core",
-      "version": "1.0.1",
-      "url": "https://modrinth.com/mod/marbleds-core-fabric"
     },
     "fabric-convention-tags-v2": {
       "id": "fabric-convention-tags-v2",
@@ -192,17 +198,17 @@
       "version": "2.3.2+78017270d1",
       "url": "https://fabricmc.net"
     },
-    "techreborn": {
-      "id": "techreborn",
-      "name": "Tech Reborn",
-      "version": "5.11.7",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/techreborn"
+    "r_roc_done_right": {
+      "id": "r_roc_done_right",
+      "name": "Rocks Done Right, by Recinber",
+      "version": "beta_1.3.4-1.21",
+      "url": "https://modrinth.com/project/rocks-done-right"
     },
-    "greater_eye": {
-      "id": "greater_eye",
-      "name": "Greater Eye of Ender",
-      "version": "1.7.5",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/greater-eye-of-ender-fabric"
+    "gardens_of_the_dead": {
+      "id": "gardens_of_the_dead",
+      "name": "Gardens of the Dead",
+      "version": "5.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead"
     },
     "biomesoplenty": {
       "id": "biomesoplenty",
@@ -216,17 +222,17 @@
       "version": "5.0.0",
       "url": "https://minecraft.curseforge.com/projects/basic-end-ores"
     },
+    "geocluster": {
+      "id": "geocluster",
+      "name": "Geocluster",
+      "version": "1.3.6+1.21",
+      "url": null
+    },
     "ceramicshears": {
       "id": "ceramicshears",
       "name": "Ceramic Shears",
       "version": "1.21-3.1.1.0",
       "url": "https://github.com/cech12/CeramicShears"
-    },
-    "variantcraftingtables": {
-      "id": "variantcraftingtables",
-      "name": "Variant Crafting Tables",
-      "version": "7.0",
-      "url": null
     },
     "bosses_of_mass_destruction": {
       "id": "bosses_of_mass_destruction",
@@ -234,22 +240,10 @@
       "version": "1.10.0-1.21",
       "url": "https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction"
     },
-    "the_bumblezone": {
-      "id": "the_bumblezone",
-      "name": "The Bumblezone - Fabric",
-      "version": "7.6.5+1.21-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
-    },
-    "usefulfood": {
-      "id": "usefulfood",
-      "name": "UsefulFood Reborn",
-      "version": "1.2.2-1.21-Fabric",
-      "url": null
-    },
-    "geocluster": {
-      "id": "geocluster",
-      "name": "Geocluster",
-      "version": "1.3.6+1.21",
+    "variantcraftingtables": {
+      "id": "variantcraftingtables",
+      "name": "Variant Crafting Tables",
+      "version": "7.0",
       "url": null
     },
     "expandedstorage": {
@@ -258,11 +252,23 @@
       "version": "14.0.0",
       "url": "https://modrinth.com/mod/expanded-storage"
     },
-    "gardens_of_the_dead": {
-      "id": "gardens_of_the_dead",
-      "name": "Gardens of the Dead",
-      "version": "5.0.0",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead"
+    "techreborn": {
+      "id": "techreborn",
+      "name": "Tech Reborn",
+      "version": "5.11.7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/techreborn"
+    },
+    "usefulfood": {
+      "id": "usefulfood",
+      "name": "UsefulFood Reborn",
+      "version": "1.2.2-1.21-Fabric",
+      "url": null
+    },
+    "the_bumblezone": {
+      "id": "the_bumblezone",
+      "name": "The Bumblezone - Fabric",
+      "version": "7.6.7+1.21-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "basicweapons": {
       "id": "basicweapons",
@@ -270,17 +276,11 @@
       "version": "1.2.7",
       "url": "https://basicweapons.khazoda.com"
     },
-    "duckling": {
-      "id": "duckling",
-      "name": "Duckling",
-      "version": "5.0.0",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/duckling"
-    },
-    "resourceful_tools": {
-      "id": "resourceful_tools",
-      "name": "Resourceful Tools",
-      "version": "1.6.10",
-      "url": ""
+    "mr_mine_treasure": {
+      "id": "mr_mine_treasure",
+      "name": "Mine Treasure",
+      "version": "1.4.3",
+      "url": "https://modrinth.com/datapack/mine-treasure"
     },
     "medievalweapons": {
       "id": "medievalweapons",
@@ -288,23 +288,11 @@
       "version": "1.4.8",
       "url": "https://www.curseforge.com/minecraft/mc-mods/medievalweapons"
     },
-    "polydecorations": {
-      "id": "polydecorations",
-      "name": "PolyDecorations",
-      "version": "0.4.1+1.21",
-      "url": "https://pb4.eu"
-    },
-    "quickiemod": {
-      "id": "quickiemod",
-      "name": "QuickieMod",
-      "version": "1.21.0.2",
-      "url": "https://gitlab.com/jottyfan/quickiemod/"
-    },
-    "ring_of_miner": {
-      "id": "ring_of_miner",
-      "name": "Ring Of Miner",
-      "version": "1.7.7",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ring-of-the-miner-fabric"
+    "duckling": {
+      "id": "duckling",
+      "name": "Duckling",
+      "version": "5.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/duckling"
     },
     "advancednetherite": {
       "id": "advancednetherite",
@@ -312,41 +300,11 @@
       "version": "2.1.5-1.21",
       "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric"
     },
-    "resource_nether_ores": {
-      "id": "resource_nether_ores",
-      "name": "Resource Nether Ores",
-      "version": "2.0.4",
-      "url": "https://fabricmc.net/"
-    },
-    "variantvanillablocks": {
-      "id": "variantvanillablocks",
-      "name": "Variant Vanilla Blocks",
-      "version": "2.0",
-      "url": null
-    },
     "enriched": {
       "id": "enriched",
       "name": "Enriched",
       "version": "3.1.0",
       "url": "https://enrichedmc.com/"
-    },
-    "walljump": {
-      "id": "walljump",
-      "name": "Wall-Jump TXF",
-      "version": "1.21-1.2.1-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf"
-    },
-    "dragonloot": {
-      "id": "dragonloot",
-      "name": "DragonLoot",
-      "version": "1.1.4",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/dragonloot"
-    },
-    "energizedpower": {
-      "id": "energizedpower",
-      "name": "Energized Power",
-      "version": "1.21-2.12.0-fabric",
-      "url": "https://github.com/JDDev0/EnergizedPower"
     },
     "hauntfurnace": {
       "id": "hauntfurnace",
@@ -354,35 +312,47 @@
       "version": "0.3.1-1.21",
       "url": "https://github.com/jshipley/HauntFurnace"
     },
-    "reimaginingpotatoes": {
-      "id": "reimaginingpotatoes",
-      "name": "Poisonous Potato Update",
-      "version": "0.1.26",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/reimagining-potatoes/"
-    },
     "goldenhopper": {
       "id": "goldenhopper",
       "name": "Golden Hopper",
       "version": "1.5.3",
       "url": "https://mrcrayfish.com/mods/goldenhopper"
     },
-    "r_roc_done_right": {
-      "id": "r_roc_done_right",
-      "name": "Rocks Done Right, by Recinber",
-      "version": "beta_1.3.4-1.21",
-      "url": "https://modrinth.com/project/rocks-done-right"
+    "variantvanillablocks": {
+      "id": "variantvanillablocks",
+      "name": "Variant Vanilla Blocks",
+      "version": "2.0.1",
+      "url": null
     },
-    "xtraarrows": {
-      "id": "xtraarrows",
-      "name": "Xtra Arrows 3",
-      "version": "3.3.1",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/xtra-arrows"
+    "impracticality": {
+      "id": "impracticality",
+      "name": "Impracticality",
+      "version": "0.3.1-beta",
+      "url": "https://modrinth.com/user/sonianvm"
     },
-    "mr_mine_treasure": {
-      "id": "mr_mine_treasure",
-      "name": "Mine Treasure",
-      "version": "1.4.3",
-      "url": "https://modrinth.com/datapack/mine-treasure"
+    "dragonloot": {
+      "id": "dragonloot",
+      "name": "DragonLoot",
+      "version": "1.1.4",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dragonloot"
+    },
+    "lolmlv": {
+      "id": "lolmlv",
+      "name": "More Lectern Variants",
+      "version": "1.5.3",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "greater_eye": {
+      "id": "greater_eye",
+      "name": "Greater Eye of Ender",
+      "version": "1.7.5",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/greater-eye-of-ender-fabric"
+    },
+    "energizedpower": {
+      "id": "energizedpower",
+      "name": "Energized Power",
+      "version": "1.21-2.12.0-fabric",
+      "url": "https://github.com/JDDev0/EnergizedPower"
     },
     "gobber2": {
       "id": "gobber2",
@@ -390,11 +360,29 @@
       "version": "2.10.18",
       "url": ""
     },
-    "lolmcbv": {
-      "id": "lolmcbv",
-      "name": "More Chiseled Bookshelf Variants",
-      "version": "1.5.4",
+    "walljump": {
+      "id": "walljump",
+      "name": "Wall-Jump TXF",
+      "version": "1.21-1.2.1-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf"
+    },
+    "lolmcmv": {
+      "id": "lolmcmv",
+      "name": "More Composter Variants",
+      "version": "1.5.3",
       "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "nears": {
+      "id": "nears",
+      "name": "Nears",
+      "version": "2.0.6",
+      "url": null
+    },
+    "polydecorations": {
+      "id": "polydecorations",
+      "name": "PolyDecorations",
+      "version": "0.4.1+1.21",
+      "url": "https://pb4.eu"
     },
     "gildednetherite": {
       "id": "gildednetherite",
@@ -402,11 +390,23 @@
       "version": "1.21-1.2.2",
       "url": "https://www.curseforge.com/minecraft/mc-mods/gildednetherite-cj-edition/"
     },
-    "mining_dims": {
-      "id": "mining_dims",
-      "name": "Mining Dimensions",
-      "version": "1.7.7",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
+    "mob_catcher": {
+      "id": "mob_catcher",
+      "name": "Mob Catcher",
+      "version": "1.5.5",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric"
+    },
+    "lolmcgt": {
+      "id": "lolmcgt",
+      "name": "More Cartography Tables",
+      "version": "1.5.7",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "mythicmetals": {
+      "id": "mythicmetals",
+      "name": "Mythic Metals",
+      "version": "0.20.0+1.21-alpha3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mythicmetals"
     },
     "anvil_crushing_recipes": {
       "id": "anvil_crushing_recipes",
@@ -420,17 +420,29 @@
       "version": "1.1.3",
       "url": "https://unix-supremacist.github.io"
     },
-    "lolmcmv": {
-      "id": "lolmcmv",
-      "name": "More Composter Variants",
-      "version": "1.5.3",
+    "material_beacons": {
+      "id": "material_beacons",
+      "name": "Material Beacons",
+      "version": "1.0.1+1.21",
+      "url": "https://fabricmc.net/"
+    },
+    "lolmcbv": {
+      "id": "lolmcbv",
+      "name": "More Chiseled Bookshelf Variants",
+      "version": "1.5.4",
       "url": "https://lieonlion.github.io/LieOnLion/"
     },
-    "impracticality": {
-      "id": "impracticality",
-      "name": "Impracticality",
-      "version": "0.3.1-beta",
-      "url": "https://modrinth.com/user/sonianvm"
+    "leaves_us_in_peace": {
+      "id": "leaves_us_in_peace",
+      "name": "Leaves Us In Peace",
+      "version": "1.1.1",
+      "url": "https://modrinth.com/mod/leaves-us-in-peace"
+    },
+    "resource_nether_ores": {
+      "id": "resource_nether_ores",
+      "name": "Resource Nether Ores",
+      "version": "2.0.4",
+      "url": "https://fabricmc.net/"
     },
     "emerald_tools": {
       "id": "emerald_tools",
@@ -444,29 +456,23 @@
       "version": "3.0.0-beta.9",
       "url": "https://github.com/Armourers-Workshop/Armourers-Workshop"
     },
-    "material_beacons": {
-      "id": "material_beacons",
-      "name": "Material Beacons",
-      "version": "1.0.1+1.21",
-      "url": "https://fabricmc.net/"
+    "reimaginingpotatoes": {
+      "id": "reimaginingpotatoes",
+      "name": "Poisonous Potato Update",
+      "version": "0.1.27",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/reimagining-potatoes/"
     },
-    "leaves_us_in_peace": {
-      "id": "leaves_us_in_peace",
-      "name": "Leaves Us In Peace",
-      "version": "1.1.1",
-      "url": "https://modrinth.com/mod/leaves-us-in-peace"
+    "resourceful_tools": {
+      "id": "resourceful_tools",
+      "name": "Resourceful Tools",
+      "version": "1.6.10",
+      "url": ""
     },
-    "rounded": {
-      "id": "rounded",
-      "name": "Rounded",
-      "version": "1.0.1",
-      "url": "https://modrinth.com/mod/rounded_mod"
-    },
-    "terralith": {
-      "id": "terralith",
-      "name": "Terralith",
-      "version": "2.5.3",
-      "url": "https://www.stardustlabs.net/"
+    "modern_beta": {
+      "id": "modern_beta",
+      "name": "Moderner Beta Fabric",
+      "version": "6.5+er1.3.1+1.21",
+      "url": "https://github.com/BlueStaggo/"
     },
     "blockus": {
       "id": "blockus",
@@ -480,6 +486,12 @@
       "version": "5.0.0",
       "url": null
     },
+    "wover-tag": {
+      "id": "wover-tag",
+      "name": "WorldWeaver - Tag API",
+      "version": "21.0.4",
+      "url": "https://github.com/quiqueck/WorldWeaver"
+    },
     "bronze": {
       "id": "bronze",
       "name": "Bronze",
@@ -492,29 +504,23 @@
       "version": "7.0.28",
       "url": "https://charmony.work"
     },
-    "more_gems": {
-      "id": "more_gems",
-      "name": "More Gems",
-      "version": "1.7.10",
-      "url": ""
-    },
     "extended-enchanting": {
       "id": "extended-enchanting",
       "name": "Extended Enchanting",
       "version": "1.0.2+1.20.6",
       "url": "https://github.com/Provismet/Extended-Enchanting"
     },
-    "wover-tag": {
-      "id": "wover-tag",
-      "name": "WorldWeaver - Tag API",
-      "version": "21.0.4",
-      "url": "https://github.com/quiqueck/WorldWeaver"
+    "xtraarrows": {
+      "id": "xtraarrows",
+      "name": "Xtra Arrows 3",
+      "version": "3.3.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xtra-arrows"
     },
-    "lolmlv": {
-      "id": "lolmlv",
-      "name": "More Lectern Variants",
-      "version": "1.5.3",
-      "url": "https://lieonlion.github.io/LieOnLion/"
+    "more_gems": {
+      "id": "more_gems",
+      "name": "More Gems",
+      "version": "1.7.10",
+      "url": ""
     },
     "copper_golem": {
       "id": "copper_golem",
@@ -528,17 +534,11 @@
       "version": "1.20.6-r7",
       "url": "https://modrinth.com/mod/enchancement"
     },
-    "lolmft": {
-      "id": "lolmft",
-      "name": "More Fletching Tables",
-      "version": "1.5.4",
-      "url": "https://lieonlion.github.io/LieOnLion/"
-    },
-    "foodtxf": {
-      "id": "foodtxf",
-      "name": "Food TXF",
-      "version": "1.21-1.6.3-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
+    "ring_of_miner": {
+      "id": "ring_of_miner",
+      "name": "Ring Of Miner",
+      "version": "1.7.7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ring-of-the-miner-fabric"
     },
     "compostbag": {
       "id": "compostbag",
@@ -558,6 +558,12 @@
       "version": "1.1.0",
       "url": "https://caotenhoch2.wixsite.com/caotenhoch2"
     },
+    "ingotcraft": {
+      "id": "ingotcraft",
+      "name": "IngotCraft",
+      "version": "1.21-2.4.2-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
+    },
     "endorium": {
       "id": "endorium",
       "name": "Endorium",
@@ -570,17 +576,17 @@
       "version": "1.3.0+1.20.6",
       "url": "https://github.com/Provismet/Extra-Damage-Enchantments"
     },
-    "ingotcraft": {
-      "id": "ingotcraft",
-      "name": "IngotCraft",
-      "version": "1.21-2.4.2-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
+    "foodtxf": {
+      "id": "foodtxf",
+      "name": "Food TXF",
+      "version": "1.21-1.6.3-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
     },
-    "woodenshears": {
-      "id": "woodenshears",
-      "name": "Wooden Shears",
-      "version": "1.21-3.1.1.0",
-      "url": "https://github.com/cech12/WoodenShears"
+    "incendium": {
+      "id": "incendium",
+      "name": "Incendium",
+      "version": "5.3.5",
+      "url": "https://www.stardustlabs.net/"
     },
     "creeperoverhaul": {
       "id": "creeperoverhaul",
@@ -588,17 +594,41 @@
       "version": "4.0.2",
       "url": null
     },
+    "lolmft": {
+      "id": "lolmft",
+      "name": "More Fletching Tables",
+      "version": "1.5.6",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
     "combat-plus-core": {
       "id": "combat-plus-core",
       "name": "Combat+ Core",
       "version": "2.0.1+1.20.6",
       "url": "https://provismet.github.io/modding?tag=null&series=Combat%2B"
     },
+    "terralith": {
+      "id": "terralith",
+      "name": "Terralith",
+      "version": "2.5.3",
+      "url": "https://www.stardustlabs.net/"
+    },
+    "natures_spirit": {
+      "id": "natures_spirit",
+      "name": "Nature's Spirit",
+      "version": "1.5.4-1.21",
+      "url": null
+    },
     "bclib": {
       "id": "bclib",
       "name": "BCLib",
       "version": "21.0.3",
       "url": "https://modrinth.com/mod/bclib"
+    },
+    "rounded": {
+      "id": "rounded",
+      "name": "Rounded",
+      "version": "1.0.2",
+      "url": "https://modrinth.com/mod/rounded_mod"
     },
     "connectiblechains": {
       "id": "connectiblechains",
@@ -612,29 +642,11 @@
       "version": "21.0.3",
       "url": "https://www.curseforge.com/minecraft/mc-mods/betternether"
     },
-    "incendium": {
-      "id": "incendium",
-      "name": "Incendium",
-      "version": "5.3.5",
-      "url": "https://www.stardustlabs.net/"
-    },
-    "wilderwild": {
-      "id": "wilderwild",
-      "name": "Wilder Wild",
-      "version": "2.4.5-Fabric+1.21",
-      "url": "https://modrinth.com/mod/wilder-wild"
-    },
-    "nears": {
-      "id": "nears",
-      "name": "Nears",
-      "version": "2.0.6",
-      "url": null
-    },
-    "resource_cracker": {
-      "id": "resource_cracker",
-      "name": "Resource Cracker",
-      "version": "2.0.1",
-      "url": "https://github.com/Stein-N/Resource-Cracker"
+    "simple-gems": {
+      "id": "simple-gems",
+      "name": "Simple Gems Fabricated",
+      "version": "0.5.0+1.21",
+      "url": ""
     },
     "axesareweapons": {
       "id": "axesareweapons",
@@ -642,11 +654,11 @@
       "version": "1.9.0",
       "url": "https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons"
     },
-    "nullscape": {
-      "id": "nullscape",
-      "name": "Nullscape",
-      "version": "1.2.6",
-      "url": "https://www.stardustlabs.net/"
+    "terrestria-common": {
+      "id": "terrestria-common",
+      "name": "Terrestria: Common",
+      "version": "7.0.0",
+      "url": null
     }
   },
   "item": [
@@ -696,16 +708,16 @@
         {
           "value": "minecraft:chest",
           "sources": [
-            "armourers_workshop",
             "simple_backpack",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:trapped_chest",
           "sources": [
-            "armourers_workshop",
             "simple_backpack",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
@@ -986,136 +998,136 @@
         {
           "value": "minecraft:glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:white_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:orange_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:magenta_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:light_blue_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:yellow_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:lime_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:pink_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:gray_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:light_gray_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:cyan_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:purple_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:blue_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:brown_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:green_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:red_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:black_stained_glass",
           "sources": [
-            "armourers_workshop",
             "hauntfurnace",
+            "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
         },
@@ -1141,6 +1153,12 @@
           "value": "#c:tinted_glass_blocks",
           "sources": [
             "mo_glass"
+          ]
+        },
+        {
+          "value": "#innerpastels:glass_blocks",
+          "sources": [
+            "softerpastels"
           ]
         }
       ]
@@ -1280,6 +1298,12 @@
           "sources": [
             "mo_glass"
           ]
+        },
+        {
+          "value": "#innerpastels:glass_panes",
+          "sources": [
+            "softerpastels"
+          ]
         }
       ]
     },
@@ -1291,6 +1315,7 @@
         {
           "value": "minecraft:iron_ingot",
           "sources": [
+            "mythicmetals",
             "armourers_workshop",
             "fabric-convention-tags-v2"
           ]
@@ -1459,31 +1484,31 @@
         {
           "value": "minecraft:andesite",
           "sources": [
+            "hauntfurnace",
             "resourceful_tools",
             "balm-fabric",
             "armourers_workshop",
-            "fabric-convention-tags-v2",
-            "hauntfurnace"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:diorite",
           "sources": [
+            "hauntfurnace",
             "resourceful_tools",
             "balm-fabric",
             "armourers_workshop",
-            "fabric-convention-tags-v2",
-            "hauntfurnace"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": "minecraft:granite",
           "sources": [
+            "hauntfurnace",
             "resourceful_tools",
             "balm-fabric",
             "armourers_workshop",
-            "fabric-convention-tags-v2",
-            "hauntfurnace"
+            "fabric-convention-tags-v2"
           ]
         },
         {
@@ -1831,6 +1856,231 @@
           ]
         },
         {
+          "value": {
+            "id": "#mythicmetals:nuggets/adamantite",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/aquarium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/banglum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/bronze",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/carmot",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/celestium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/durasteel",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/hallowed",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/kyber",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/manganese",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/metallurgium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/midas_gold",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/mythril",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/orichalcum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/osmium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/palladium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/platinum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/prometheum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/quadrillum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/runite",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/silver",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/star_platinum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/steel",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/stormyx",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:nuggets/tin",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "#c:nuggets/diamond",
           "sources": [
             "resource_cracker"
@@ -1854,9 +2104,9 @@
           "sources": [
             "balm-fabric",
             "usefulhats",
-            "foodtxf",
             "energizedpower",
-            "ingotcraft"
+            "ingotcraft",
+            "foodtxf"
           ]
         }
       ]
@@ -1871,9 +2121,9 @@
           "sources": [
             "expandedstorage",
             "balm-fabric",
-            "foodtxf",
             "energizedpower",
-            "ingotcraft"
+            "ingotcraft",
+            "foodtxf"
           ]
         }
       ]
@@ -2195,6 +2445,12 @@
           ]
         },
         {
+          "value": "#mythicmetals:ingots",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "oritech:nickel_ingot",
           "sources": [
             "oritech"
@@ -2353,6 +2609,12 @@
           "sources": [
             "bno"
           ]
+        },
+        {
+          "value": "#mythicmetals:ingots/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -2377,6 +2639,12 @@
           "value": "ingotcraft:silver_ingot",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ingots/silver",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -2414,6 +2682,12 @@
           "value": "ingotcraft:tin_ingot",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ingots/tin",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -3191,6 +3465,132 @@
           ]
         },
         {
+          "value": "#mythicmetals:ores/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/morkite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/starrite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/tin",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/unobtainium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "resource_nether_ores:nether_coal_ore",
           "sources": [
             "resource_nether_ores"
@@ -3340,12 +3740,14 @@
         {
           "value": "minecraft:copper_ore",
           "sources": [
+            "mythicmetals",
             "techreborn"
           ]
         },
         {
           "value": "minecraft:deepslate_copper_ore",
           "sources": [
+            "mythicmetals",
             "techreborn"
           ]
         }
@@ -3475,12 +3877,14 @@
         {
           "value": "minecraft:iron_ore",
           "sources": [
+            "mythicmetals",
             "techreborn"
           ]
         },
         {
           "value": "minecraft:deepslate_iron_ore",
           "sources": [
+            "mythicmetals",
             "techreborn"
           ]
         }
@@ -4009,6 +4413,114 @@
           "sources": [
             "mcore"
           ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:raw_materials/tin",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -4316,6 +4828,12 @@
           "sources": [
             "bno"
           ]
+        },
+        {
+          "value": "mythicmetals:osmium_block",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -4537,6 +5055,12 @@
           ]
         },
         {
+          "value": "mythicmetals:silver_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "techreborn:silver_storage_block",
           "sources": [
             "techreborn"
@@ -4571,6 +5095,12 @@
           "value": "ingotcraft:tin_block",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "mythicmetals:tin_block",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -4920,6 +5450,282 @@
           "value": "#c:storage_blocks/raw_steel",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/morkite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/starrite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/steel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/tin",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_tin",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/unobtainium",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -5723,152 +6529,152 @@
         {
           "value": "minecraft:music_disc_11",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_13",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_5",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_blocks",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_cat",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_chirp",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_creator",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_creator_music_box",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_far",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_mall",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_mellohi",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_otherside",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_pigstep",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_precipice",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_relic",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_stal",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_strad",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_wait",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
         {
           "value": "minecraft:music_disc_ward",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
@@ -5915,8 +6721,8 @@
         {
           "value": "minecraft:water_bucket",
           "sources": [
-            "croptopia",
             "wover-tag",
+            "croptopia",
             "bclib"
           ]
         },
@@ -7757,6 +8563,231 @@
           ]
         },
         {
+          "value": {
+            "id": "#mythicmetals:dusts/adamantite",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/aquarium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/banglum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/bronze",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/carmot",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/celestium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/durasteel",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/hallowed",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/kyber",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/manganese",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/metallurgium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/midas_gold",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/mythril",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/orichalcum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/osmium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/palladium",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/platinum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/prometheum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/quadrillum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/runite",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/silver",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/star_platinum",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/steel",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/stormyx",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mythicmetals:dusts/tin",
+            "required": false
+          },
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "oritech:nickel_dust",
           "sources": [
             "oritech"
@@ -8401,6 +9432,30 @@
           "value": "resource_cracker:beef_jerky",
           "sources": [
             "resource_cracker"
+          ]
+        },
+        {
+          "value": "#innerpastels:cotton_candies",
+          "sources": [
+            "softerpastels"
+          ]
+        },
+        {
+          "value": "#innerpastels:ice_cream",
+          "sources": [
+            "softerpastels"
+          ]
+        },
+        {
+          "value": "#innerpastels:hard_candies",
+          "sources": [
+            "softerpastels"
+          ]
+        },
+        {
+          "value": "#innerpastels:taffies",
+          "sources": [
+            "softerpastels"
           ]
         }
       ]
@@ -9798,6 +10853,150 @@
           "value": "#ingotcraft:hammers",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/copper",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/legendary_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/steel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/tidesinger",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_staff",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -17940,8 +19139,8 @@
         {
           "value": "minecraft:milk_bucket",
           "sources": [
-            "veggie_way",
-            "croptopia"
+            "croptopia",
+            "veggie_way"
           ]
         },
         {
@@ -22964,8 +24163,8 @@
           "sources": [
             "energizedpower",
             "ingotcraft",
-            "foodtxf",
-            "toms_storage"
+            "toms_storage",
+            "foodtxf"
           ]
         }
       ]
@@ -23062,6 +24261,12 @@
           "value": "#mcore:ingots/steel",
           "sources": [
             "mcore"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ingots/steel",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -23572,6 +24777,156 @@
           ]
         },
         {
+          "value": "#mythicmetals:armor/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/copper",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/legendary_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/osmium_chainmail",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/steel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/tidesinger",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "stringerthings:string_boots",
           "sources": [
             "stringerthings"
@@ -23781,8 +25136,8 @@
         {
           "value": "minecraft:budding_amethyst",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
@@ -23807,22 +25162,22 @@
         {
           "value": "minecraft:small_amethyst_bud",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
           "value": "minecraft:medium_amethyst_bud",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
           "value": "minecraft:large_amethyst_bud",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
@@ -23884,8 +25239,8 @@
         {
           "value": "minecraft:amethyst_cluster",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
@@ -27404,7 +28759,20 @@
       "id": "hidden_from_recipe_viewers",
       "replaced_by": [],
       "sources": [],
-      "content": []
+      "content": [
+        {
+          "value": "mythicmetals:froge",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:doge",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
     },
     {
       "id": "ingots/copper",
@@ -27414,6 +28782,7 @@
         {
           "value": "minecraft:copper_ingot",
           "sources": [
+            "mythicmetals",
             "fabric-convention-tags-v2"
           ]
         }
@@ -27427,6 +28796,7 @@
         {
           "value": "minecraft:gold_ingot",
           "sources": [
+            "mythicmetals",
             "goldenhopper",
             "fabric-convention-tags-v2"
           ]
@@ -27649,6 +29019,7 @@
         {
           "value": "minecraft:raw_gold",
           "sources": [
+            "mythicmetals",
             "fabric-convention-tags-v2"
           ]
         },
@@ -27671,6 +29042,7 @@
         {
           "value": "minecraft:raw_iron",
           "sources": [
+            "mythicmetals",
             "fabric-convention-tags-v2"
           ]
         },
@@ -28146,6 +29518,7 @@
         {
           "value": "minecraft:copper_block",
           "sources": [
+            "mythicmetals",
             "fabric-convention-tags-v2"
           ]
         },
@@ -28240,6 +29613,7 @@
         {
           "value": "minecraft:gold_block",
           "sources": [
+            "mythicmetals",
             "fabric-convention-tags-v2"
           ]
         }
@@ -28664,6 +30038,312 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "mythicmetals:adamantite_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:adamantite_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:red_aegis_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:white_aegis_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:gilded_midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:royal_midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -28715,6 +30395,156 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mythicmetals:adamantite_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_drill",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_hammer",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -28818,6 +30648,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_shield",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -29795,81 +31631,81 @@
         {
           "value": "minecraft:leather",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:rabbit_hide",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:feather",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:slime_ball",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:gunpowder",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:iron_ingot",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:gold_ingot",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:ender_pearl",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:blaze_powder",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:quartz",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
@@ -30101,37 +31937,37 @@
         {
           "value": "minecraft:netherite_scrap",
           "sources": [
-            "gobber2",
+            "greater_eye",
             "veggie_way",
-            "resourceful_tools",
-            "greater_eye"
+            "gobber2",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:prismarine_shard",
           "sources": [
-            "gobber2",
+            "greater_eye",
             "veggie_way",
-            "resourceful_tools",
-            "greater_eye"
+            "gobber2",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:prismarine_crystals",
           "sources": [
-            "gobber2",
+            "greater_eye",
             "veggie_way",
-            "resourceful_tools",
-            "greater_eye"
+            "gobber2",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:nautilus_shell",
           "sources": [
-            "gobber2",
+            "greater_eye",
             "veggie_way",
-            "resourceful_tools",
-            "greater_eye"
+            "gobber2",
+            "resourceful_tools"
           ]
         },
         {
@@ -30204,57 +32040,57 @@
         {
           "value": "minecraft:diamond",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:emerald",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:shulker_shell",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:rabbit_foot",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:heart_of_the_sea",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:blaze_rod",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:ghast_tear",
           "sources": [
+            "greater_eye",
             "gobber2",
-            "resourceful_tools",
-            "greater_eye"
+            "resourceful_tools"
           ]
         },
         {
@@ -30348,19 +32184,19 @@
         {
           "value": "minecraft:totem_of_undying",
           "sources": [
-            "gobber2",
+            "greater_eye",
             "veggie_way",
-            "resourceful_tools",
-            "greater_eye"
+            "gobber2",
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:elytra",
           "sources": [
-            "gobber2",
+            "greater_eye",
             "veggie_way",
-            "resourceful_tools",
-            "greater_eye"
+            "gobber2",
+            "resourceful_tools"
           ]
         },
         {
@@ -30478,6 +32314,12 @@
           "value": "ingotcraft:bronze_ingot",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ingots/bronze",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -30635,6 +32477,12 @@
           ]
         },
         {
+          "value": "mythicmetals:bronze_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "techreborn:bronze_storage_block",
           "sources": [
             "techreborn"
@@ -30677,6 +32525,12 @@
           "value": "ingotcraft:steel_block",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_block",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -31617,113 +33471,113 @@
         {
           "value": "minecraft:white_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:orange_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:magenta_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:light_blue_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:yellow_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:lime_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:pink_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:gray_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:light_gray_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:cyan_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:purple_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:blue_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:brown_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:green_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:red_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:black_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         }
       ]
@@ -32376,6 +34230,928 @@
           },
           "sources": [
             "lolmlv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arrows",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:runite_arrow",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tipped_runite_arrow",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_arrow",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elytra",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:celestium_elytra",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "equipment",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:equipment/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/copper",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/legendary_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/steel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:equipment/tidesinger",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "froglights",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:ochre_froglight",
+          "sources": [
+            "mythicmetals",
+            "techreborn"
+          ]
+        },
+        {
+          "value": "minecraft:verdant_froglight",
+          "sources": [
+            "mythicmetals",
+            "techreborn"
+          ]
+        },
+        {
+          "value": "minecraft:pearlescent_froglight",
+          "sources": [
+            "mythicmetals",
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravel",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:gravel",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/adamantite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/aquarium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/banglum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/carmot",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/celestium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/durasteel",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/hallowed",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/kyber",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/manganese",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/metallurgium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/midas_gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/mythril",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/orichalcum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/palladium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "techreborn:platinum_ingot",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/prometheum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/quadrillum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/runite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/stormyx",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ingots/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:gold_ore",
+          "sources": [
+            "mythicmetals",
+            "techreborn"
+          ]
+        },
+        {
+          "value": "minecraft:deepslate_gold_ore",
+          "sources": [
+            "mythicmetals",
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smithing_templates",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:unobtainium_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_drill_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:midas_folding_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:royal_midas_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_staff_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aegis_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_chainmail_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_smithing_template",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "star_platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "starrite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:starrite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/adamantite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:adamantite_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/aquarium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:aquarium_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/banglum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:banglum_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/carmot",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:carmot_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/celestium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:celestium_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/durasteel",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:durasteel_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/hallowed",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:hallowed_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/kyber",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:kyber_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/manganese",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:manganese_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/metallurgium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:metallurgium_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/midas_gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:midas_gold_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/morkite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:morkite_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/mythril",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:mythril_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/orichalcum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:orichalcum_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/palladium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:palladium_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:platinum_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "techreborn:platinum_storage_block",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/prometheum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:prometheum_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/quadrillum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:quadrillum_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/runite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:runite_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/star_platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:star_platinum_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/starrite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:starrite_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/stormyx",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:stormyx_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/unobtainium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mythicmetals:unobtainium_block",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unobtainium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:unobtainium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wood_sticks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:stick",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -34191,31 +36967,6 @@
       ]
     },
     {
-      "id": "froglights",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:ochre_froglight",
-          "sources": [
-            "techreborn"
-          ]
-        },
-        {
-          "value": "minecraft:verdant_froglight",
-          "sources": [
-            "techreborn"
-          ]
-        },
-        {
-          "value": "minecraft:pearlescent_froglight",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
       "id": "gems/peridot",
       "replaced_by": [],
       "sources": [],
@@ -34434,19 +37185,6 @@
       "content": [
         {
           "value": "techreborn:mixed_metal_ingot",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ingots/platinum",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:platinum_ingot",
           "sources": [
             "techreborn"
           ]
@@ -34817,25 +37555,6 @@
         },
         {
           "value": "techreborn:deepslate_galena_ore",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ores/gold",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:gold_ore",
-          "sources": [
-            "techreborn"
-          ]
-        },
-        {
-          "value": "minecraft:deepslate_gold_ore",
           "sources": [
             "techreborn"
           ]
@@ -36474,19 +39193,6 @@
       ]
     },
     {
-      "id": "storage_blocks/platinum",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:platinum_storage_block",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
       "id": "storage_blocks/raw_iridium",
       "replaced_by": [],
       "sources": [],
@@ -37592,6 +40298,18 @@
           ]
         },
         {
+          "value": "#innerpastels:glass_blocks",
+          "sources": [
+            "softerpastels"
+          ]
+        },
+        {
+          "value": "#innerpastels:glass_panes",
+          "sources": [
+            "softerpastels"
+          ]
+        },
+        {
           "value": "wilderwild:echo_glass",
           "sources": [
             "wilderwild"
@@ -37721,6 +40439,12 @@
           "sources": [
             "anvil_crushing_recipes",
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#innerpastels:glass_panes",
+          "sources": [
+            "softerpastels"
           ]
         }
       ]
@@ -38980,6 +41704,132 @@
           ]
         },
         {
+          "value": "#mythicmetals:ores/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/morkite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/starrite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/tin",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/unobtainium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "oritech:nickel_ore",
           "sources": [
             "oritech"
@@ -39530,6 +42380,12 @@
           "sources": [
             "bno"
           ]
+        },
+        {
+          "value": "#mythicmetals:ores/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -39594,6 +42450,12 @@
           ]
         },
         {
+          "value": "#mythicmetals:ores/silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
           "value": "techreborn:silver_ore",
           "sources": [
             "techreborn"
@@ -39646,6 +42508,12 @@
           "value": "energizedpower:deepslate_tin_ore",
           "sources": [
             "energizedpower"
+          ]
+        },
+        {
+          "value": "#mythicmetals:ores/tin",
+          "sources": [
+            "mythicmetals"
           ]
         },
         {
@@ -40186,6 +43054,12 @@
           "sources": [
             "bno"
           ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -40287,6 +43161,12 @@
           "sources": [
             "bno"
           ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_osmium",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -40311,6 +43191,12 @@
           "value": "ingotcraft:raw_silver_block",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_silver",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -40342,6 +43228,12 @@
           "value": "ingotcraft:raw_tin_block",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/raw_tin",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -40406,6 +43298,12 @@
           "sources": [
             "ingotcraft"
           ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/silver",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -40436,6 +43334,12 @@
           "value": "ingotcraft:tin_block",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/tin",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -40486,8 +43390,8 @@
         {
           "value": "minecraft:bookshelf",
           "sources": [
-            "fabric-convention-tags-v2",
             "wover-tag",
+            "fabric-convention-tags-v2",
             "bclib"
           ]
         },
@@ -40679,11 +43583,11 @@
         {
           "value": "minecraft:end_stone",
           "sources": [
-            "wover-tag",
             "bclib",
-            "gobber2",
+            "wover-tag",
+            "ring_of_miner",
             "enderite",
-            "ring_of_miner"
+            "gobber2"
           ]
         },
         {
@@ -41887,18 +44791,18 @@
         {
           "value": "minecraft:soul_sand",
           "sources": [
+            "wover-tag",
             "gobber2",
             "ring_of_miner",
-            "wover-tag",
             "bclib"
           ]
         },
         {
           "value": "minecraft:soul_soil",
           "sources": [
+            "wover-tag",
             "gobber2",
             "ring_of_miner",
-            "wover-tag",
             "bclib"
           ]
         },
@@ -44994,8 +47898,8 @@
         {
           "value": "minecraft:budding_amethyst",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
@@ -45038,22 +47942,22 @@
         {
           "value": "minecraft:small_amethyst_bud",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
           "value": "minecraft:medium_amethyst_bud",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
           "value": "minecraft:large_amethyst_bud",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
@@ -45108,8 +48012,8 @@
         {
           "value": "minecraft:amethyst_cluster",
           "sources": [
-            "r_roc_done_right",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "r_roc_done_right"
           ]
         },
         {
@@ -48064,6 +50968,7 @@
         {
           "value": "minecraft:copper_block",
           "sources": [
+            "mythicmetals",
             "fabric-convention-tags-v2"
           ]
         },
@@ -48158,6 +51063,7 @@
         {
           "value": "minecraft:gold_block",
           "sources": [
+            "mythicmetals",
             "fabric-convention-tags-v2"
           ]
         }
@@ -48663,6 +51569,12 @@
           "sources": [
             "ingotcraft"
           ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
         }
       ]
     },
@@ -48701,6 +51613,12 @@
           "value": "ingotcraft:steel_block",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:storage_blocks/steel",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -49513,6 +52431,772 @@
           },
           "sources": [
             "lolmlv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copper_ores",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:copper_ore",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "minecraft:deepslate_copper_ore",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iron_ores",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:iron_ore",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "minecraft:deepslate_iron_ore",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/adamantite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/aquarium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/banglum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/carmot",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/kyber",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/manganese",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/midas_gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/morkite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/morkite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/mythril",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/orichalcum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/palladium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/prometheum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/quadrillum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/runite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/starrite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/starrite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/stormyx",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/unobtainium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:ores/unobtainium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/adamantite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/aquarium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/banglum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/carmot",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/celestium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/durasteel",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/hallowed",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/kyber",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/manganese",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/metallurgium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/midas_gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/morkite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/morkite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/mythril",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/orichalcum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/palladium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/prometheum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/quadrillum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_adamantite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_aquarium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_banglum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_carmot",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_kyber",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_manganese",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_manganese",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_midas_gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_mythril",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_orichalcum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_palladium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_prometheum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_quadrillum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_runite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_stormyx",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/raw_stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/runite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/star_platinum",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/starrite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/starrite",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/stormyx",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/unobtainium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#mythicmetals:storage_blocks/unobtainium",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]

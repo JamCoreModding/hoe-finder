@@ -1,22 +1,70 @@
 {
   "sources": {
-    "creeperoverhaul": {
-      "id": "creeperoverhaul",
-      "name": "Creeper Overhaul",
-      "version": "4.0.2",
+    "advancednetherite": {
+      "id": "advancednetherite",
+      "name": "Advanced Netherite",
+      "version": "2.1.5-1.21",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric"
+    },
+    "adventure_map_developer": {
+      "id": "adventure_map_developer",
+      "name": "Adventure Map Developer",
+      "version": "1.1.0",
+      "url": "https://caotenhoch2.wixsite.com/caotenhoch2"
+    },
+    "alchemist": {
+      "id": "alchemist",
+      "name": "Alchemist",
+      "version": "1.1.3",
+      "url": "https://unix-supremacist.github.io"
+    },
+    "anvil_crushing_recipes": {
+      "id": "anvil_crushing_recipes",
+      "name": "Anvil Crushing Recipes",
+      "version": "1.4.0",
+      "url": "https://modrinth.com/mod/anvil-crushing-recipes"
+    },
+    "armourers_workshop": {
+      "id": "armourers_workshop",
+      "name": "Armourer's Workshop",
+      "version": "3.0.0-beta.9",
+      "url": "https://github.com/Armourers-Workshop/Armourers-Workshop"
+    },
+    "axesareweapons": {
+      "id": "axesareweapons",
+      "name": "Axes Are Weapons",
+      "version": "1.9.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons"
+    },
+    "balm-fabric": {
+      "id": "balm-fabric",
+      "name": "Balm",
+      "version": "21.0.11",
+      "url": "https://mods.twelveiterations.com/"
+    },
+    "basalt-crusher": {
+      "id": "basalt-crusher",
+      "name": "Basalt Crusher",
+      "version": "1.9.1",
       "url": null
     },
-    "bno": {
-      "id": "bno",
-      "name": "BasicNetherOres",
-      "version": "10.0.2",
-      "url": "https://minecraft.curseforge.com/projects/basic-nether-ores"
+    "basicweapons": {
+      "id": "basicweapons",
+      "name": "Basic Weapons",
+      "version": "1.2.7",
+      "url": "https://basicweapons.khazoda.com"
     },
-    "combat-plus-core": {
-      "id": "combat-plus-core",
-      "name": "Combat+ Core",
-      "version": "2.0.1+1.20.6",
-      "url": "https://provismet.github.io/modding?tag=null&series=Combat%2B"
+    "bclib": {
+      "id": "bclib",
+      "name": "BCLib",
+      "version": "21.0.5",
+      "url": "https://modrinth.com/mod/bclib"
+    },
+    "beo": {
+      "id": "beo",
+      "name": "Basic End Ores",
+      "version": "5.0.0",
+      "url": "https://minecraft.curseforge.com/projects/basic-end-ores"
     },
     "better_mcdonalds_mod": {
       "id": "better_mcdonalds_mod",
@@ -24,23 +72,131 @@
       "version": "4.0.2+1.21",
       "url": "https://sites.google.com/view/moritz-htk/mods/better-mcdonalds-mod"
     },
-    "connectiblechains": {
-      "id": "connectiblechains",
-      "name": "Connectible Chains",
-      "version": "2.4.1+1.21",
-      "url": "https://github.com/legoatoom/ConnectibleChains"
+    "betternether": {
+      "id": "betternether",
+      "name": "Better Nether",
+      "version": "21.0.5",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/betternether"
     },
-    "reimaginingpotatoes": {
-      "id": "reimaginingpotatoes",
-      "name": "Poisonous Potato Update",
-      "version": "0.1.27",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/reimagining-potatoes/"
+    "biomesoplenty": {
+      "id": "biomesoplenty",
+      "name": "BiomesOPlenty",
+      "version": "21.0.0.11",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
+    },
+    "blockus": {
+      "id": "blockus",
+      "name": "Blockus",
+      "version": "2.9.1+1.21",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/blockus"
+    },
+    "bno": {
+      "id": "bno",
+      "name": "BasicNetherOres",
+      "version": "10.0.2",
+      "url": "https://minecraft.curseforge.com/projects/basic-nether-ores"
+    },
+    "bosses_of_mass_destruction": {
+      "id": "bosses_of_mass_destruction",
+      "name": "Bosses of Mass Destruction (Beta)",
+      "version": "1.10.0-1.21",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction"
+    },
+    "bronze": {
+      "id": "bronze",
+      "name": "Bronze",
+      "version": "1.0.6",
+      "url": "https://bronze.khazoda.com"
+    },
+    "ceramicshears": {
+      "id": "ceramicshears",
+      "name": "Ceramic Shears",
+      "version": "1.21-3.1.1.0",
+      "url": "https://github.com/cech12/CeramicShears"
     },
     "charm": {
       "id": "charm",
       "name": "Charm",
       "version": "7.0.28",
       "url": "https://charmony.work"
+    },
+    "cinderscapes-common": {
+      "id": "cinderscapes-common",
+      "name": "Cinderscapes: Common",
+      "version": "5.0.1",
+      "url": null
+    },
+    "combat-plus-core": {
+      "id": "combat-plus-core",
+      "name": "Combat+ Core",
+      "version": "2.0.1+1.20.6",
+      "url": "https://provismet.github.io/modding?tag=null&series=Combat%2B"
+    },
+    "comforts": {
+      "id": "comforts",
+      "name": "Comforts",
+      "version": "9.0.0+1.21",
+      "url": null
+    },
+    "compostbag": {
+      "id": "compostbag",
+      "name": "CompostBag",
+      "version": "4.1.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/compost-bag"
+    },
+    "connectiblechains": {
+      "id": "connectiblechains",
+      "name": "Connectible Chains",
+      "version": "2.4.1+1.21",
+      "url": "https://github.com/legoatoom/ConnectibleChains"
+    },
+    "copper_golem": {
+      "id": "copper_golem",
+      "name": "Copper Golem",
+      "version": "1.8.2+1.21",
+      "url": null
+    },
+    "creeperoverhaul": {
+      "id": "creeperoverhaul",
+      "name": "Creeper Overhaul",
+      "version": "4.0.2",
+      "url": null
+    },
+    "crockpot": {
+      "id": "crockpot",
+      "name": "Crock Pot",
+      "version": "1.14.3+1.21",
+      "url": "https://github.com/Nosrick"
+    },
+    "croptopia": {
+      "id": "croptopia",
+      "name": "Croptopia",
+      "version": "3.0.4",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric"
+    },
+    "desolation": {
+      "id": "desolation",
+      "name": "Desolation",
+      "version": "1.6.0-beta.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/desolation"
+    },
+    "dragonloot": {
+      "id": "dragonloot",
+      "name": "DragonLoot",
+      "version": "1.1.4",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dragonloot"
+    },
+    "dramaticdoors": {
+      "id": "dramaticdoors",
+      "name": "Dramatic Doors (NeoQuiFab)",
+      "version": "1.21-3.2.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dramatic-doors"
+    },
+    "duckling": {
+      "id": "duckling",
+      "name": "Duckling",
+      "version": "5.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/duckling"
     },
     "emerald_tools": {
       "id": "emerald_tools",
@@ -54,318 +210,6 @@
       "version": "1.20.6-r7",
       "url": "https://modrinth.com/mod/enchancement"
     },
-    "croptopia": {
-      "id": "croptopia",
-      "name": "Croptopia",
-      "version": "3.0.4",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric"
-    },
-    "extended-enchanting": {
-      "id": "extended-enchanting",
-      "name": "Extended Enchanting",
-      "version": "1.0.2+1.20.6",
-      "url": "https://github.com/Provismet/Extended-Enchanting"
-    },
-    "walljump": {
-      "id": "walljump",
-      "name": "Wall-Jump TXF",
-      "version": "1.21-1.2.1-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf"
-    },
-    "terrestria-common": {
-      "id": "terrestria-common",
-      "name": "Terrestria: Common",
-      "version": "7.0.0",
-      "url": null
-    },
-    "extra-damage-enchantments": {
-      "id": "extra-damage-enchantments",
-      "name": "Extra Damage Enchantments",
-      "version": "1.3.0+1.20.6",
-      "url": "https://github.com/Provismet/Extra-Damage-Enchantments"
-    },
-    "lolmft": {
-      "id": "lolmft",
-      "name": "More Fletching Tables",
-      "version": "1.5.6",
-      "url": "https://lieonlion.github.io/LieOnLion/"
-    },
-    "desolation": {
-      "id": "desolation",
-      "name": "Desolation",
-      "version": "1.6.0-beta.1",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/desolation"
-    },
-    "wover-tag": {
-      "id": "wover-tag",
-      "name": "WorldWeaver - Tag API",
-      "version": "21.0.6",
-      "url": "https://github.com/quiqueck/WorldWeaver"
-    },
-    "basalt-crusher": {
-      "id": "basalt-crusher",
-      "name": "Basalt Crusher",
-      "version": "1.9.1",
-      "url": null
-    },
-    "balm-fabric": {
-      "id": "balm-fabric",
-      "name": "Balm",
-      "version": "21.0.11",
-      "url": "https://mods.twelveiterations.com/"
-    },
-    "ring_of_miner": {
-      "id": "ring_of_miner",
-      "name": "Ring Of Miner",
-      "version": "1.7.7",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ring-of-the-miner-fabric"
-    },
-    "lolmcgt": {
-      "id": "lolmcgt",
-      "name": "More Cartography Tables",
-      "version": "1.5.7",
-      "url": "https://lieonlion.github.io/LieOnLion/"
-    },
-    "rounded": {
-      "id": "rounded",
-      "name": "Rounded",
-      "version": "1.0.2",
-      "url": "https://modrinth.com/mod/rounded_mod"
-    },
-    "woodenshears": {
-      "id": "woodenshears",
-      "name": "Wooden Shears",
-      "version": "1.21-3.1.1.0",
-      "url": "https://github.com/cech12/WoodenShears"
-    },
-    "wilderwild": {
-      "id": "wilderwild",
-      "name": "Wilder Wild",
-      "version": "2.4.5-Fabric+1.21",
-      "url": "https://modrinth.com/mod/wilder-wild"
-    },
-    "incendium": {
-      "id": "incendium",
-      "name": "Incendium",
-      "version": "5.3.5",
-      "url": "https://www.stardustlabs.net/"
-    },
-    "more_gems": {
-      "id": "more_gems",
-      "name": "More Gems",
-      "version": "1.7.10",
-      "url": ""
-    },
-    "tommylib": {
-      "id": "tommylib",
-      "name": "TommyLib",
-      "version": "16.1.2",
-      "url": "https://github.com/thomasglasser/TommyLib"
-    },
-    "sereneseasons": {
-      "id": "sereneseasons",
-      "name": "SereneSeasons",
-      "version": "10.0.0.2",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons"
-    },
-    "cinderscapes-common": {
-      "id": "cinderscapes-common",
-      "name": "Cinderscapes: Common",
-      "version": "5.0.1",
-      "url": null
-    },
-    "variantchests": {
-      "id": "variantchests",
-      "name": "Variant Chests",
-      "version": "2.0.1",
-      "url": null
-    },
-    "simple-gems": {
-      "id": "simple-gems",
-      "name": "Simple Gems Fabricated",
-      "version": "0.5.0+1.21",
-      "url": ""
-    },
-    "crockpot": {
-      "id": "crockpot",
-      "name": "Crock Pot",
-      "version": "1.14.3+1.21",
-      "url": "https://github.com/Nosrick"
-    },
-    "r_roc_done_right": {
-      "id": "r_roc_done_right",
-      "name": "Rocks Done Right, by Recinber",
-      "version": "beta_1.3.4-1.21",
-      "url": "https://modrinth.com/project/rocks-done-right"
-    },
-    "dramaticdoors": {
-      "id": "dramaticdoors",
-      "name": "Dramatic Doors (NeoQuiFab)",
-      "version": "1.21-3.2.2",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/dramatic-doors"
-    },
-    "tinycoal": {
-      "id": "tinycoal",
-      "name": "TinyCoal",
-      "version": "1.0.2",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/tiny-coal"
-    },
-    "veggie_way": {
-      "id": "veggie_way",
-      "name": "The Veggie Way",
-      "version": "1.6.6",
-      "url": null
-    },
-    "ingotcraft": {
-      "id": "ingotcraft",
-      "name": "IngotCraft",
-      "version": "1.21-2.4.3-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
-    },
-    "nullscape": {
-      "id": "nullscape",
-      "name": "Nullscape",
-      "version": "1.2.6",
-      "url": "https://www.stardustlabs.net/"
-    },
-    "greater_eye": {
-      "id": "greater_eye",
-      "name": "Greater Eye of Ender",
-      "version": "1.7.5",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/greater-eye-of-ender-fabric"
-    },
-    "resource_cracker": {
-      "id": "resource_cracker",
-      "name": "Resource Cracker",
-      "version": "2.0.1",
-      "url": "https://github.com/Stein-N/Resource-Cracker"
-    },
-    "biomesoplenty": {
-      "id": "biomesoplenty",
-      "name": "BiomesOPlenty",
-      "version": "21.0.0.11",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
-    },
-    "pearfection": {
-      "id": "pearfection",
-      "name": "Pearfection",
-      "version": "1.2.3",
-      "url": null
-    },
-    "beo": {
-      "id": "beo",
-      "name": "Basic End Ores",
-      "version": "5.0.0",
-      "url": "https://minecraft.curseforge.com/projects/basic-end-ores"
-    },
-    "traverse-common": {
-      "id": "traverse-common",
-      "name": "Traverse: Common",
-      "version": "8.0.0",
-      "url": null
-    },
-    "quickiemod": {
-      "id": "quickiemod",
-      "name": "QuickieMod",
-      "version": "1.21.0.2",
-      "url": "https://gitlab.com/jottyfan/quickiemod/"
-    },
-    "stringerthings": {
-      "id": "stringerthings",
-      "name": "Stringer Things",
-      "version": "1.5.0+1.21",
-      "url": null
-    },
-    "usefulhats": {
-      "id": "usefulhats",
-      "name": "Useful Hats",
-      "version": "1.21-6.1.1.0",
-      "url": "https://github.com/cech12/UsefulHats"
-    },
-    "resourceful_tools": {
-      "id": "resourceful_tools",
-      "name": "Resourceful Tools",
-      "version": "1.6.10",
-      "url": ""
-    },
-    "toms_storage": {
-      "id": "toms_storage",
-      "name": "Tom's Simple Storage Mod",
-      "version": "2.0.5",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
-    },
-    "simple_backpack": {
-      "id": "simple_backpack",
-      "name": "SimpleBackpack",
-      "version": "1.6.8",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric"
-    },
-    "terralith": {
-      "id": "terralith",
-      "name": "Terralith",
-      "version": "2.5.3",
-      "url": "https://www.stardustlabs.net/"
-    },
-    "polyfactory": {
-      "id": "polyfactory",
-      "name": "PolyFactory",
-      "version": "0.4.0-pre.5+1.21",
-      "url": "https://pb4.eu"
-    },
-    "personalplayer": {
-      "id": "personalplayer",
-      "name": "Personal Disc Player",
-      "version": "1.21-1.1.4",
-      "url": "https://github.com/DentedLeft/Dented-Modding"
-    },
-    "softerpastels": {
-      "id": "softerpastels",
-      "name": "Softer Pastels",
-      "version": "0.8.0-rev.da982e0",
-      "url": "https://devos.one/"
-    },
-    "oritech": {
-      "id": "oritech",
-      "name": "Oritech",
-      "version": "0.7.0",
-      "url": null
-    },
-    "fabric-convention-tags-v2": {
-      "id": "fabric-convention-tags-v2",
-      "name": "Fabric Convention Tags (v2)",
-      "version": "2.3.2+78017270d1",
-      "url": "https://fabricmc.net"
-    },
-    "snowrealmagic": {
-      "id": "snowrealmagic",
-      "name": "Snow! Real Magic!",
-      "version": "11.0.2+fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/snowrealmagic"
-    },
-    "mcore": {
-      "id": "mcore",
-      "name": "Marbled's Core",
-      "version": "1.0.1",
-      "url": "https://modrinth.com/mod/marbleds-core-fabric"
-    },
-    "basicweapons": {
-      "id": "basicweapons",
-      "name": "Basic Weapons",
-      "version": "1.2.7",
-      "url": "https://basicweapons.khazoda.com"
-    },
-    "bosses_of_mass_destruction": {
-      "id": "bosses_of_mass_destruction",
-      "name": "Bosses of Mass Destruction (Beta)",
-      "version": "1.10.0-1.21",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction"
-    },
-    "gildednetherite": {
-      "id": "gildednetherite",
-      "name": "Gilded Netherite CJ Edition",
-      "version": "1.21-1.2.2",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/gildednetherite-cj-edition/"
-    },
     "enderite": {
       "id": "enderite",
       "name": "Enderite CJ Edition",
@@ -378,22 +222,370 @@
       "version": "1.1.3",
       "url": null
     },
-    "variantcraftingtables": {
-      "id": "variantcraftingtables",
-      "name": "Variant Crafting Tables",
-      "version": "7.0",
+    "energizedpower": {
+      "id": "energizedpower",
+      "name": "Energized Power",
+      "version": "1.21-2.12.0-fabric",
+      "url": "https://github.com/JDDev0/EnergizedPower"
+    },
+    "enriched": {
+      "id": "enriched",
+      "name": "Enriched",
+      "version": "3.1.0",
+      "url": "https://enrichedmc.com/"
+    },
+    "expandedstorage": {
+      "id": "expandedstorage",
+      "name": "Expanded Storage",
+      "version": "14.0.0",
+      "url": "https://modrinth.com/mod/expanded-storage"
+    },
+    "extended-enchanting": {
+      "id": "extended-enchanting",
+      "name": "Extended Enchanting",
+      "version": "1.0.2+1.20.6",
+      "url": "https://github.com/Provismet/Extended-Enchanting"
+    },
+    "extra-damage-enchantments": {
+      "id": "extra-damage-enchantments",
+      "name": "Extra Damage Enchantments",
+      "version": "1.3.0+1.20.6",
+      "url": "https://github.com/Provismet/Extra-Damage-Enchantments"
+    },
+    "fabric-convention-tags-v2": {
+      "id": "fabric-convention-tags-v2",
+      "name": "Fabric Convention Tags (v2)",
+      "version": "2.3.2+78017270d1",
+      "url": "https://fabricmc.net"
+    },
+    "foodtxf": {
+      "id": "foodtxf",
+      "name": "Food TXF",
+      "version": "1.21-1.6.4-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
+    },
+    "gardens_of_the_dead": {
+      "id": "gardens_of_the_dead",
+      "name": "Gardens of the Dead",
+      "version": "5.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead"
+    },
+    "geocluster": {
+      "id": "geocluster",
+      "name": "Geocluster",
+      "version": "1.3.6+1.21",
       "url": null
     },
-    "advancednetherite": {
-      "id": "advancednetherite",
-      "name": "Advanced Netherite",
-      "version": "2.1.5-1.21",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric"
+    "gildednetherite": {
+      "id": "gildednetherite",
+      "name": "Gilded Netherite CJ Edition",
+      "version": "1.21-1.2.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/gildednetherite-cj-edition/"
     },
-    "usefulfood": {
-      "id": "usefulfood",
-      "name": "UsefulFood Reborn",
-      "version": "1.2.2-1.21-Fabric",
+    "gobber2": {
+      "id": "gobber2",
+      "name": "Gobber2",
+      "version": "2.10.18",
+      "url": ""
+    },
+    "goldenhopper": {
+      "id": "goldenhopper",
+      "name": "Golden Hopper",
+      "version": "1.5.3",
+      "url": "https://mrcrayfish.com/mods/goldenhopper"
+    },
+    "greater_eye": {
+      "id": "greater_eye",
+      "name": "Greater Eye of Ender",
+      "version": "1.7.5",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/greater-eye-of-ender-fabric"
+    },
+    "hauntfurnace": {
+      "id": "hauntfurnace",
+      "name": "Haunt Furnace",
+      "version": "0.3.1-1.21",
+      "url": "https://github.com/jshipley/HauntFurnace"
+    },
+    "hopperpots": {
+      "id": "hopperpots",
+      "name": "Hopper Pots",
+      "version": "1.0.0+1.21",
+      "url": "https://modrinth.com/mod/hopperpots"
+    },
+    "impracticality": {
+      "id": "impracticality",
+      "name": "Impracticality",
+      "version": "0.3.1-beta",
+      "url": "https://modrinth.com/user/sonianvm"
+    },
+    "incendium": {
+      "id": "incendium",
+      "name": "Incendium",
+      "version": "5.3.5",
+      "url": "https://www.stardustlabs.net/"
+    },
+    "ingotcraft": {
+      "id": "ingotcraft",
+      "name": "IngotCraft",
+      "version": "1.21-2.4.3-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
+    },
+    "leaves_us_in_peace": {
+      "id": "leaves_us_in_peace",
+      "name": "Leaves Us In Peace",
+      "version": "1.1.1",
+      "url": "https://modrinth.com/mod/leaves-us-in-peace"
+    },
+    "lolmblv": {
+      "id": "lolmblv",
+      "name": "More Barrel Variants",
+      "version": "1.5.7",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "lolmcbv": {
+      "id": "lolmcbv",
+      "name": "More Chiseled Bookshelf Variants",
+      "version": "1.5.4",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "lolmcgt": {
+      "id": "lolmcgt",
+      "name": "More Cartography Tables",
+      "version": "1.5.7",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "lolmcmv": {
+      "id": "lolmcmv",
+      "name": "More Composter Variants",
+      "version": "1.5.5",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "lolmft": {
+      "id": "lolmft",
+      "name": "More Fletching Tables",
+      "version": "1.5.6",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "lolmgv": {
+      "id": "lolmgv",
+      "name": "More Grindstone Variants",
+      "version": "1.0.2",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "lolmlv": {
+      "id": "lolmlv",
+      "name": "More Lectern Variants",
+      "version": "1.5.6",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "material_beacons": {
+      "id": "material_beacons",
+      "name": "Material Beacons",
+      "version": "1.0.1+1.21",
+      "url": "https://fabricmc.net/"
+    },
+    "mcore": {
+      "id": "mcore",
+      "name": "Marbled's Core",
+      "version": "1.0.1",
+      "url": "https://modrinth.com/mod/marbleds-core-fabric"
+    },
+    "medievalweapons": {
+      "id": "medievalweapons",
+      "name": "Medieval Weapons",
+      "version": "1.4.8",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/medievalweapons"
+    },
+    "mining_dims": {
+      "id": "mining_dims",
+      "name": "Mining Dimensions",
+      "version": "1.7.7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
+    },
+    "mo_glass": {
+      "id": "mo_glass",
+      "name": "Mo Glass",
+      "version": "1.8.1-MC1.21",
+      "url": "https://www.wimods.net/mo-glass/?utm_source=Mo+Glass&utm_medium=ModMenu&utm_content=Mo+Glass+ModMenu+website+link"
+    },
+    "mob_catcher": {
+      "id": "mob_catcher",
+      "name": "Mob Catcher",
+      "version": "1.5.5",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric"
+    },
+    "modern_beta": {
+      "id": "modern_beta",
+      "name": "Moderner Beta Fabric",
+      "version": "6.5+er1.3.1+1.21",
+      "url": "https://github.com/BlueStaggo/"
+    },
+    "more_gems": {
+      "id": "more_gems",
+      "name": "More Gems",
+      "version": "1.7.10",
+      "url": ""
+    },
+    "mr_mine_treasure": {
+      "id": "mr_mine_treasure",
+      "name": "Mine Treasure",
+      "version": "1.4.3",
+      "url": "https://modrinth.com/datapack/mine-treasure"
+    },
+    "mythicmetals": {
+      "id": "mythicmetals",
+      "name": "Mythic Metals",
+      "version": "0.20.0+1.21-alpha3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mythicmetals"
+    },
+    "natures_spirit": {
+      "id": "natures_spirit",
+      "name": "Nature's Spirit",
+      "version": "1.5.5-1.21",
+      "url": null
+    },
+    "nears": {
+      "id": "nears",
+      "name": "Nears",
+      "version": "2.0.6",
+      "url": null
+    },
+    "nullscape": {
+      "id": "nullscape",
+      "name": "Nullscape",
+      "version": "1.2.6",
+      "url": "https://www.stardustlabs.net/"
+    },
+    "oritech": {
+      "id": "oritech",
+      "name": "Oritech",
+      "version": "0.7.0",
+      "url": null
+    },
+    "pearfection": {
+      "id": "pearfection",
+      "name": "Pearfection",
+      "version": "1.2.3",
+      "url": null
+    },
+    "personalplayer": {
+      "id": "personalplayer",
+      "name": "Personal Disc Player",
+      "version": "1.21-1.1.4",
+      "url": "https://github.com/DentedLeft/Dented-Modding"
+    },
+    "polydecorations": {
+      "id": "polydecorations",
+      "name": "PolyDecorations",
+      "version": "0.4.1+1.21",
+      "url": "https://pb4.eu"
+    },
+    "polyfactory": {
+      "id": "polyfactory",
+      "name": "PolyFactory",
+      "version": "0.4.0-pre.5+1.21",
+      "url": "https://pb4.eu"
+    },
+    "quickiemod": {
+      "id": "quickiemod",
+      "name": "QuickieMod",
+      "version": "1.21.0.2",
+      "url": "https://gitlab.com/jottyfan/quickiemod/"
+    },
+    "r_roc_done_right": {
+      "id": "r_roc_done_right",
+      "name": "Rocks Done Right, by Recinber",
+      "version": "beta_1.3.4-1.21",
+      "url": "https://modrinth.com/project/rocks-done-right"
+    },
+    "reimaginingpotatoes": {
+      "id": "reimaginingpotatoes",
+      "name": "Poisonous Potato Update",
+      "version": "0.1.27",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/reimagining-potatoes/"
+    },
+    "resource_cracker": {
+      "id": "resource_cracker",
+      "name": "Resource Cracker",
+      "version": "2.0.1",
+      "url": "https://github.com/Stein-N/Resource-Cracker"
+    },
+    "resource_nether_ores": {
+      "id": "resource_nether_ores",
+      "name": "Resource Nether Ores",
+      "version": "2.0.4",
+      "url": "https://fabricmc.net/"
+    },
+    "resourceful_tools": {
+      "id": "resourceful_tools",
+      "name": "Resourceful Tools",
+      "version": "1.6.10",
+      "url": ""
+    },
+    "ring_of_miner": {
+      "id": "ring_of_miner",
+      "name": "Ring Of Miner",
+      "version": "1.7.7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ring-of-the-miner-fabric"
+    },
+    "rounded": {
+      "id": "rounded",
+      "name": "Rounded",
+      "version": "1.0.3",
+      "url": "https://modrinth.com/mod/rounded_mod"
+    },
+    "sereneseasons": {
+      "id": "sereneseasons",
+      "name": "SereneSeasons",
+      "version": "10.0.0.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons"
+    },
+    "simple-gems": {
+      "id": "simple-gems",
+      "name": "Simple Gems Fabricated",
+      "version": "0.5.0+1.21",
+      "url": ""
+    },
+    "simple_backpack": {
+      "id": "simple_backpack",
+      "name": "SimpleBackpack",
+      "version": "1.6.8",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric"
+    },
+    "snowrealmagic": {
+      "id": "snowrealmagic",
+      "name": "Snow! Real Magic!",
+      "version": "11.0.2+fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/snowrealmagic"
+    },
+    "softerpastels": {
+      "id": "softerpastels",
+      "name": "Softer Pastels",
+      "version": "0.8.0-rev.da982e0",
+      "url": "https://devos.one/"
+    },
+    "stringerthings": {
+      "id": "stringerthings",
+      "name": "Stringer Things",
+      "version": "1.5.0+1.21",
+      "url": null
+    },
+    "techreborn": {
+      "id": "techreborn",
+      "name": "Tech Reborn",
+      "version": "5.11.7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/techreborn"
+    },
+    "terralith": {
+      "id": "terralith",
+      "name": "Terralith",
+      "version": "2.5.3",
+      "url": "https://www.stardustlabs.net/"
+    },
+    "terrestria-common": {
+      "id": "terrestria-common",
+      "name": "Terrestria: Common",
+      "version": "7.0.0",
       "url": null
     },
     "the_bumblezone": {
@@ -402,71 +594,65 @@
       "version": "7.6.10+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
-    "modern_beta": {
-      "id": "modern_beta",
-      "name": "Moderner Beta Fabric",
-      "version": "6.5+er1.3.1+1.21",
-      "url": "https://github.com/BlueStaggo/"
+    "tinycoal": {
+      "id": "tinycoal",
+      "name": "TinyCoal",
+      "version": "1.0.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tiny-coal"
     },
-    "techreborn": {
-      "id": "techreborn",
-      "name": "Tech Reborn",
-      "version": "5.11.7",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/techreborn"
+    "tommylib": {
+      "id": "tommylib",
+      "name": "TommyLib",
+      "version": "16.1.2",
+      "url": "https://github.com/thomasglasser/TommyLib"
     },
-    "enriched": {
-      "id": "enriched",
-      "name": "Enriched",
-      "version": "3.1.0",
-      "url": "https://enrichedmc.com/"
-    },
-    "nears": {
-      "id": "nears",
-      "name": "Nears",
+    "toms_storage": {
+      "id": "toms_storage",
+      "name": "Tom's Simple Storage Mod",
       "version": "2.0.6",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
+    },
+    "traverse-common": {
+      "id": "traverse-common",
+      "name": "Traverse: Common",
+      "version": "8.0.0",
       "url": null
     },
-    "mr_mine_treasure": {
-      "id": "mr_mine_treasure",
-      "name": "Mine Treasure",
-      "version": "1.4.3",
-      "url": "https://modrinth.com/datapack/mine-treasure"
+    "usefulfood": {
+      "id": "usefulfood",
+      "name": "UsefulFood Reborn",
+      "version": "1.2.2-1.21-Fabric",
+      "url": null
     },
-    "anvil_crushing_recipes": {
-      "id": "anvil_crushing_recipes",
-      "name": "Anvil Crushing Recipes",
-      "version": "1.4.0",
-      "url": "https://modrinth.com/mod/anvil-crushing-recipes"
+    "usefulhats": {
+      "id": "usefulhats",
+      "name": "Useful Hats",
+      "version": "1.21-6.1.1.0",
+      "url": "https://github.com/cech12/UsefulHats"
     },
-    "alchemist": {
-      "id": "alchemist",
-      "name": "Alchemist",
-      "version": "1.1.3",
-      "url": "https://unix-supremacist.github.io"
+    "variantbarrels": {
+      "id": "variantbarrels",
+      "name": "Variant Barrels",
+      "version": "4.0",
+      "url": null
     },
-    "expandedstorage": {
-      "id": "expandedstorage",
-      "name": "Expanded Storage",
-      "version": "14.0.0",
-      "url": "https://modrinth.com/mod/expanded-storage"
+    "variantbookshelves": {
+      "id": "variantbookshelves",
+      "name": "Variant Bookshelves",
+      "version": "3.0",
+      "url": null
     },
-    "armourers_workshop": {
-      "id": "armourers_workshop",
-      "name": "Armourer's Workshop",
-      "version": "3.0.0-beta.9",
-      "url": "https://github.com/Armourers-Workshop/Armourers-Workshop"
+    "variantchests": {
+      "id": "variantchests",
+      "name": "Variant Chests",
+      "version": "2.0.1",
+      "url": null
     },
-    "dragonloot": {
-      "id": "dragonloot",
-      "name": "DragonLoot",
-      "version": "1.1.4",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/dragonloot"
-    },
-    "energizedpower": {
-      "id": "energizedpower",
-      "name": "Energized Power",
-      "version": "1.21-2.12.0-fabric",
-      "url": "https://github.com/JDDev0/EnergizedPower"
+    "variantcraftingtables": {
+      "id": "variantcraftingtables",
+      "name": "Variant Crafting Tables",
+      "version": "7.0",
+      "url": null
     },
     "variantvanillablocks": {
       "id": "variantvanillablocks",
@@ -474,191 +660,41 @@
       "version": "2.0.1",
       "url": null
     },
-    "blockus": {
-      "id": "blockus",
-      "name": "Blockus",
-      "version": "2.9.1+1.21",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/blockus"
-    },
-    "lolmlv": {
-      "id": "lolmlv",
-      "name": "More Lectern Variants",
-      "version": "1.5.3",
-      "url": "https://lieonlion.github.io/LieOnLion/"
-    },
-    "foodtxf": {
-      "id": "foodtxf",
-      "name": "Food TXF",
-      "version": "1.21-1.6.4-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
-    },
-    "medievalweapons": {
-      "id": "medievalweapons",
-      "name": "Medieval Weapons",
-      "version": "1.4.8",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/medievalweapons"
-    },
-    "mob_catcher": {
-      "id": "mob_catcher",
-      "name": "Mob Catcher",
-      "version": "1.5.5",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric"
-    },
-    "natures_spirit": {
-      "id": "natures_spirit",
-      "name": "Nature's Spirit",
-      "version": "1.5.5-1.21",
+    "veggie_way": {
+      "id": "veggie_way",
+      "name": "The Veggie Way",
+      "version": "1.6.6",
       "url": null
+    },
+    "walljump": {
+      "id": "walljump",
+      "name": "Wall-Jump TXF",
+      "version": "1.21-1.2.1-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf"
+    },
+    "wilderwild": {
+      "id": "wilderwild",
+      "name": "Wilder Wild",
+      "version": "2.4.5-Fabric+1.21",
+      "url": "https://modrinth.com/mod/wilder-wild"
+    },
+    "woodenshears": {
+      "id": "woodenshears",
+      "name": "Wooden Shears",
+      "version": "1.21-3.1.1.0",
+      "url": "https://github.com/cech12/WoodenShears"
+    },
+    "wover-tag": {
+      "id": "wover-tag",
+      "name": "WorldWeaver - Tag API",
+      "version": "21.0.6",
+      "url": "https://github.com/quiqueck/WorldWeaver"
     },
     "xtraarrows": {
       "id": "xtraarrows",
       "name": "Xtra Arrows 3",
       "version": "3.3.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/xtra-arrows"
-    },
-    "goldenhopper": {
-      "id": "goldenhopper",
-      "name": "Golden Hopper",
-      "version": "1.5.3",
-      "url": "https://mrcrayfish.com/mods/goldenhopper"
-    },
-    "hauntfurnace": {
-      "id": "hauntfurnace",
-      "name": "Haunt Furnace",
-      "version": "0.3.1-1.21",
-      "url": "https://github.com/jshipley/HauntFurnace"
-    },
-    "polydecorations": {
-      "id": "polydecorations",
-      "name": "PolyDecorations",
-      "version": "0.4.1+1.21",
-      "url": "https://pb4.eu"
-    },
-    "gardens_of_the_dead": {
-      "id": "gardens_of_the_dead",
-      "name": "Gardens of the Dead",
-      "version": "5.0.0",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead"
-    },
-    "mo_glass": {
-      "id": "mo_glass",
-      "name": "Mo Glass",
-      "version": "1.8.1-MC1.21",
-      "url": "https://www.wimods.net/mo-glass/?utm_source=Mo+Glass&utm_medium=ModMenu&utm_content=Mo+Glass+ModMenu+website+link"
-    },
-    "adventure_map_developer": {
-      "id": "adventure_map_developer",
-      "name": "Adventure Map Developer",
-      "version": "1.1.0",
-      "url": "https://caotenhoch2.wixsite.com/caotenhoch2"
-    },
-    "gobber2": {
-      "id": "gobber2",
-      "name": "Gobber2",
-      "version": "2.10.18",
-      "url": ""
-    },
-    "geocluster": {
-      "id": "geocluster",
-      "name": "Geocluster",
-      "version": "1.3.6+1.21",
-      "url": null
-    },
-    "lolmcmv": {
-      "id": "lolmcmv",
-      "name": "More Composter Variants",
-      "version": "1.5.3",
-      "url": "https://lieonlion.github.io/LieOnLion/"
-    },
-    "mythicmetals": {
-      "id": "mythicmetals",
-      "name": "Mythic Metals",
-      "version": "0.20.0+1.21-alpha3",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/mythicmetals"
-    },
-    "bclib": {
-      "id": "bclib",
-      "name": "BCLib",
-      "version": "21.0.5",
-      "url": "https://modrinth.com/mod/bclib"
-    },
-    "bronze": {
-      "id": "bronze",
-      "name": "Bronze",
-      "version": "1.0.6",
-      "url": "https://bronze.khazoda.com"
-    },
-    "betternether": {
-      "id": "betternether",
-      "name": "Better Nether",
-      "version": "21.0.5",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/betternether"
-    },
-    "duckling": {
-      "id": "duckling",
-      "name": "Duckling",
-      "version": "5.0.0",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/duckling"
-    },
-    "mining_dims": {
-      "id": "mining_dims",
-      "name": "Mining Dimensions",
-      "version": "1.7.7",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
-    },
-    "copper_golem": {
-      "id": "copper_golem",
-      "name": "Copper Golem",
-      "version": "1.8.2+1.21",
-      "url": null
-    },
-    "ceramicshears": {
-      "id": "ceramicshears",
-      "name": "Ceramic Shears",
-      "version": "1.21-3.1.1.0",
-      "url": "https://github.com/cech12/CeramicShears"
-    },
-    "leaves_us_in_peace": {
-      "id": "leaves_us_in_peace",
-      "name": "Leaves Us In Peace",
-      "version": "1.1.1",
-      "url": "https://modrinth.com/mod/leaves-us-in-peace"
-    },
-    "lolmcbv": {
-      "id": "lolmcbv",
-      "name": "More Chiseled Bookshelf Variants",
-      "version": "1.5.4",
-      "url": "https://lieonlion.github.io/LieOnLion/"
-    },
-    "resource_nether_ores": {
-      "id": "resource_nether_ores",
-      "name": "Resource Nether Ores",
-      "version": "2.0.4",
-      "url": "https://fabricmc.net/"
-    },
-    "material_beacons": {
-      "id": "material_beacons",
-      "name": "Material Beacons",
-      "version": "1.0.1+1.21",
-      "url": "https://fabricmc.net/"
-    },
-    "impracticality": {
-      "id": "impracticality",
-      "name": "Impracticality",
-      "version": "0.3.1-beta",
-      "url": "https://modrinth.com/user/sonianvm"
-    },
-    "compostbag": {
-      "id": "compostbag",
-      "name": "CompostBag",
-      "version": "4.1.0",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/compost-bag"
-    },
-    "axesareweapons": {
-      "id": "axesareweapons",
-      "name": "Axes Are Weapons",
-      "version": "1.9.0",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons"
     }
   },
   "item": [
@@ -960,9 +996,9 @@
         {
           "value": "minecraft:ender_pearl",
           "sources": [
-            "toms_storage",
             "armourers_workshop",
-            "energizedpower"
+            "energizedpower",
+            "toms_storage"
           ]
         }
       ]
@@ -1484,8 +1520,8 @@
         {
           "value": "minecraft:andesite",
           "sources": [
-            "balm-fabric",
             "armourers_workshop",
+            "balm-fabric",
             "fabric-convention-tags-v2",
             "hauntfurnace",
             "resourceful_tools"
@@ -1494,8 +1530,8 @@
         {
           "value": "minecraft:diorite",
           "sources": [
-            "balm-fabric",
             "armourers_workshop",
+            "balm-fabric",
             "fabric-convention-tags-v2",
             "hauntfurnace",
             "resourceful_tools"
@@ -1504,8 +1540,8 @@
         {
           "value": "minecraft:granite",
           "sources": [
-            "balm-fabric",
             "armourers_workshop",
+            "balm-fabric",
             "fabric-convention-tags-v2",
             "hauntfurnace",
             "resourceful_tools"
@@ -1637,8 +1673,8 @@
         {
           "value": "#minecraft:enchantable/sword",
           "sources": [
-            "basicweapons",
-            "axesareweapons"
+            "axesareweapons",
+            "basicweapons"
           ]
         },
         {
@@ -1683,8 +1719,8 @@
         {
           "value": "minecraft:egg",
           "sources": [
-            "duckling",
-            "balm-fabric"
+            "balm-fabric",
+            "duckling"
           ]
         },
         {
@@ -2102,11 +2138,11 @@
         {
           "value": "minecraft:gold_nugget",
           "sources": [
-            "ingotcraft",
             "balm-fabric",
-            "usefulhats",
             "energizedpower",
-            "foodtxf"
+            "foodtxf",
+            "ingotcraft",
+            "usefulhats"
           ]
         }
       ]
@@ -2119,11 +2155,11 @@
         {
           "value": "minecraft:iron_nugget",
           "sources": [
-            "ingotcraft",
             "balm-fabric",
-            "expandedstorage",
             "energizedpower",
-            "foodtxf"
+            "expandedstorage",
+            "foodtxf",
+            "ingotcraft"
           ]
         }
       ]
@@ -6511,8 +6547,8 @@
         {
           "value": "minecraft:chest",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -6525,8 +6561,8 @@
         {
           "value": "minecraft:furnace",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -6539,8 +6575,8 @@
         {
           "value": "minecraft:iron_ingot",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -6559,153 +6595,153 @@
         {
           "value": "minecraft:music_disc_11",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_13",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_5",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_blocks",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_cat",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_chirp",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_creator",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_creator_music_box",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_far",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_mall",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_mellohi",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_otherside",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_pigstep",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_precipice",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_relic",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_stal",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_strad",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_wait",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:music_disc_ward",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
@@ -6730,15 +6766,15 @@
         {
           "value": "minecraft:soul_sand",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:soul_soil",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -6751,9 +6787,9 @@
         {
           "value": "minecraft:water_bucket",
           "sources": [
-            "wover-tag",
             "bclib",
-            "croptopia"
+            "croptopia",
+            "wover-tag"
           ]
         },
         {
@@ -11278,6 +11314,7 @@
         {
           "value": "rounded:lustershroom",
           "sources": [
+            "rounded",
             "rounded"
           ]
         }
@@ -12397,6 +12434,15 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": {
+            "id": "#lieonstudio:barrels",
+            "required": false
+          },
+          "sources": [
+            "lolmblv"
+          ]
         }
       ]
     },
@@ -12444,6 +12490,12 @@
           "value": "minecraft:bookshelf",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#variantbookshelves:bookshelves",
+          "sources": [
+            "variantbookshelves"
           ]
         },
         {
@@ -12603,6 +12655,12 @@
           "value": "minecraft:stonecutter",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#variantbarrels:barrels",
+          "sources": [
+            "variantbarrels"
           ]
         },
         {
@@ -13159,6 +13217,40 @@
           "value": "cinderscapes:sulfur",
           "sources": [
             "cinderscapes-common"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ropes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "quark:rope",
+            "required": false
+          },
+          "sources": [
+            "comforts"
+          ]
+        },
+        {
+          "value": {
+            "id": "supplementaries:rope",
+            "required": false
+          },
+          "sources": [
+            "comforts"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmersdelight:rope",
+            "required": false
+          },
+          "sources": [
+            "comforts"
           ]
         }
       ]
@@ -17753,8 +17845,9 @@
         {
           "value": "minecraft:wheat",
           "sources": [
-            "veggie_way",
-            "rounded"
+            "rounded",
+            "rounded",
+            "veggie_way"
           ]
         }
       ]
@@ -19169,8 +19262,8 @@
         {
           "value": "minecraft:milk_bucket",
           "sources": [
-            "veggie_way",
-            "croptopia"
+            "croptopia",
+            "veggie_way"
           ]
         },
         {
@@ -24197,10 +24290,10 @@
         {
           "value": "minecraft:glass",
           "sources": [
-            "toms_storage",
             "energizedpower",
             "foodtxf",
-            "ingotcraft"
+            "ingotcraft",
+            "toms_storage"
           ]
         }
       ]
@@ -28844,8 +28937,8 @@
         {
           "value": "minecraft:gold_ingot",
           "sources": [
-            "goldenhopper",
             "fabric-convention-tags-v2",
+            "goldenhopper",
             "mythicmetals"
           ]
         }
@@ -29144,12 +29237,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ropes",
-      "replaced_by": [],
-      "sources": [],
-      "content": []
     },
     {
       "id": "sandstone/red_blocks",
@@ -31649,81 +31736,81 @@
         {
           "value": "minecraft:leather",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:rabbit_hide",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:feather",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:slime_ball",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:gunpowder",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:iron_ingot",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:gold_ingot",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:ender_pearl",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:blaze_powder",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:quartz",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
@@ -31823,15 +31910,15 @@
         {
           "value": "minecraft:diamond_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:deepslate_diamond_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         }
       ]
@@ -31844,15 +31931,15 @@
         {
           "value": "minecraft:emerald_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:deepslate_emerald_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         }
       ]
@@ -31913,15 +32000,15 @@
         {
           "value": "minecraft:gold_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:deepslate_gold_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         }
       ]
@@ -31934,15 +32021,15 @@
         {
           "value": "minecraft:iron_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:deepslate_iron_ore",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         }
       ]
@@ -31955,37 +32042,37 @@
         {
           "value": "minecraft:netherite_scrap",
           "sources": [
+            "gobber2",
             "greater_eye",
             "resourceful_tools",
-            "veggie_way",
-            "gobber2"
+            "veggie_way"
           ]
         },
         {
           "value": "minecraft:prismarine_shard",
           "sources": [
+            "gobber2",
             "greater_eye",
             "resourceful_tools",
-            "veggie_way",
-            "gobber2"
+            "veggie_way"
           ]
         },
         {
           "value": "minecraft:prismarine_crystals",
           "sources": [
+            "gobber2",
             "greater_eye",
             "resourceful_tools",
-            "veggie_way",
-            "gobber2"
+            "veggie_way"
           ]
         },
         {
           "value": "minecraft:nautilus_shell",
           "sources": [
+            "gobber2",
             "greater_eye",
             "resourceful_tools",
-            "veggie_way",
-            "gobber2"
+            "veggie_way"
           ]
         },
         {
@@ -32058,57 +32145,57 @@
         {
           "value": "minecraft:diamond",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:emerald",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:shulker_shell",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:rabbit_foot",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:heart_of_the_sea",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:blaze_rod",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
           "value": "minecraft:ghast_tear",
           "sources": [
+            "gobber2",
             "greater_eye",
-            "resourceful_tools",
-            "gobber2"
+            "resourceful_tools"
           ]
         },
         {
@@ -32202,19 +32289,19 @@
         {
           "value": "minecraft:totem_of_undying",
           "sources": [
+            "gobber2",
             "greater_eye",
             "resourceful_tools",
-            "veggie_way",
-            "gobber2"
+            "veggie_way"
           ]
         },
         {
           "value": "minecraft:elytra",
           "sources": [
+            "gobber2",
             "greater_eye",
             "resourceful_tools",
-            "veggie_way",
-            "gobber2"
+            "veggie_way"
           ]
         },
         {
@@ -33489,113 +33576,113 @@
         {
           "value": "minecraft:white_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:orange_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:magenta_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:light_blue_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:yellow_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:lime_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:pink_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:gray_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:light_gray_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:cyan_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:purple_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:blue_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:brown_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:green_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:red_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         },
         {
           "value": "minecraft:black_stained_glass_pane",
           "sources": [
-            "the_bumblezone",
-            "mo_glass"
+            "mo_glass",
+            "the_bumblezone"
           ]
         }
       ]
@@ -34232,6 +34319,22 @@
           "value": "minecraft:shulker_shell",
           "sources": [
             "more_gems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grindstones",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:grindstones",
+            "required": false
+          },
+          "sources": [
+            "lolmgv"
           ]
         }
       ]
@@ -36007,6 +36110,7 @@
         {
           "value": "rounded:lustershroom_block",
           "sources": [
+            "rounded",
             "rounded"
           ]
         },
@@ -39876,6 +39980,38 @@
       ]
     },
     {
+      "id": "barrel",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#variantbarrels:barrels",
+          "sources": [
+            "variantbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wooden_barrels",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#variantbarrels:barrels",
+          "sources": [
+            "variantbarrels"
+          ]
+        },
+        {
+          "value": "#variantvanillablocks:barrels",
+          "sources": [
+            "variantvanillablocks"
+          ]
+        }
+      ]
+    },
+    {
       "id": "wooden_chests",
       "replaced_by": [],
       "sources": [],
@@ -39888,19 +40024,6 @@
         },
         {
           "value": "#variantvanillablocks:chests",
-          "sources": [
-            "variantvanillablocks"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "wooden_barrels",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "#variantvanillablocks:barrels",
           "sources": [
             "variantvanillablocks"
           ]
@@ -43362,9 +43485,9 @@
         {
           "value": "minecraft:bookshelf",
           "sources": [
+            "bclib",
             "fabric-convention-tags-v2",
-            "wover-tag",
-            "bclib"
+            "wover-tag"
           ]
         },
         {
@@ -43440,6 +43563,12 @@
           ]
         },
         {
+          "value": "#variantbookshelves:bookshelves",
+          "sources": [
+            "variantbookshelves"
+          ]
+        },
+        {
           "value": "#variantvanillablocks:bookshelves",
           "sources": [
             "variantvanillablocks"
@@ -43455,8 +43584,8 @@
         {
           "value": "minecraft:chest",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43541,8 +43670,8 @@
         {
           "value": "#minecraft:dragon_immune",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -43555,11 +43684,11 @@
         {
           "value": "minecraft:end_stone",
           "sources": [
-            "wover-tag",
             "bclib",
             "enderite",
+            "gobber2",
             "ring_of_miner",
-            "gobber2"
+            "wover-tag"
           ]
         },
         {
@@ -43602,22 +43731,22 @@
         {
           "value": "#minecraft:dirt",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#minecraft:logs",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#minecraft:planks",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43645,22 +43774,22 @@
         {
           "value": "#minecraft:dirt",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#minecraft:logs",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#minecraft:planks",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43688,15 +43817,15 @@
         {
           "value": "minecraft:crying_obsidian",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:obsidian",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43781,8 +43910,8 @@
         {
           "value": "#minecraft:mineable/pickaxe",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -43795,8 +43924,8 @@
         {
           "value": "minecraft:mycelium",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43830,15 +43959,15 @@
         {
           "value": "minecraft:nether_gold_ore",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:nether_quartz_ore",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43875,8 +44004,8 @@
         {
           "value": "#minecraft:base_stone_nether",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43925,36 +44054,36 @@
         {
           "value": "minecraft:blackstone",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:bone_block",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:glowstone",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:gravel",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:magma_block",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -43978,15 +44107,15 @@
         {
           "value": "#minecraft:nylium",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:red_sand",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -44053,36 +44182,36 @@
         {
           "value": "minecraft:crimson_nylium",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:nether_gold_ore",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:nether_quartz_ore",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:netherrack",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:warped_nylium",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -44161,358 +44290,358 @@
         {
           "value": "minecraft:allium",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:attached_melon_stem",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:attached_pumpkin_stem",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:azalea",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:azure_bluet",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:bamboo",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:beetroots",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:big_dripleaf",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:big_dripleaf_stem",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:blue_orchid",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:cactus",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:carrots",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:cave_vines",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:cave_vines_plant",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:cocoa",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:cornflower",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:dandelion",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:fern",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:flowering_azalea",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:large_fern",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:lilac",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:lily_of_the_valley",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:lily_pad",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:mangrove_leaves",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:melon_stem",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:orange_tulip",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:oxeye_daisy",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:peony",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:pink_petals",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:pink_tulip",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:pitcher_crop",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:pitcher_plant",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:poppy",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:potatoes",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:pumpkin_stem",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:red_tulip",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:rose_bush",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#c:saplings",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:short_grass",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:small_dripleaf",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:spore_blossom",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:sugar_cane",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:sunflower",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:sweet_berry_bush",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:tall_grass",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:torchflower",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:torchflower_crop",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:vine",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:wheat",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:white_tulip",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:wither_rose",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -44675,64 +44804,64 @@
         {
           "value": "minecraft:acacia_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:bamboo_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:birch_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:cherry_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:dark_oak_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:jungle_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:mangrove_propagule",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:oak_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:spruce_sapling",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -44805,8 +44934,8 @@
         {
           "value": "minecraft:sculk",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -44819,19 +44948,19 @@
         {
           "value": "minecraft:soul_sand",
           "sources": [
-            "ring_of_miner",
-            "wover-tag",
             "bclib",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:soul_soil",
           "sources": [
-            "ring_of_miner",
-            "wover-tag",
             "bclib",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner",
+            "wover-tag"
           ]
         },
         {
@@ -44856,29 +44985,29 @@
         {
           "value": "#minecraft:base_stone_overworld",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:bone_block",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:dirt",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#minecraft:dripstone_replaceable_blocks",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -44890,36 +45019,36 @@
         {
           "value": "minecraft:farmland",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:glowstone",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:grass_block",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:gravel",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:magma_block",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -44937,29 +45066,29 @@
         {
           "value": "#minecraft:nylium",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:red_sand",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:sand",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:sculk",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -44999,29 +45128,29 @@
         {
           "value": "minecraft:kelp",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:kelp_plant",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:seagrass",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "minecraft:tall_seagrass",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -45034,8 +45163,8 @@
         {
           "value": "minecraft:composter",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -45114,15 +45243,15 @@
         {
           "value": "#c:barrel",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#c:wooden_barrels",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -45196,6 +45325,12 @@
           "value": "betternether:willow_barrel",
           "sources": [
             "betternether"
+          ]
+        },
+        {
+          "value": "#variantbarrels:barrels",
+          "sources": [
+            "variantbarrels"
           ]
         }
       ]
@@ -45738,6 +45873,12 @@
           ]
         },
         {
+          "value": "#variantbarrels:barrels",
+          "sources": [
+            "variantbarrels"
+          ]
+        },
+        {
           "value": "#variantvanillablocks:barrels",
           "sources": [
             "variantvanillablocks"
@@ -46008,29 +46149,29 @@
         {
           "value": "minecraft:dirt",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:podzol",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:mycelium",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:coarse_dirt",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
@@ -46048,8 +46189,8 @@
         {
           "value": "minecraft:grass_block",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
@@ -46268,15 +46409,15 @@
         {
           "value": "minecraft:sand",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:red_sand",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
@@ -46822,6 +46963,15 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": {
+            "id": "#lieonstudio:barrels",
+            "required": false
+          },
+          "sources": [
+            "lolmblv"
+          ]
         }
       ]
     },
@@ -47145,6 +47295,336 @@
           "value": "minecraft:stonecutter",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "lolmgv:oak_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:spruce_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:birch_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:jungle_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:acacia_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:mangrove_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:cherry_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:bamboo_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:crimson_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:warped_stone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:oak_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:dark_oak_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:spruce_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:birch_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:jungle_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:acacia_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:mangrove_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:cherry_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:bamboo_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:crimson_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:warped_sandstone_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:oak_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:dark_oak_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:spruce_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:birch_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:jungle_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:acacia_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:mangrove_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:cherry_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:bamboo_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:crimson_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:warped_deepslate_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:oak_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:dark_oak_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:spruce_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:birch_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:jungle_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:acacia_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:mangrove_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:cherry_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:bamboo_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:crimson_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:warped_basalt_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:oak_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:dark_oak_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:spruce_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:birch_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:jungle_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:acacia_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:mangrove_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:cherry_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:bamboo_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:crimson_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "lolmgv:warped_granite_grindstone",
+          "sources": [
+            "lolmgv"
+          ]
+        },
+        {
+          "value": "#variantbarrels:barrels",
+          "sources": [
+            "variantbarrels"
           ]
         },
         {
@@ -48394,16 +48874,16 @@
           "value": "minecraft:cobblestone",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:mossy_cobblestone",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
@@ -50878,202 +51358,202 @@
           "value": "minecraft:stone",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:andesite",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:diorite",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:granite",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:tuff",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:deepslate",
           "sources": [
             "fabric-convention-tags-v2",
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:calcite",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:dripstone_block",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:basalt",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:smooth_basalt",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:blackstone",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:white_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:orange_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:magenta_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:light_blue_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:yellow_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:lime_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:pink_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:gray_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:light_gray_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:cyan_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:purple_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:blue_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:brown_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:green_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:red_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:black_terracotta",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
@@ -51578,8 +52058,8 @@
         {
           "value": "minecraft:clay",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         }
       ]
@@ -51694,8 +52174,8 @@
         {
           "value": "minecraft:netherrack",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         }
       ]
@@ -51708,15 +52188,31 @@
         {
           "value": "minecraft:sandstone",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
           ]
         },
         {
           "value": "minecraft:red_sandstone",
           "sources": [
-            "ring_of_miner",
-            "gobber2"
+            "gobber2",
+            "ring_of_miner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hopper_special_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "minecraft:decorated_pot",
+            "required": false
+          },
+          "sources": [
+            "hopperpots"
           ]
         }
       ]
@@ -52577,6 +53073,22 @@
           },
           "sources": [
             "lolmft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grindstones",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:grindstones",
+            "required": false
+          },
+          "sources": [
+            "lolmgv"
           ]
         }
       ]
@@ -54859,8 +55371,8 @@
         {
           "value": "minecraft:end_barrens",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -54873,8 +55385,8 @@
         {
           "value": "minecraft:the_end",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -54887,15 +55399,15 @@
         {
           "value": "minecraft:end_highlands",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#c:is_end_land",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -54908,15 +55420,15 @@
         {
           "value": "minecraft:end_midlands",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "#c:is_end_land",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -54929,8 +55441,8 @@
         {
           "value": "minecraft:small_end_islands",
           "sources": [
-            "wover-tag",
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         }
       ]
@@ -54943,8 +55455,8 @@
         {
           "value": "minecraft:snowy_taiga",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -54993,8 +55505,8 @@
         {
           "value": "minecraft:old_growth_pine_taiga",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -55037,8 +55549,8 @@
         {
           "value": "minecraft:old_growth_spruce_taiga",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -55069,8 +55581,8 @@
         {
           "value": "minecraft:taiga",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -55119,8 +55631,8 @@
         {
           "value": "#minecraft:is_jungle",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -55139,8 +55651,8 @@
         {
           "value": "minecraft:grove",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -55183,8 +55695,8 @@
         {
           "value": "#minecraft:is_savanna",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         }
       ]
@@ -55197,8 +55709,8 @@
         {
           "value": "#minecraft:is_badlands",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -55217,8 +55729,8 @@
         {
           "value": "minecraft:forest",
           "sources": [
-            "terralith",
-            "biomesoplenty"
+            "biomesoplenty",
+            "terralith"
           ]
         },
         {
@@ -59804,8 +60316,8 @@
         {
           "value": "minecraft:sunflower_plains",
           "sources": [
-            "wilderwild",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "wilderwild"
           ]
         },
         {

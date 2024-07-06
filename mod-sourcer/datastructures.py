@@ -1,4 +1,4 @@
-from typing import Dict, List, Set
+from typing import Dict, List
 
 
 class TagSource:
@@ -31,15 +31,17 @@ class TagSource:
 
 class TagEntry:
     value: str
-    sources: Set[TagSource]
+    sources: List[TagSource]
 
-    def __init__(self, value: str, sources: Set[TagSource]) -> None:
+    def __init__(self, value: str, sources: List[TagSource]) -> None:
         super().__init__()
         self.value = value
         self.sources = sources
 
     def add_source(self, source: TagSource):
-        self.sources.add(source)
+        if source not in self.sources:
+            self.sources.append(source)
+            self.sources.sort(key=lambda x: x.mod_id)
 
     def to_json(self):
         return {
@@ -56,20 +58,20 @@ class TagEntry:
 class Tag:
     id: str
     # Tag sources that will replace this tag fully
-    replaced_by: Set[TagSource]
+    replaced_by: List[TagSource]
     content: List[TagEntry]
-    sources: Set[TagSource]
+    sources: List[TagSource]
 
     def __init__(self, id: str) -> None:
         super().__init__()
         self.id = id
-        self.replaced_by = set()
+        self.replaced_by = []
         self.content = []
-        self.sources = set()
+        self.sources = []
 
     def add_source(self, source: TagSource, tag_json: Dict):
         if tag_json.get("replace", False):
-            self.replaced_by.add(source)
+            self.replaced_by.append(source)
 
         # Merge values from the mod and add the mod as a source for each entry
         entries = tag_json.get("values", [])
@@ -80,13 +82,13 @@ class Tag:
                     existing_entry.add_source(source)
                     found = True
             if not found:
-                self.content.append(TagEntry(entry, {source}))
+                self.content.append(TagEntry(entry, [source]))
 
     def to_json(self):
         return {
             'id': self.id,
             'replaced_by': [s.mod_id for s in self.replaced_by],
-            'sources': [s.mod_id for s in self.replaced_by],
+            'sources': [s.mod_id for s in self.sources],
             'content': [c.to_json() for c in self.content]
         }
 
@@ -99,7 +101,7 @@ class Tag:
 
 
 class TagContainer:
-    sources: Set[TagSource]
+    sources: List[TagSource]
     item: Dict[str, Tag]
     block: Dict[str, Tag]
     fluid: Dict[str, Tag]
@@ -109,7 +111,7 @@ class TagContainer:
 
     def __init__(self) -> None:
         super().__init__()
-        self.sources = set()
+        self.sources = []
         self.item = {}
         self.block = {}
         self.fluid = {}
@@ -118,7 +120,9 @@ class TagContainer:
         self.enchantment = {}
 
     def add_tag(self, tag_type: str, source: TagSource, tag_id: str, tag_json: Dict):
-        self.sources.add(source)
+        if source not in self.sources:
+            self.sources.append(source)
+            self.sources.sort(key=lambda x: x.mod_id)
 
         tag_dict: Dict[str, Tag] = self.__getattribute__(tag_type)
 

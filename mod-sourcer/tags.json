@@ -69,7 +69,7 @@
     "better_mcdonalds_mod": {
       "id": "better_mcdonalds_mod",
       "name": "Better McDonald's Mod",
-      "version": "4.0.2+1.21",
+      "version": "4.1.0+1.21",
       "url": "https://sites.google.com/view/moritz-htk/mods/better-mcdonalds-mod"
     },
     "betternether": {
@@ -111,7 +111,7 @@
     "ceramicshears": {
       "id": "ceramicshears",
       "name": "Ceramic Shears",
-      "version": "1.21-3.1.1.0",
+      "version": "1.21-3.1.2.0",
       "url": "https://github.com/cech12/CeramicShears"
     },
     "charm": {
@@ -219,7 +219,7 @@
     "endorium": {
       "id": "endorium",
       "name": "Endorium",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "url": null
     },
     "energizedpower": {
@@ -357,7 +357,7 @@
     "lolmcmv": {
       "id": "lolmcmv",
       "name": "More Composter Variants",
-      "version": "1.5.5",
+      "version": "1.5.6",
       "url": "https://lieonlion.github.io/LieOnLion/"
     },
     "lolmft": {
@@ -462,6 +462,12 @@
       "version": "0.7.0",
       "url": null
     },
+    "pdpcompat": {
+      "id": "pdpcompat",
+      "name": "Personal Disc Player Compatibility",
+      "version": "1.21-1.0.0",
+      "url": "https://github.com/DentedLeft/Dented-Modding"
+    },
     "pearfection": {
       "id": "pearfection",
       "name": "Pearfection",
@@ -534,6 +540,12 @@
       "version": "1.0.3",
       "url": "https://modrinth.com/mod/rounded_mod"
     },
+    "rudimentary": {
+      "id": "rudimentary",
+      "name": "Rudimentary",
+      "version": "0.2.0",
+      "url": null
+    },
     "sereneseasons": {
       "id": "sereneseasons",
       "name": "SereneSeasons",
@@ -591,7 +603,7 @@
     "the_bumblezone": {
       "id": "the_bumblezone",
       "name": "The Bumblezone - Fabric",
-      "version": "7.6.10+1.21-fabric",
+      "version": "7.6.11+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "tinycoal": {
@@ -1321,6 +1333,12 @@
           "sources": [
             "armourers_workshop",
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "endreborn:obsidian_glass_pane",
+          "sources": [
+            "endorium"
           ]
         },
         {
@@ -3417,6 +3435,12 @@
           ]
         },
         {
+          "value": "#c:ores/tungsten",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
           "value": "energizedpower:tin_ore",
           "sources": [
             "energizedpower"
@@ -4409,6 +4433,12 @@
           ]
         },
         {
+          "value": "#c:raw_materials/tungsten",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
           "value": "energizedpower:raw_tin",
           "sources": [
             "energizedpower"
@@ -5351,6 +5381,18 @@
           "value": "cinderscapes:sulfur_block",
           "sources": [
             "cinderscapes-common"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/tungsten",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/raw_tungsten",
+          "sources": [
+            "endorium"
           ]
         },
         {
@@ -6748,6 +6790,90 @@
           "value": "biomesoplenty:music_disc_wanderer",
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": "dwdsb:wave",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:lost",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:watched",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:rest",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:mirror",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:rain",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:alone",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:bean",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:lyre",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:ember",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:star",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:rave",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:waltz",
+          "sources": [
+            "pdpcompat"
+          ]
+        },
+        {
+          "value": "dwdsb:sunset",
+          "sources": [
+            "pdpcompat"
           ]
         },
         {
@@ -9523,6 +9649,24 @@
           "sources": [
             "softerpastels"
           ]
+        },
+        {
+          "value": "the_bumblezone:royal_jelly_bottle",
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": "the_bumblezone:sugar_water_bottle",
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": "the_bumblezone:bee_bread",
+          "sources": [
+            "the_bumblezone"
+          ]
         }
       ]
     },
@@ -10719,398 +10863,6 @@
       ]
     },
     {
-      "id": "tools",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#c:tools/knife",
-            "required": false
-          },
-          "sources": [
-            "better_mcdonalds_mod"
-          ]
-        },
-        {
-          "value": "bronze:bronze_sickle",
-          "sources": [
-            "bronze"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:axes",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:hoes",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:pickaxes",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:shovels",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:swords",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/bow",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/brush",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/crossbow",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/fishing_rod",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/shear",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/shield",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/spear",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/mining_tool",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/melee_weapon",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/ranged_weapon",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#foodtxf:blenders",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:cutting_boards",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:juicers",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:knives",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:mixing_bowls",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:rolling_pins",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:skillets",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#ingotcraft:hammers",
-          "sources": [
-            "ingotcraft"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/adamantite",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/aquarium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/banglum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/bronze",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/carmot",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/celestium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/copper",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/durasteel",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/hallowed",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/kyber",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/legendary_banglum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/metallurgium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/mythril",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/orichalcum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/osmium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/palladium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/prometheum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/quadrillum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/runite",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/star_platinum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/steel",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/stormyx",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/tidesinger",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:carmot_staff",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "polydecorations:trowel",
-          "sources": [
-            "polydecorations"
-          ]
-        },
-        {
-          "value": "polydecorations:hammer",
-          "sources": [
-            "polydecorations"
-          ]
-        },
-        {
-          "value": "#c:tools/crack_hammer",
-          "sources": [
-            "resource_cracker"
-          ]
-        },
-        {
-          "value": "#c:tools/chisel",
-          "sources": [
-            "resource_cracker"
-          ]
-        },
-        {
-          "value": "#c:tools/scythe",
-          "sources": [
-            "resource_cracker"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tools/knife",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "better_mcdonalds_mod:knife",
-          "sources": [
-            "better_mcdonalds_mod"
-          ]
-        }
-      ]
-    },
-    {
       "id": "fence_gates/wooden",
       "replaced_by": [],
       "sources": [],
@@ -11314,7 +11066,6 @@
         {
           "value": "rounded:lustershroom",
           "sources": [
-            "rounded",
             "rounded"
           ]
         }
@@ -12322,6 +12073,382 @@
           "value": "medievalweapons:netherite_rapier",
           "sources": [
             "medievalweapons"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "bronze:bronze_sickle",
+          "sources": [
+            "bronze"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:axes",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:hoes",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:pickaxes",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:shovels",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:swords",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/bow",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/brush",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/crossbow",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/fishing_rod",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/shear",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/shield",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/spear",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/mining_tool",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/melee_weapon",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/ranged_weapon",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#foodtxf:blenders",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:cutting_boards",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:juicers",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:knives",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:mixing_bowls",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:rolling_pins",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:skillets",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#ingotcraft:hammers",
+          "sources": [
+            "ingotcraft"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/copper",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/legendary_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/steel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/tidesinger",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_staff",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "polydecorations:trowel",
+          "sources": [
+            "polydecorations"
+          ]
+        },
+        {
+          "value": "polydecorations:hammer",
+          "sources": [
+            "polydecorations"
+          ]
+        },
+        {
+          "value": "#c:tools/crack_hammer",
+          "sources": [
+            "resource_cracker"
+          ]
+        },
+        {
+          "value": "#c:tools/chisel",
+          "sources": [
+            "resource_cracker"
+          ]
+        },
+        {
+          "value": "#c:tools/scythe",
+          "sources": [
+            "resource_cracker"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:tools/cannons",
+          "sources": [
+            "the_bumblezone"
           ]
         }
       ]
@@ -17118,6 +17245,12 @@
           ]
         },
         {
+          "value": "endreborn:ogana",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
           "value": "#nears:nether_fruits",
           "sources": [
             "nears"
@@ -17845,7 +17978,6 @@
         {
           "value": "minecraft:wheat",
           "sources": [
-            "rounded",
             "rounded",
             "veggie_way"
           ]
@@ -24059,12 +24191,217 @@
       ]
     },
     {
-      "id": "raw_tungsten_blocks",
+      "id": "armors",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "endreborn:raw_tungsten_block",
+          "value": "endreborn:ender_boots",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:head_armor",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:chest_armor",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:leg_armor",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:foot_armor",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/copper",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/legendary_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/midas_gold",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/osmium_chainmail",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/silver",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/steel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:armor/tidesinger",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "stringerthings:string_boots",
+          "sources": [
+            "stringerthings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "armors/boots",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:ender_boots",
           "sources": [
             "endorium"
           ]
@@ -24072,12 +24409,12 @@
       ]
     },
     {
-      "id": "raw_tungsten_ores",
+      "id": "glass",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "endreborn:raw_tungsten",
+          "value": "endreborn:obsidian_glass",
           "sources": [
             "endorium"
           ]
@@ -24085,12 +24422,12 @@
       ]
     },
     {
-      "id": "tungsten_blocks",
+      "id": "glass/colorless",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "endreborn:tungsten_block",
+          "value": "endreborn:obsidian_glass",
           "sources": [
             "endorium"
           ]
@@ -24098,7 +24435,20 @@
       ]
     },
     {
-      "id": "tungsten_ingots",
+      "id": "ingots/endorium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:endorium_ingot",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/tungsten",
       "replaced_by": [],
       "sources": [],
       "content": [
@@ -24107,16 +24457,254 @@
           "sources": [
             "endorium"
           ]
+        },
+        {
+          "value": "techreborn:tungsten_ingot",
+          "sources": [
+            "techreborn"
+          ]
         }
       ]
     },
     {
-      "id": "tungsten_ores",
+      "id": "nuggets/endorium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:endorium_nugget",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/tungsten",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
           "value": "endreborn:tungsten_ore",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "techreborn:tungsten_ore",
+          "sources": [
+            "techreborn"
+          ]
+        },
+        {
+          "value": "techreborn:deepslate_tungsten_ore",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_materials/tungsten",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:raw_tungsten",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "techreborn:raw_tungsten",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stone",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:farstone",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "terrestria:basalt",
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": "terrestria:smooth_basalt",
+          "sources": [
+            "terrestria-common"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_tungsten",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:raw_tungsten_block",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "techreborn:raw_tungsten_storage_block",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/tungsten",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:tungsten_block",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "techreborn:tungsten_storage_block",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/axes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:endorium_axe",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:curious_endorium_axe",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:mysterious_endorium_axe",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/hoes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:endorium_hoe",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:curious_endorium_hoe",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:mysterious_endorium_hoe",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/pickaxes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:endorium_pickaxe",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:curious_endorium_pickaxe",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:mysterious_endorium_pickaxe",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/shovels",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:endorium_shovel",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:curious_endorium_shovel",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:mysterious_endorium_shovel",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/swords",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:endorium_sword",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:curious_endorium_sword",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "endreborn:mysterious_endorium_sword",
           "sources": [
             "endorium"
           ]
@@ -24877,205 +25465,6 @@
       ]
     },
     {
-      "id": "armors",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:head_armor",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:chest_armor",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:leg_armor",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:foot_armor",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/adamantite",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/aquarium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/banglum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/bronze",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/carmot",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/celestium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/copper",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/durasteel",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/hallowed",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/kyber",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/legendary_banglum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/metallurgium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/midas_gold",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/mythril",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/orichalcum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/osmium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/osmium_chainmail",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/palladium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/prometheum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/runite",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/silver",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/star_platinum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/steel",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/stormyx",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:armor/tidesinger",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "stringerthings:string_boots",
-          "sources": [
-            "stringerthings"
-          ]
-        }
-      ]
-    },
-    {
       "id": "bricks",
       "replaced_by": [],
       "sources": [],
@@ -25096,6 +25485,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "rudimentary:furnace_brick",
+          "sources": [
+            "rudimentary"
           ]
         }
       ]
@@ -29877,6 +30272,12 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "rudimentary:flax_twine",
+          "sources": [
+            "rudimentary"
+          ]
         }
       ]
     },
@@ -33576,113 +33977,97 @@
         {
           "value": "minecraft:white_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:orange_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:magenta_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:light_blue_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:yellow_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:lime_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:pink_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:gray_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:light_gray_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:cyan_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:purple_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:blue_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:brown_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:green_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:red_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         },
         {
           "value": "minecraft:black_stained_glass_pane",
           "sources": [
-            "mo_glass",
-            "the_bumblezone"
+            "mo_glass"
           ]
         }
       ]
@@ -36110,7 +36495,6 @@
         {
           "value": "rounded:lustershroom_block",
           "sources": [
-            "rounded",
             "rounded"
           ]
         },
@@ -37307,19 +37691,6 @@
       ]
     },
     {
-      "id": "ingots/tungsten",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:tungsten_ingot",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
       "id": "ingots/tungstensteel",
       "replaced_by": [],
       "sources": [],
@@ -37771,25 +38142,6 @@
       "content": [
         {
           "value": "techreborn:sphalerite_ore",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ores/tungsten",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:tungsten_ore",
-          "sources": [
-            "techreborn"
-          ]
-        },
-        {
-          "value": "techreborn:deepslate_tungsten_ore",
           "sources": [
             "techreborn"
           ]
@@ -38258,19 +38610,6 @@
       "content": [
         {
           "value": "techreborn:raw_iridium",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "raw_materials/tungsten",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:raw_tungsten",
           "sources": [
             "techreborn"
           ]
@@ -39282,19 +39621,6 @@
       ]
     },
     {
-      "id": "storage_blocks/raw_tungsten",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:raw_tungsten_storage_block",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
       "id": "storage_blocks/red_garnet",
       "replaced_by": [],
       "sources": [],
@@ -39353,19 +39679,6 @@
       "content": [
         {
           "value": "techreborn:titanium_storage_block",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "storage_blocks/tungsten",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:tungsten_storage_block",
           "sources": [
             "techreborn"
           ]
@@ -39482,25 +39795,6 @@
       "content": [
         {
           "value": "terrestria:basalt_podzol",
-          "sources": [
-            "terrestria-common"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "stone",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "terrestria:basalt",
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": "terrestria:smooth_basalt",
           "sources": [
             "terrestria-common"
           ]
@@ -39676,6 +39970,32 @@
       ]
     },
     {
+      "id": "foods/candy",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "the_bumblezone:honey_crystal_shards",
+          "sources": [
+            "the_bumblezone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/soup",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "the_bumblezone:bee_soup",
+          "sources": [
+            "the_bumblezone"
+          ]
+        }
+      ]
+    },
+    {
       "id": "honeycombs",
       "replaced_by": [],
       "sources": [],
@@ -39695,109 +40015,6 @@
       "content": [
         {
           "value": "the_bumblezone:pollen_puff",
-          "sources": [
-            "the_bumblezone"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "stained_glasses",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:white_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:orange_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:magenta_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:light_blue_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:yellow_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:lime_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:pink_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:gray_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:light_gray_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:cyan_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:purple_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:blue_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:brown_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:green_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:red_stained_glass",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "minecraft:black_stained_glass",
           "sources": [
             "the_bumblezone"
           ]
@@ -41157,6 +41374,12 @@
           "value": "enderite:enderite_ore",
           "sources": [
             "enderite"
+          ]
+        },
+        {
+          "value": "#c:ores/tungsten",
+          "sources": [
+            "endorium"
           ]
         },
         {
@@ -42882,6 +43105,18 @@
           "value": "bno:raw_zinc_block",
           "sources": [
             "bno"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/tungsten",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/raw_tungsten",
+          "sources": [
+            "endorium"
           ]
         },
         {
@@ -48692,12 +48927,12 @@
       ]
     },
     {
-      "id": "tungsten_blocks",
+      "id": "glass",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "endreborn:tungsten_block",
+          "value": "endreborn:obsidian_glass",
           "sources": [
             "endorium"
           ]
@@ -48705,12 +48940,63 @@
       ]
     },
     {
-      "id": "tungsten_ores",
+      "id": "glass/colorless",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:obsidian_glass",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/tungsten",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
           "value": "endreborn:tungsten_ore",
+          "sources": [
+            "endorium"
+          ]
+        },
+        {
+          "value": "techreborn:tungsten_ore",
+          "sources": [
+            "techreborn"
+          ]
+        },
+        {
+          "value": "techreborn:deepslate_tungsten_ore",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_tungsten",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:raw_tungsten_block",
+          "sources": [
+            "endorium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/tungsten",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "endreborn:tungsten_block",
           "sources": [
             "endorium"
           ]
@@ -54129,25 +54415,6 @@
       "content": [
         {
           "value": "techreborn:sphalerite_ore",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ores/tungsten",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:tungsten_ore",
-          "sources": [
-            "techreborn"
-          ]
-        },
-        {
-          "value": "techreborn:deepslate_tungsten_ore",
           "sources": [
             "techreborn"
           ]

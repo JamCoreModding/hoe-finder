@@ -3,7 +3,7 @@
     "advancednetherite": {
       "id": "advancednetherite",
       "name": "Advanced Netherite",
-      "version": "2.1.5-1.21",
+      "version": "2.1.6-1.21",
       "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric"
     },
     "adventure_map_developer": {
@@ -39,7 +39,7 @@
     "balm-fabric": {
       "id": "balm-fabric",
       "name": "Balm",
-      "version": "21.0.11",
+      "version": "21.0.12",
       "url": "https://mods.twelveiterations.com/"
     },
     "basalt-crusher": {
@@ -159,7 +159,7 @@
     "creeperoverhaul": {
       "id": "creeperoverhaul",
       "name": "Creeper Overhaul",
-      "version": "4.0.2",
+      "version": "4.0.4",
       "url": null
     },
     "crockpot": {
@@ -195,8 +195,14 @@
     "duckling": {
       "id": "duckling",
       "name": "Duckling",
-      "version": "5.0.0",
+      "version": "5.0.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/duckling"
+    },
+    "earthtojavamobs": {
+      "id": "earthtojavamobs",
+      "name": "Earth2Java",
+      "version": "1.11.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric"
     },
     "emerald_tools": {
       "id": "emerald_tools",
@@ -225,19 +231,19 @@
     "energizedpower": {
       "id": "energizedpower",
       "name": "Energized Power",
-      "version": "1.21-2.12.0-fabric",
+      "version": "1.21-2.12.1-fabric",
       "url": "https://github.com/JDDev0/EnergizedPower"
     },
     "enriched": {
       "id": "enriched",
       "name": "Enriched",
-      "version": "3.1.0",
+      "version": "4.1.1-mc1.21",
       "url": "https://enrichedmc.com/"
     },
     "expandedstorage": {
       "id": "expandedstorage",
       "name": "Expanded Storage",
-      "version": "14.0.0",
+      "version": "14.0.2",
       "url": "https://modrinth.com/mod/expanded-storage"
     },
     "extended-enchanting": {
@@ -255,7 +261,7 @@
     "fabric-convention-tags-v2": {
       "id": "fabric-convention-tags-v2",
       "name": "Fabric Convention Tags (v2)",
-      "version": "2.3.2+78017270d1",
+      "version": "2.4.1+86024ea6d1",
       "url": "https://fabricmc.net"
     },
     "foodtxf": {
@@ -285,7 +291,7 @@
     "gobber2": {
       "id": "gobber2",
       "name": "Gobber2",
-      "version": "2.10.18",
+      "version": "2.10.20",
       "url": ""
     },
     "goldenhopper": {
@@ -420,10 +426,16 @@
       "version": "6.5+er1.3.1+1.21",
       "url": "https://github.com/BlueStaggo/"
     },
+    "more_food": {
+      "id": "more_food",
+      "name": "More Food",
+      "version": "2.0.0+1.21",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/more-food-xd"
+    },
     "more_gems": {
       "id": "more_gems",
       "name": "More Gems",
-      "version": "1.7.10",
+      "version": "1.7.11",
       "url": ""
     },
     "mr_mine_treasure": {
@@ -453,7 +465,7 @@
     "nullscape": {
       "id": "nullscape",
       "name": "Nullscape",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "url": "https://www.stardustlabs.net/"
     },
     "oritech": {
@@ -564,6 +576,12 @@
       "version": "1.6.8",
       "url": "https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric"
     },
+    "slimyboyos": {
+      "id": "slimyboyos",
+      "name": "SlimyBoyos",
+      "version": "13.0.4",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/slimyboyos"
+    },
     "snowrealmagic": {
       "id": "snowrealmagic",
       "name": "Snow! Real Magic!",
@@ -591,7 +609,7 @@
     "terralith": {
       "id": "terralith",
       "name": "Terralith",
-      "version": "2.5.3",
+      "version": "2.5.4",
       "url": "https://www.stardustlabs.net/"
     },
     "terrestria-common": {
@@ -603,7 +621,7 @@
     "the_bumblezone": {
       "id": "the_bumblezone",
       "name": "The Bumblezone - Fabric",
-      "version": "7.6.11+1.21-fabric",
+      "version": "7.6.13+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "tinycoal": {
@@ -639,7 +657,7 @@
     "usefulhats": {
       "id": "usefulhats",
       "name": "Useful Hats",
-      "version": "1.21-6.1.1.0",
+      "version": "1.21-6.2.0.0",
       "url": "https://github.com/cech12/UsefulHats"
     },
     "variantbarrels": {
@@ -658,6 +676,12 @@
       "id": "variantchests",
       "name": "Variant Chests",
       "version": "2.0.1",
+      "url": null
+    },
+    "variantcomposters": {
+      "id": "variantcomposters",
+      "name": "Variant Composters",
+      "version": "3.0",
       "url": null
     },
     "variantcraftingtables": {
@@ -1010,6 +1034,7 @@
           "sources": [
             "armourers_workshop",
             "energizedpower",
+            "fabric-convention-tags-v2",
             "toms_storage"
           ]
         }
@@ -1047,7 +1072,6 @@
           "value": "minecraft:glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1055,7 +1079,6 @@
           "value": "minecraft:white_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1063,7 +1086,6 @@
           "value": "minecraft:orange_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1071,7 +1093,6 @@
           "value": "minecraft:magenta_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1079,7 +1100,6 @@
           "value": "minecraft:light_blue_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1087,7 +1107,6 @@
           "value": "minecraft:yellow_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1095,7 +1114,6 @@
           "value": "minecraft:lime_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1103,7 +1121,6 @@
           "value": "minecraft:pink_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1111,7 +1128,6 @@
           "value": "minecraft:gray_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1119,7 +1135,6 @@
           "value": "minecraft:light_gray_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1127,7 +1142,6 @@
           "value": "minecraft:cyan_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1135,7 +1149,6 @@
           "value": "minecraft:purple_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1143,7 +1156,6 @@
           "value": "minecraft:blue_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1151,7 +1163,6 @@
           "value": "minecraft:brown_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1159,7 +1170,6 @@
           "value": "minecraft:green_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1167,7 +1177,6 @@
           "value": "minecraft:red_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
@@ -1175,12 +1184,32 @@
           "value": "minecraft:black_stained_glass",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
             "hauntfurnace"
           ]
         },
         {
-          "value": "minecraft:tinted_glass",
+          "value": {
+            "id": "#c:glass_blocks/colorless",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:glass_blocks/cheap",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:glass_blocks/tinted",
+            "required": false
+          },
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -1219,8 +1248,7 @@
         {
           "value": "minecraft:glass_pane",
           "sources": [
-            "armourers_workshop",
-            "fabric-convention-tags-v2"
+            "armourers_workshop"
           ]
         },
         {
@@ -1339,6 +1367,15 @@
           "value": "endreborn:obsidian_glass_pane",
           "sources": [
             "endorium"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:glass_panes/colorless",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
           ]
         },
         {
@@ -2424,6 +2461,18 @@
           ]
         },
         {
+          "value": "enriched:obsidian_alloy_ingot",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_ingot",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
           "value": {
             "id": "#c:ingots/copper",
             "required": false
@@ -3450,6 +3499,30 @@
           "value": "energizedpower:deepslate_tin_ore",
           "sources": [
             "energizedpower"
+          ]
+        },
+        {
+          "value": "enriched:ruby_ore",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_ore",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_ore",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_ingot",
+          "sources": [
+            "enriched"
           ]
         },
         {
@@ -8639,6 +8712,15 @@
           "sources": [
             "croptopia"
           ]
+        },
+        {
+          "value": {
+            "id": "#c:crops/rice",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
         }
       ]
     },
@@ -8734,6 +8816,18 @@
           "value": "energizedpower:gold_dust",
           "sources": [
             "energizedpower"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_alloy_blend",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_blend",
+          "sources": [
+            "enriched"
           ]
         },
         {
@@ -9199,7 +9293,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/fruits",
+            "id": "#c:foods/fruit",
             "required": false
           },
           "sources": [
@@ -9208,7 +9302,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/vegetables",
+            "id": "#c:foods/vegetable",
             "required": false
           },
           "sources": [
@@ -9217,7 +9311,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/berries",
+            "id": "#c:foods/berry",
             "required": false
           },
           "sources": [
@@ -9226,7 +9320,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/breads",
+            "id": "#c:foods/bread",
             "required": false
           },
           "sources": [
@@ -9235,7 +9329,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/cookies",
+            "id": "#c:foods/cookie",
             "required": false
           },
           "sources": [
@@ -9244,7 +9338,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/raw_meats",
+            "id": "#c:foods/raw_meat",
             "required": false
           },
           "sources": [
@@ -9253,7 +9347,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/raw_fishes",
+            "id": "#c:foods/raw_fish",
             "required": false
           },
           "sources": [
@@ -9262,7 +9356,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/cooked_meats",
+            "id": "#c:foods/cooked_meat",
             "required": false
           },
           "sources": [
@@ -9271,7 +9365,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/cooked_fishes",
+            "id": "#c:foods/cooked_fish",
             "required": false
           },
           "sources": [
@@ -9280,7 +9374,7 @@
         },
         {
           "value": {
-            "id": "#c:foods/soups",
+            "id": "#c:foods/soup",
             "required": false
           },
           "sources": [
@@ -9289,7 +9383,16 @@
         },
         {
           "value": {
-            "id": "#c:foods/candies",
+            "id": "#c:foods/candy",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/golden",
             "required": false
           },
           "sources": [
@@ -9558,6 +9661,72 @@
           "value": "#c:foods/doughs",
           "sources": [
             "foodtxf"
+          ]
+        },
+        {
+          "value": "more_food:rice_chicken_bowl",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:rice_salmon_bowl",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:rice_cod_bowl",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:rice_vegetable_bowl",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:rice_pudding",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:rice_honey_pudding",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:cooked_egg",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:cooked_bacon_egg",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/pie",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/sushi",
+            "required": false
+          },
+          "sources": [
+            "more_food"
           ]
         },
         {
@@ -12089,6 +12258,174 @@
           ]
         },
         {
+          "value": "enriched:steel_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
           "value": {
             "id": "#minecraft:axes",
             "required": false
@@ -12163,6 +12500,15 @@
         {
           "value": {
             "id": "#c:tools/fishing_rod",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/igniter",
             "required": false
           },
           "sources": [
@@ -12788,6 +13134,12 @@
           "value": "#variantbarrels:barrels",
           "sources": [
             "variantbarrels"
+          ]
+        },
+        {
+          "value": "#variantcomposters:composters",
+          "sources": [
+            "variantcomposters"
           ]
         },
         {
@@ -16194,6 +16546,12 @@
           "value": "croptopia:rice",
           "sources": [
             "croptopia"
+          ]
+        },
+        {
+          "value": "more_food:rice",
+          "sources": [
+            "more_food"
           ]
         }
       ]
@@ -23956,6 +24314,108 @@
       ]
     },
     {
+      "id": "beds",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:rainbow_bed",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carpets",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:rainbow_carpet",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feathers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:fancy_feather",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "minecraft:feather",
+          "sources": [
+            "usefulhats"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:small_flowers",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "#c:tall_flowers",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "small_flowers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:buttercup",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "earthtojavamobs:pink_daisy",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tall_flowers",
+      "replaced_by": [],
+      "sources": [],
+      "content": []
+    },
+    {
+      "id": "wools",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:rainbow_wool",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
       "id": "obsidian",
       "replaced_by": [],
       "sources": [],
@@ -23989,12 +24449,6 @@
           ]
         },
         {
-          "value": "enriched:ruby",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
           "value": {
             "id": "simple_gems:ruby",
             "required": false
@@ -24017,12 +24471,6 @@
           },
           "sources": [
             "emerald_tools"
-          ]
-        },
-        {
-          "value": "enriched:steel_ingot",
-          "sources": [
-            "enriched"
           ]
         },
         {
@@ -24199,6 +24647,150 @@
           "value": "endreborn:ender_boots",
           "sources": [
             "endorium"
+          ]
+        },
+        {
+          "value": "enriched:steel_helmet",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_chestplate",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_leggings",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_boots",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_helmet",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_chestplate",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_leggings",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_boots",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_helmet",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_chestplate",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_leggings",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_boots",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_helmet",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_chestplate",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_leggings",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_boots",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_helmet",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_chestplate",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_leggings",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_boots",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_helmet",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_chestplate",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_leggings",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_boots",
+          "sources": [
+            "enriched"
           ]
         },
         {
@@ -24879,6 +25471,7 @@
           "value": "minecraft:glass",
           "sources": [
             "energizedpower",
+            "fabric-convention-tags-v2",
             "foodtxf",
             "ingotcraft",
             "toms_storage"
@@ -24894,7 +25487,8 @@
         {
           "value": "minecraft:glass_pane",
           "sources": [
-            "energizedpower"
+            "energizedpower",
+            "fabric-convention-tags-v2"
           ]
         }
       ]
@@ -25417,14 +26011,687 @@
       ]
     },
     {
-      "id": "sapphires",
+      "id": "tools/melee_weapon",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "enriched:sapphire",
+          "value": "enriched:steel_sword",
           "sources": [
             "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "minecraft:wooden_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:stone_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:iron_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:diamond_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:netherite_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:wooden_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:stone_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:iron_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:diamond_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:netherite_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:mace",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/melee_weapons",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mythicmetals:adamantite_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:adamantite_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:red_aegis_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:white_aegis_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:gilded_midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:royal_midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/mining_tool",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "enriched:steel_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "minecraft:wooden_pickaxe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:stone_pickaxe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_pickaxe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:iron_pickaxe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:diamond_pickaxe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:netherite_pickaxe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/mining_tools",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mythicmetals:adamantite_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_pickaxe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_drill",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_hammer",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -28328,6 +29595,80 @@
       ]
     },
     {
+      "id": "foods/berry",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:sweet_berries",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:glow_berries",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/berries",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/bread",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:bread",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/breads",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "more_food:carrot_bread",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:apple_bread",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:potato_bread",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:pumpking_bread",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
       "id": "foods/breads",
       "replaced_by": [],
       "sources": [],
@@ -28351,6 +29692,68 @@
       "replaced_by": [],
       "sources": [],
       "content": []
+    },
+    {
+      "id": "foods/candy",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#c:foods/candies",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "more_food:chocolate",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:chocolate_bar",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "the_bumblezone:honey_crystal_shards",
+          "sources": [
+            "the_bumblezone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_fish",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:cooked_cod",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_salmon",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_fishes",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
     },
     {
       "id": "foods/cooked_fishes",
@@ -28465,6 +29868,131 @@
       ]
     },
     {
+      "id": "foods/cooked_meat",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:cooked_beef",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_porkchop",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_chicken",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_rabbit",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_mutton",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "more_food:cooked_phantom",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:cooked_bacon",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_rabbit",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_chicken",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_mutton",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_porkchop",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_beef",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cookie",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:cookie",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cookies",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
       "id": "foods/cookies",
       "replaced_by": [],
       "sources": [],
@@ -28523,6 +30051,55 @@
           "value": "minecraft:rotten_flesh",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "more_food:pufferfish_soup",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/fruit",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:apple",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_apple",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:enchanted_golden_apple",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/fruits",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/fruits/apple",
+            "required": false
+          },
+          "sources": [
+            "more_food"
           ]
         }
       ]
@@ -28698,6 +30275,77 @@
       ]
     },
     {
+      "id": "foods/golden",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:golden_apple",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:enchanted_golden_apple",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_carrot",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:glistering_melon_slice",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/raw_fish",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:cod",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:salmon",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:tropical_fish",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:pufferfish",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/raw_fishes",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
       "id": "foods/raw_fishes",
       "replaced_by": [],
       "sources": [],
@@ -28825,6 +30473,146 @@
       ]
     },
     {
+      "id": "foods/raw_meat",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:beef",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:porkchop",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:chicken",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:rabbit",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:mutton",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/raw_meats",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "more_food:raw_bacon",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/soup",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:beetroot_soup",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:mushroom_stew",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:rabbit_stew",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:suspicious_stew",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/soups",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "more_food:carrot_soup",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:apple_soup",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:kelp_soup",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:potato_soup",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:phantom_soup",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:pumpking_soup",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:bamboo_soup",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "the_bumblezone:bee_soup",
+          "sources": [
+            "the_bumblezone"
+          ]
+        }
+      ]
+    },
+    {
       "id": "foods/soups",
       "replaced_by": [],
       "sources": [],
@@ -28851,6 +30639,88 @@
           "value": "minecraft:suspicious_stew",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/vegetable",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:carrot",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_carrot",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:potato",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:melon_slice",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:beetroot",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/carrot",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/kelp",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/potato",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/melon_slice",
+            "required": false
+          },
+          "sources": [
+            "more_food"
           ]
         }
       ]
@@ -29070,6 +30940,128 @@
       "content": [
         {
           "value": "minecraft:prismarine_crystals",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_blocks/cheap",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:white_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:orange_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:magenta_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:light_blue_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:yellow_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:lime_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:pink_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:gray_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:light_gray_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cyan_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:purple_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:blue_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:brown_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:green_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:black_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:red_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_blocks/tinted",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:tinted_glass",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -30490,597 +32482,27 @@
       ]
     },
     {
-      "id": "tools/melee_weapon",
+      "id": "tools/igniter",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "minecraft:wooden_sword",
+          "value": "minecraft:flint_and_steel",
           "sources": [
             "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:stone_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:golden_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:iron_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:diamond_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:netherite_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:wooden_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:stone_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:golden_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:iron_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:diamond_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:netherite_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/melee_weapons",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "mythicmetals:adamantite_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:adamantite_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:aquarium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:aquarium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:banglum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:banglum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:bronze_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:bronze_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:carmot_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:carmot_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:celestium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:celestium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:copper_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:copper_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:durasteel_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:durasteel_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:hallowed_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:hallowed_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:kyber_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:kyber_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:legendary_banglum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:legendary_banglum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:metallurgium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:metallurgium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:mythril_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:mythril_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:orichalcum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:orichalcum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:osmium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:osmium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:palladium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:palladium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:prometheum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:prometheum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:quadrillum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:quadrillum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:runite_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:runite_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:star_platinum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:star_platinum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:steel_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:steel_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:stormyx_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:stormyx_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:tidesinger_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:tidesinger_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:red_aegis_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:white_aegis_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:midas_gold_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:gilded_midas_gold_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:royal_midas_gold_sword",
-          "sources": [
-            "mythicmetals"
           ]
         }
       ]
     },
     {
-      "id": "tools/mining_tool",
+      "id": "tools/mace",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "minecraft:wooden_pickaxe",
+          "value": "minecraft:mace",
           "sources": [
             "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:stone_pickaxe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:golden_pickaxe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:iron_pickaxe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:diamond_pickaxe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:netherite_pickaxe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/mining_tools",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "mythicmetals:adamantite_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:aquarium_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:banglum_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:bronze_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:carmot_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:celestium_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:copper_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:durasteel_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:hallowed_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:kyber_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:legendary_banglum_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:metallurgium_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:mythril_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:orichalcum_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:osmium_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:palladium_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:prometheum_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:quadrillum_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:runite_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:star_platinum_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:steel_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:stormyx_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:tidesinger_pickaxe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:mythril_drill",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:orichalcum_hammer",
-          "sources": [
-            "mythicmetals"
           ]
         }
       ]
@@ -31115,6 +32537,18 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:tools/spears",
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:tools/cannons",
+          "sources": [
+            "the_bumblezone"
           ]
         }
       ]
@@ -34736,6 +36170,415 @@
           },
           "sources": [
             "lolmlv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_meats/cooked_beef",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_cooked_beef",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_cooked_beef",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_cooked_beef",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_cooked_beef",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_meats/cooked_chicken",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_cooked_chicken",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_cooked_chicken",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_cooked_chicken",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_cooked_chicken",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_meats/cooked_mutton",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_cooked_mutton",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_cooked_mutton",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_cooked_mutton",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_cooked_mutton",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_meats/cooked_porkchop",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_cooked_porkchop",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_cooked_porkchop",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_cooked_porkchop",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_cooked_porkchop",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_meats/cooked_rabbit",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_cooked_rabbit",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_cooked_rabbit",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_cooked_rabbit",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_cooked_rabbit",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/fruits/apple",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_apple",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_apple",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_apple",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:cooked_apple",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/pie",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:carrot_pie",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:apple_pie",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/sushi",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:sushi_bamboo",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:sushi_carrot",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:sushi_beetroot",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:sushi_salmon",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/vegetables/carrot",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_carrot",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_carrot",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_carrot",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:cooked_carrot",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/vegetables/kelp",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_kelp",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_kelp",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_kelp",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_kelp",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/vegetables/melon_slice",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_melon_slice",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_melon_slice",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_melon_slice",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_melon_slice",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/vegetables/potato",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:iron_potato",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:golden_potato",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:diamond_potato",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:emerald_potato",
+          "sources": [
+            "more_food"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pieces",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "more_food:carrot_pieces",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:apple_pieces",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:kelp_pieces",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:potato_pieces",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:phantom_pieces",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:pufferfish_pieces",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:bamboo_pieces",
+          "sources": [
+            "more_food"
           ]
         }
       ]
@@ -39970,32 +41813,6 @@
       ]
     },
     {
-      "id": "foods/candy",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "the_bumblezone:honey_crystal_shards",
-          "sources": [
-            "the_bumblezone"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "foods/soup",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "the_bumblezone:bee_soup",
-          "sources": [
-            "the_bumblezone"
-          ]
-        }
-      ]
-    },
-    {
       "id": "honeycombs",
       "replaced_by": [],
       "sources": [],
@@ -40179,19 +41996,6 @@
           "value": "#c:honey_portions",
           "sources": [
             "usefulfood"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "feathers",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:feather",
-          "sources": [
-            "usefulhats"
           ]
         }
       ]
@@ -40480,133 +42284,142 @@
         {
           "value": "minecraft:glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:tinted_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:black_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:blue_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:brown_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:cyan_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:gray_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:green_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:light_blue_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:light_gray_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:lime_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:magenta_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:orange_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:pink_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:purple_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:red_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:white_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "minecraft:yellow_stained_glass",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
           "value": "#blockus:beveled_glass",
           "sources": [
             "blockus"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:glass_blocks/colorless",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:glass_blocks/cheap",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:glass_blocks/tinted",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
           ]
         },
         {
@@ -40637,8 +42450,7 @@
         {
           "value": "minecraft:glass_pane",
           "sources": [
-            "anvil_crushing_recipes",
-            "fabric-convention-tags-v2"
+            "anvil_crushing_recipes"
           ]
         },
         {
@@ -40750,6 +42562,15 @@
           "value": "minecraft:yellow_stained_glass_pane",
           "sources": [
             "anvil_crushing_recipes",
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:glass_panes/colorless",
+            "required": false
+          },
+          "sources": [
             "fabric-convention-tags-v2"
           ]
         },
@@ -47863,6 +49684,12 @@
           ]
         },
         {
+          "value": "#variantcomposters:composters",
+          "sources": [
+            "variantcomposters"
+          ]
+        },
+        {
           "value": "#variantvanillablocks:barrels",
           "sources": [
             "variantvanillablocks"
@@ -48725,6 +50552,114 @@
           },
           "sources": [
             "dramaticdoors"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beds",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:rainbow_bed",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carpets",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:rainbow_carpet",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flower_pots",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:potted_buttercup",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "earthtojavamobs:potted_pink_daisy",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:small_flowers",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "#c:tall_flowers",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "minecraft:poppy",
+          "sources": [
+            "gobber2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "small_flowers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:buttercup",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "earthtojavamobs:pink_daisy",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tall_flowers",
+      "replaced_by": [],
+      "sources": [],
+      "content": []
+    },
+    {
+      "id": "wools",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:rainbow_wool",
+          "sources": [
+            "earthtojavamobs"
           ]
         }
       ]
@@ -51070,6 +53005,156 @@
       ]
     },
     {
+      "id": "glass_blocks/cheap",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:white_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:orange_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:magenta_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:light_blue_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:yellow_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:lime_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:pink_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:gray_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:light_gray_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cyan_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:purple_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:blue_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:brown_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:green_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:black_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:red_stained_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_blocks/colorless",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:glass",
+          "sources": [
+            "fabric-convention-tags-v2",
+            "foodtxf",
+            "ingotcraft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_blocks/tinted",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:tinted_glass",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glass_panes/colorless",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:glass_pane",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
       "id": "glazed_terracotta",
       "replaced_by": [],
       "sources": [],
@@ -52115,20 +54200,6 @@
       ]
     },
     {
-      "id": "glass_blocks/colorless",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:glass",
-          "sources": [
-            "foodtxf",
-            "ingotcraft"
-          ]
-        }
-      ]
-    },
-    {
       "id": "aluminum_ores",
       "replaced_by": [],
       "sources": [],
@@ -52346,19 +54417,6 @@
           "sources": [
             "gobber2",
             "ring_of_miner"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "flowers",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:poppy",
-          "sources": [
-            "gobber2"
           ]
         }
       ]
@@ -55510,6 +57568,51 @@
       ]
     },
     {
+      "id": "impact_projectiles",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:bone_shard",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        },
+        {
+          "value": "earthtojavamobs:rotten_flesh_projectile",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raiders",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:viler_witch",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skeletons",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "earthtojavamobs:skeleton_wolf",
+          "sources": [
+            "earthtojavamobs"
+          ]
+        }
+      ]
+    },
+    {
       "id": "chest_minecarts/wooden",
       "replaced_by": [],
       "sources": [],
@@ -55584,6 +57687,31 @@
       "content": []
     },
     {
+      "id": "slimes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:slime",
+          "sources": [
+            "slimyboyos"
+          ]
+        },
+        {
+          "value": "minecraft:magma_cube",
+          "sources": [
+            "slimyboyos"
+          ]
+        },
+        {
+          "value": "the_bumblezone:honey_slime",
+          "sources": [
+            "the_bumblezone"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bees",
       "replaced_by": [],
       "sources": [],
@@ -55609,19 +57737,6 @@
       "content": [
         {
           "value": "the_bumblezone:pollen_puff",
-          "sources": [
-            "the_bumblezone"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "slimes",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "the_bumblezone:honey_slime",
           "sources": [
             "the_bumblezone"
           ]
@@ -57527,6 +59642,18 @@
         },
         {
           "value": "minecraft:desert",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:badlands",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:wooded_badlands",
           "sources": [
             "fabric-convention-tags-v2"
           ]

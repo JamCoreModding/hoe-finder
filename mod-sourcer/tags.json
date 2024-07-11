@@ -51,7 +51,7 @@
     "basicweapons": {
       "id": "basicweapons",
       "name": "Basic Weapons",
-      "version": "1.2.7",
+      "version": "1.2.8+1.21",
       "url": "https://basicweapons.khazoda.com"
     },
     "bclib": {
@@ -174,6 +174,12 @@
       "version": "3.0.4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric"
     },
+    "customizablecarts": {
+      "id": "customizablecarts",
+      "name": "CustomizableCarts",
+      "version": "0.2.3",
+      "url": null
+    },
     "desolation": {
       "id": "desolation",
       "name": "Desolation",
@@ -197,6 +203,12 @@
       "name": "Duckling",
       "version": "5.0.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/duckling"
+    },
+    "dusks_biomes": {
+      "id": "dusks_biomes",
+      "name": "Dusk's Biomes",
+      "version": "1.0.0",
+      "url": "https://github.com/Teamvoided/DusksBiomes"
     },
     "earthtojavamobs": {
       "id": "earthtojavamobs",
@@ -339,7 +351,7 @@
     "leaves_us_in_peace": {
       "id": "leaves_us_in_peace",
       "name": "Leaves Us In Peace",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "url": "https://modrinth.com/mod/leaves-us-in-peace"
     },
     "lolmblv": {
@@ -402,6 +414,12 @@
       "version": "1.4.8",
       "url": "https://www.curseforge.com/minecraft/mc-mods/medievalweapons"
     },
+    "metalbarrels": {
+      "id": "metalbarrels",
+      "name": "MetalBarrels",
+      "version": "2",
+      "url": "https://fabricmc.net/"
+    },
     "mining_dims": {
       "id": "mining_dims",
       "name": "Mining Dimensions",
@@ -447,7 +465,7 @@
     "mythicmetals": {
       "id": "mythicmetals",
       "name": "Mythic Metals",
-      "version": "0.20.0+1.21-alpha3",
+      "version": "0.20.0+1.21-alpha4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mythicmetals"
     },
     "natures_spirit": {
@@ -471,7 +489,7 @@
     "oritech": {
       "id": "oritech",
       "name": "Oritech",
-      "version": "0.7.0",
+      "version": "0.7.1",
       "url": null
     },
     "pdpcompat": {
@@ -603,7 +621,7 @@
     "techreborn": {
       "id": "techreborn",
       "name": "Tech Reborn",
-      "version": "5.11.7",
+      "version": "5.11.8",
       "url": "https://www.curseforge.com/minecraft/mc-mods/techreborn"
     },
     "terralith": {
@@ -621,7 +639,7 @@
     "the_bumblezone": {
       "id": "the_bumblezone",
       "name": "The Bumblezone - Fabric",
-      "version": "7.6.13+1.21-fabric",
+      "version": "7.6.14+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "tinycoal": {
@@ -12906,6 +12924,54 @@
           "value": "#c:barrels/wooden",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#c:barrels/copper",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/iron",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/silver",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/gold",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/diamond",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/crystal",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/obsidian",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/netherite",
+          "sources": [
+            "metalbarrels"
           ]
         },
         {
@@ -34482,6 +34548,110 @@
       ]
     },
     {
+      "id": "barrels/copper",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:copper_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/crystal",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:crystal_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/diamond",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:diamond_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:gold_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/iron",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:iron_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/netherite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:netherite_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/obsidian",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:obsidian_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/silver",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:silver_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
       "id": "diamond_nuggets",
       "replaced_by": [],
       "sources": [],
@@ -49021,6 +49191,54 @@
           ]
         },
         {
+          "value": "#c:barrels/copper",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/iron",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/silver",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/gold",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/diamond",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/crystal",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/obsidian",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
+          "value": "#c:barrels/netherite",
+          "sources": [
+            "metalbarrels"
+          ]
+        },
+        {
           "value": {
             "id": "#lieonstudio:barrels",
             "required": false
@@ -55332,6 +55550,110 @@
       ]
     },
     {
+      "id": "barrels/copper",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:copper_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/crystal",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:crystal_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/diamond",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:diamond_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/gold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:gold_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/iron",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:iron_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/netherite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:netherite_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/obsidian",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:obsidian_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barrels/silver",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "metalbarrels:silver_barrel",
+          "sources": [
+            "metalbarrels"
+          ]
+        }
+      ]
+    },
+    {
       "id": "glass_slabs",
       "replaced_by": [],
       "sources": [],
@@ -57568,6 +57890,61 @@
       ]
     },
     {
+      "id": "minecarts",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "customizablecarts:customizable_minecart",
+          "sources": [
+            "customizablecarts"
+          ]
+        },
+        {
+          "value": "minecraft:minecart",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:tnt_minecart",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:chest_minecart",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:furnace_minecart",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:command_block_minecart",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:hopper_minecart",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:spawner_minecart",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
       "id": "impact_projectiles",
       "replaced_by": [],
       "sources": [],
@@ -57630,55 +58007,6 @@
       "replaced_by": [],
       "sources": [],
       "content": []
-    },
-    {
-      "id": "minecarts",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:minecart",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:tnt_minecart",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:chest_minecart",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:furnace_minecart",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:command_block_minecart",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:hopper_minecart",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:spawner_minecart",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        }
-      ]
     },
     {
       "id": "teleporting_not_supported",
@@ -58183,6 +58511,36 @@
           ]
         },
         {
+          "value": "dusks_biomes:mushroom_caves",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:frozen_caverns",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:sand_caverns",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:red_sand_caverns",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:gravel_caves",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": "minecraft:deep_dark",
           "sources": [
             "fabric-convention-tags-v2"
@@ -58443,6 +58801,66 @@
           },
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": {
+            "id": "#dusks_biomes:is_snowy_hill",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": {
+            "id": "#dusks_biomes:is_frozen_badlands",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:cold_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:cold_plains",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:dark_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_cherry_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_old_growth_pine_taiga",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_old_growth_spruce_taiga",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:frozen_mangrove_swamp",
+          "sources": [
+            "dusks_biomes"
           ]
         },
         {
@@ -58777,6 +59195,24 @@
           ]
         },
         {
+          "value": "dusks_biomes:dark_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_old_growth_spruce_taiga",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:mushroom_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": "minecraft:dark_forest",
           "sources": [
             "fabric-convention-tags-v2"
@@ -58928,6 +59364,24 @@
           },
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": "dusks_biomes:red_desert",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:sand_caverns",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:red_sand_caverns",
+          "sources": [
+            "dusks_biomes"
           ]
         },
         {
@@ -59243,6 +59697,33 @@
           },
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": {
+            "id": "#dusks_biomes:is_frozen_badlands",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:red_desert",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:sand_caverns",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:red_sand_caverns",
+          "sources": [
+            "dusks_biomes"
           ]
         },
         {
@@ -59608,6 +60089,18 @@
           },
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": "dusks_biomes:warm_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:warm_plains",
+          "sources": [
+            "dusks_biomes"
           ]
         },
         {
@@ -60129,6 +60622,24 @@
           ]
         },
         {
+          "value": "dusks_biomes:mushroom_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:eroded_mushroom_island",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:mushroom_caves",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": "terralith:cave/fungal_caves",
           "sources": [
             "terralith"
@@ -60244,6 +60755,18 @@
           },
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": "dusks_biomes:cold_plains",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:warm_plains",
+          "sources": [
+            "dusks_biomes"
           ]
         },
         {
@@ -60605,6 +61128,45 @@
           },
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": {
+            "id": "#dusks_biomes:is_snowy_hill",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:dark_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_cherry_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_old_growth_pine_taiga",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_old_growth_spruce_taiga",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:frozen_mangrove_swamp",
+          "sources": [
+            "dusks_biomes"
           ]
         },
         {
@@ -60987,6 +61549,21 @@
           ]
         },
         {
+          "value": {
+            "id": "#dusks_biomes:is_snowy_hill",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:frozen_wooded_badlands",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": "minecraft:wooded_badlands",
           "sources": [
             "fabric-convention-tags-v2"
@@ -61244,6 +61821,12 @@
           ]
         },
         {
+          "value": "dusks_biomes:frozen_mangrove_swamp",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": "minecraft:mangrove_swamp",
           "sources": [
             "fabric-convention-tags-v2"
@@ -61404,6 +61987,24 @@
           },
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": "dusks_biomes:cold_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:dark_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:frozen_wooded_badlands",
+          "sources": [
+            "dusks_biomes"
           ]
         },
         {
@@ -61866,6 +62467,12 @@
           ]
         },
         {
+          "value": "dusks_biomes:frozen_mangrove_swamp",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": "minecraft:swamp",
           "sources": [
             "fabric-convention-tags-v2"
@@ -62218,108 +62825,19 @@
       ]
     },
     {
-      "id": "hidden_from_locator_selection",
-      "replaced_by": [],
-      "sources": [],
-      "content": []
-    },
-    {
-      "id": "is_aquatic",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#c:is_ocean",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:is_river",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_ocean",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "terralith:warm_river",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:warm_river",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:jellyfish_caves",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_aquatic_icy",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:frozen_river",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:deep_frozen_ocean",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:frozen_ocean",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "modern_beta:beta_frozen_ocean",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "modern_beta:pe_frozen_ocean",
-          "sources": [
-            "modern_beta"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_badlands",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": {
+            "id": "#dusks_biomes:is_frozen_badlands",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": {
             "id": "#minecraft:is_badlands",
@@ -62347,41 +62865,16 @@
       ]
     },
     {
-      "id": "is_beach",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_beach",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "terralith:gravel_beach",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:warm_beach",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_birch_forest",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:windswept_birch_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": "minecraft:birch_forest",
           "sources": [
@@ -62448,111 +62941,16 @@
       ]
     },
     {
-      "id": "is_cold",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "#c:is_cold/overworld",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_taiga",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_tundra",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/temperature/cold",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "#terralith:reference/temperature/frozen_all",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_dead",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "terralith:ashen_savanna",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:gravel_desert",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:dunes",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:dying_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:snowy_dying_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:dying_mixed_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:snowy_dying_mixed_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_deep_ocean",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:deep_red_lukewarm_ocean",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": {
             "id": "#minecraft:is_deep_ocean",
@@ -62571,142 +62969,16 @@
       ]
     },
     {
-      "id": "is_dense_vegetation",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#c:is_dense_vegetation/overworld",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_rainforest",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_plains",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/jungle",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "#terralith:reference/taiga",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_dry",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "#c:is_dry/overworld",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#c:is_dry/nether",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#c:is_dry/end",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_desert",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_plains",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_savanna",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_shrubland",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_tundra",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/badlands_all",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "#terralith:reference/desert_all",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_end",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_end",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:in_the_end",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_floral",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:snowy_cherry_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": "minecraft:sunflower_plains",
           "sources": [
@@ -62834,281 +63106,22 @@
       ]
     },
     {
-      "id": "is_flower_forest",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:flower_forest",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:flower_forests",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "terralith:blooming_valley",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:cloud_forest",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:lavender_forest",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:lavender_valley",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:moonlight_grove",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:moonlight_valley",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:sakura_grove",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "terralith:sakura_valley",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_forest",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_forest",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_forest",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_seasonal_forest",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/forest",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:mixed_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:parched_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:old_growth_dark_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:rainforest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:temperate_rainforest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:arid_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:dying_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:snowy_dying_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:dying_mixed_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:snowy_dying_mixed_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_hill",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_hill",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#terralith:reference/windswept",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_hot",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "#c:is_hot/overworld",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#c:is_hot/nether",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_desert",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_plains",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_seasonal_forest",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_rainforest",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/temperature/lukewarm",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": "#terralith:reference/temperature/warm",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_icy",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:frozen_mangrove_swamp",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:frozen_caverns",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": "minecraft:frozen_peaks",
           "sources": [
@@ -63139,96 +63152,22 @@
       ]
     },
     {
-      "id": "is_jungle",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_jungle",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_rainforest",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/jungle",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:birch_jungle",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:sparse_birch_jungle",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_mountain/peak",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:frozen_peaks",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:jagged_peaks",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:stony_peaks",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:mountain_peak",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#terralith:reference/mountain_peak",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_mountain/slope",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:dark_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_cherry_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": "minecraft:snowy_slopes",
           "sources": [
@@ -63271,69 +63210,22 @@
       ]
     },
     {
-      "id": "is_nether",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_nether",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:in_nether",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_ocean",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_ocean",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:is_deep_ocean",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:is_shallow_ocean",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_old_growth",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:snowy_old_growth_spruce_taiga",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:snowy_old_growth_pine_taiga",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": "minecraft:old_growth_birch_forest",
           "sources": [
@@ -63367,44 +63259,19 @@
       ]
     },
     {
-      "id": "is_outer_end_island",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:end_highlands",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:end_midlands",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:end_barrens",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:end_islands",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_overworld",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": {
+            "id": "#dusks_biomes:dusks_biomes",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": {
             "id": "#minecraft:is_overworld",
@@ -63681,96 +63548,22 @@
       ]
     },
     {
-      "id": "is_river",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_river",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "terralith:warm_river",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:warm_river",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:cypress_wetlands",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_savanna",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_savanna",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_savanna",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/savanna",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:outback",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:arid_savanna",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_shallow_ocean",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:red_lukewarm_ocean",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:red_warm_ocean",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": "minecraft:ocean",
           "sources": [
@@ -63810,29 +63603,16 @@
       ]
     },
     {
-      "id": "is_snowy_plains",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:snowy_plains",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_tundra",
-          "sources": [
-            "modern_beta"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_stony_shores",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "dusks_biomes:snowy_stony_shore",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
         {
           "value": "minecraft:stony_shore",
           "sources": [
@@ -63841,77 +63621,6 @@
         },
         {
           "value": "terralith:gravel_beach",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_taiga",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:is_taiga",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_taiga",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/taiga",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_temperate",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "#c:is_temperate/overworld",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_savanna",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_shrubland",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_forest",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_swamp",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "#terralith:reference/temperature/temperate",
           "sources": [
             "terralith"
           ]
@@ -64231,6 +63940,30 @@
       "sources": [],
       "content": [
         {
+          "value": "dusks_biomes:cold_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:warm_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:windswept_birch_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:dark_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": "minecraft:forest",
           "sources": [
             "fabric-convention-tags-v2"
@@ -64526,6 +64259,12 @@
       "sources": [],
       "content": [
         {
+          "value": "dusks_biomes:warm_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
           "value": {
             "id": "#c:is_jungle",
             "required": false
@@ -64571,6 +64310,1098 @@
           },
           "sources": [
             "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_windswept",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#dusks_biomes:is_snowy_hill",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:windswept_birch_forest",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_hills",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_gravelly_hills",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_forest",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_savanna",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#terralith:reference/windswept",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:windswept_redwood_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no_default_monsters",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "dusks_biomes:mushroom_grove",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:eroded_mushroom_island",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "dusks_biomes:mushroom_caves",
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": "minecraft:mushroom_fields",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:deep_dark",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#terralith:rare_island",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hidden_from_locator_selection",
+      "replaced_by": [],
+      "sources": [],
+      "content": []
+    },
+    {
+      "id": "is_aquatic",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#c:is_ocean",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:is_river",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_ocean",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "terralith:warm_river",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:warm_river",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:jellyfish_caves",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_aquatic_icy",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:frozen_river",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:deep_frozen_ocean",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:frozen_ocean",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "modern_beta:beta_frozen_ocean",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "modern_beta:pe_frozen_ocean",
+          "sources": [
+            "modern_beta"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_beach",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_beach",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "terralith:gravel_beach",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:warm_beach",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_cold",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:is_cold/overworld",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_taiga",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_tundra",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/temperature/cold",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "#terralith:reference/temperature/frozen_all",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_dead",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "terralith:ashen_savanna",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:gravel_desert",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:dunes",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:dying_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:snowy_dying_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:dying_mixed_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:snowy_dying_mixed_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_dense_vegetation",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#c:is_dense_vegetation/overworld",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_rainforest",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_plains",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/jungle",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "#terralith:reference/taiga",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_dry",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:is_dry/overworld",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#c:is_dry/nether",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#c:is_dry/end",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_desert",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_plains",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_savanna",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_shrubland",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_tundra",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/badlands_all",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "#terralith:reference/desert_all",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_end",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_end",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:in_the_end",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_flower_forest",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:flower_forest",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:flower_forests",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "terralith:blooming_valley",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:cloud_forest",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:lavender_forest",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:lavender_valley",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:moonlight_grove",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:moonlight_valley",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:sakura_grove",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "terralith:sakura_valley",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_forest",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_forest",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_forest",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_seasonal_forest",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/forest",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:mixed_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:parched_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:old_growth_dark_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:rainforest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:temperate_rainforest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:arid_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:dying_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:snowy_dying_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:dying_mixed_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:snowy_dying_mixed_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_hill",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_hill",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#terralith:reference/windswept",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_hot",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:is_hot/overworld",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#c:is_hot/nether",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_desert",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_plains",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_seasonal_forest",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_rainforest",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/temperature/lukewarm",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": "#terralith:reference/temperature/warm",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_jungle",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_jungle",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_rainforest",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/jungle",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:birch_jungle",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:sparse_birch_jungle",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_mountain/peak",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:frozen_peaks",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:jagged_peaks",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:stony_peaks",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:mountain_peak",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#terralith:reference/mountain_peak",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_nether",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_nether",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:in_nether",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_ocean",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_ocean",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:is_deep_ocean",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:is_shallow_ocean",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_outer_end_island",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:end_highlands",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:end_midlands",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:end_barrens",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:end_islands",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_river",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_river",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "terralith:warm_river",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:warm_river",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:cypress_wetlands",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_savanna",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_savanna",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_savanna",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/savanna",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:outback",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:arid_savanna",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_snowy_plains",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:snowy_plains",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_tundra",
+          "sources": [
+            "modern_beta"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_taiga",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#minecraft:is_taiga",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_taiga",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/taiga",
+          "sources": [
+            "terralith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_temperate",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:is_temperate/overworld",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_savanna",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_shrubland",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_forest",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_swamp",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "#terralith:reference/temperature/temperate",
+          "sources": [
+            "terralith"
           ]
         }
       ]
@@ -64692,77 +65523,6 @@
         },
         {
           "value": "terralith:cave/underground_jungle",
-          "sources": [
-            "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_windswept",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:windswept_hills",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:windswept_gravelly_hills",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:windswept_forest",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:windswept_savanna",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#terralith:reference/windswept",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:windswept_redwood_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "no_default_monsters",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:mushroom_fields",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:deep_dark",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#terralith:rare_island",
           "sources": [
             "terralith"
           ]

@@ -39,7 +39,7 @@
     "balm-fabric": {
       "id": "balm-fabric",
       "name": "Balm",
-      "version": "21.0.12",
+      "version": "21.0.14",
       "url": "https://mods.twelveiterations.com/"
     },
     "basalt-crusher": {
@@ -213,7 +213,7 @@
     "earthtojavamobs": {
       "id": "earthtojavamobs",
       "name": "Earth2Java",
-      "version": "1.11.1",
+      "version": "1.11.3",
       "url": "https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric"
     },
     "emerald_tools": {
@@ -249,7 +249,7 @@
     "enriched": {
       "id": "enriched",
       "name": "Enriched",
-      "version": "4.1.1-mc1.21",
+      "version": "4.2-mc1.21",
       "url": "https://enrichedmc.com/"
     },
     "expandedstorage": {
@@ -275,6 +275,12 @@
       "name": "Fabric Convention Tags (v2)",
       "version": "2.4.1+86024ea6d1",
       "url": "https://fabricmc.net"
+    },
+    "fishofthieves": {
+      "id": "fishofthieves",
+      "name": "Fish of Thieves",
+      "version": "4.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves"
     },
     "foodtxf": {
       "id": "foodtxf",
@@ -396,6 +402,12 @@
       "version": "1.5.6",
       "url": "https://lieonlion.github.io/LieOnLion/"
     },
+    "lolmst": {
+      "id": "lolmst",
+      "name": "More Smithing Tables",
+      "version": "1.0.0",
+      "url": "https://lieonlion.github.io/LieOnLion/"
+    },
     "material_beacons": {
       "id": "material_beacons",
       "name": "Material Beacons",
@@ -423,7 +435,7 @@
     "mining_dims": {
       "id": "mining_dims",
       "name": "Mining Dimensions",
-      "version": "1.7.7",
+      "version": "1.7.9",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
     },
     "mo_glass": {
@@ -576,6 +588,12 @@
       "version": "0.2.0",
       "url": null
     },
+    "scorchful": {
+      "id": "scorchful",
+      "name": "Scorchful",
+      "version": "0.9-beta.1",
+      "url": "https://modrinth.com/mod/scorchful"
+    },
     "sereneseasons": {
       "id": "sereneseasons",
       "name": "SereneSeasons",
@@ -639,7 +657,7 @@
     "the_bumblezone": {
       "id": "the_bumblezone",
       "name": "The Bumblezone - Fabric",
-      "version": "7.6.14+1.21-fabric",
+      "version": "7.6.15+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "tinycoal": {
@@ -9280,6 +9298,18 @@
           ]
         },
         {
+          "value": "enriched:berry_juice",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:beef_stew",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
           "value": "minecraft:baked_potato",
           "sources": [
             "fabric-convention-tags-v2"
@@ -9433,6 +9463,24 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#fishofthieves:thieves_fish",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "#fishofthieves:cooked_thieves_fish",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "#fishofthieves:worms",
+          "sources": [
+            "fishofthieves"
           ]
         },
         {
@@ -24716,150 +24764,6 @@
           ]
         },
         {
-          "value": "enriched:steel_helmet",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:steel_chestplate",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:steel_leggings",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:steel_boots",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_helmet",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_chestplate",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_leggings",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_boots",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_helmet",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_chestplate",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_leggings",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_boots",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_helmet",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_chestplate",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_leggings",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_boots",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_helmet",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_chestplate",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_leggings",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_boots",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_helmet",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_chestplate",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_leggings",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_boots",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
           "value": {
             "id": "#minecraft:head_armor",
             "required": false
@@ -25629,6 +25533,12 @@
           ]
         },
         {
+          "value": "enriched:steel_ingot",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
           "value": "ingotcraft:steel_ingot",
           "sources": [
             "ingotcraft"
@@ -26072,6 +25982,70 @@
           "value": "energizedpower:tin_wire",
           "sources": [
             "energizedpower"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gems/ruby",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "enriched:ruby",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "techreborn:ruby_gem",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gems/sapphire",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "enriched:sapphire",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "techreborn:sapphire_gem",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gems/tanzanite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "enriched:tanzanite",
+          "sources": [
+            "enriched"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/obsidian_alloy",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "enriched:obsidian_alloy_ingot",
+          "sources": [
+            "enriched"
           ]
         }
       ]
@@ -26967,6 +26941,66 @@
           "value": "minecraft:salmon_bucket",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "fishofthieves:splashtail_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:pondie_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:islehopper_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:ancientscale_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:plentifin_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:wildsplash_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:devilfish_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:battlegill_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:wrecker_bucket",
+          "sources": [
+            "fishofthieves"
+          ]
+        },
+        {
+          "value": "fishofthieves:stormfish_bucket",
+          "sources": [
+            "fishofthieves"
           ]
         }
       ]
@@ -29818,6 +29852,12 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "#fishofthieves:cooked_thieves_fish",
+          "sources": [
+            "fishofthieves"
+          ]
         }
       ]
     },
@@ -30407,6 +30447,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#fishofthieves:thieves_fish",
+          "sources": [
+            "fishofthieves"
           ]
         }
       ]
@@ -36345,6 +36391,22 @@
       ]
     },
     {
+      "id": "smithing_tables",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:smithing_tables",
+            "required": false
+          },
+          "sources": [
+            "lolmst"
+          ]
+        }
+      ]
+    },
+    {
       "id": "foods/cooked_meats/cooked_beef",
       "replaced_by": [],
       "sources": [],
@@ -39472,32 +39534,6 @@
       "content": [
         {
           "value": "techreborn:red_garnet_gem",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "gems/ruby",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:ruby_gem",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "gems/sapphire",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:sapphire_gem",
           "sources": [
             "techreborn"
           ]
@@ -49896,6 +49932,12 @@
           ]
         },
         {
+          "value": "#scorchful:sand_cauldrons",
+          "sources": [
+            "scorchful"
+          ]
+        },
+        {
           "value": "#variantbarrels:barrels",
           "sources": [
             "variantbarrels"
@@ -55771,6 +55813,22 @@
           },
           "sources": [
             "lolmlv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smithing_tables",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:smithing_tables",
+            "required": false
+          },
+          "sources": [
+            "lolmst"
           ]
         }
       ]

@@ -57,7 +57,7 @@
     "bclib": {
       "id": "bclib",
       "name": "BCLib",
-      "version": "21.0.5",
+      "version": "21.0.7",
       "url": "https://modrinth.com/mod/bclib"
     },
     "beo": {
@@ -75,7 +75,7 @@
     "betternether": {
       "id": "betternether",
       "name": "Better Nether",
-      "version": "21.0.5",
+      "version": "21.0.6",
       "url": "https://www.curseforge.com/minecraft/mc-mods/betternether"
     },
     "biomesoplenty": {
@@ -213,7 +213,7 @@
     "earthtojavamobs": {
       "id": "earthtojavamobs",
       "name": "Earth2Java",
-      "version": "1.11.3",
+      "version": "1.11.5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric"
     },
     "emerald_tools": {
@@ -273,7 +273,7 @@
     "fabric-convention-tags-v2": {
       "id": "fabric-convention-tags-v2",
       "name": "Fabric Convention Tags (v2)",
-      "version": "2.4.1+86024ea6d1",
+      "version": "2.4.2+c111832ad1",
       "url": "https://fabricmc.net"
     },
     "fishofthieves": {
@@ -480,6 +480,12 @@
       "version": "0.20.0+1.21-alpha4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mythicmetals"
     },
+    "nature_arise": {
+      "id": "nature_arise",
+      "name": "Nature Arise",
+      "version": "0.9.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/nature-arise"
+    },
     "natures_spirit": {
       "id": "natures_spirit",
       "name": "Nature's Spirit",
@@ -491,6 +497,12 @@
       "name": "Nears",
       "version": "2.0.6",
       "url": null
+    },
+    "nox": {
+      "id": "nox",
+      "name": "Nox: Renoxed",
+      "version": "2.7.2+1.21",
+      "url": "https://modrinth.com/mod/nox-renoxed"
     },
     "nullscape": {
       "id": "nullscape",
@@ -585,13 +597,13 @@
     "rudimentary": {
       "id": "rudimentary",
       "name": "Rudimentary",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "url": null
     },
     "scorchful": {
       "id": "scorchful",
       "name": "Scorchful",
-      "version": "0.9-beta.1",
+      "version": "0.9",
       "url": "https://modrinth.com/mod/scorchful"
     },
     "sereneseasons": {
@@ -639,7 +651,7 @@
     "techreborn": {
       "id": "techreborn",
       "name": "Tech Reborn",
-      "version": "5.11.8",
+      "version": "5.11.9",
       "url": "https://www.curseforge.com/minecraft/mc-mods/techreborn"
     },
     "terralith": {
@@ -759,7 +771,7 @@
     "wover-tag": {
       "id": "wover-tag",
       "name": "WorldWeaver - Tag API",
-      "version": "21.0.6",
+      "version": "21.0.8",
       "url": "https://github.com/quiqueck/WorldWeaver"
     },
     "xtraarrows": {
@@ -37744,6 +37756,49 @@
       ]
     },
     {
+      "id": "fireproof",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:magma_cream",
+          "sources": [
+            "nox"
+          ]
+        },
+        {
+          "value": "minecraft:wither_skeleton_skull",
+          "sources": [
+            "nox"
+          ]
+        },
+        {
+          "value": "minecraft:nether_star",
+          "sources": [
+            "nox"
+          ]
+        },
+        {
+          "value": "minecraft:ghast_tear",
+          "sources": [
+            "nox"
+          ]
+        },
+        {
+          "value": "minecraft:blaze_rod",
+          "sources": [
+            "nox"
+          ]
+        },
+        {
+          "value": "minecraft:blaze_powder",
+          "sources": [
+            "nox"
+          ]
+        }
+      ]
+    },
+    {
       "id": "dusts/coal",
       "replaced_by": [],
       "sources": [],
@@ -59027,6 +59082,48 @@
           ]
         },
         {
+          "value": "nature_arise:snowy_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:old_growth_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:flower_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:boreal_forest",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:maple_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:frozen_caves",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
           "value": "#terralith:reference/temperature/cold",
           "sources": [
             "terralith"
@@ -61294,6 +61391,12 @@
           ]
         },
         {
+          "value": "nature_arise:snowy_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
           "value": "#terralith:reference/temperature/frozen_all",
           "sources": [
             "terralith"
@@ -62241,6 +62344,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "nature_arise:frozen_caves",
+          "sources": [
+            "nature_arise"
           ]
         },
         {
@@ -63352,6 +63461,72 @@
           "value": "#modern_beta:is_modern_beta",
           "sources": [
             "modern_beta"
+          ]
+        },
+        {
+          "value": "nature_arise:maple_grove",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:mixed_forest",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:snowy_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:old_growth_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:flower_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:boreal_forest",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:willow_swamp",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:marshland",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:maple_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:frozen_caves",
+          "sources": [
+            "nature_arise"
           ]
         },
         {
@@ -65634,6 +65809,62 @@
           "value": "natures_spirit:tropical_shores",
           "sources": [
             "natures_spirit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_coniferous",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "nature_arise:snowy_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:old_growth_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:boreal_forest",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:maple_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is_sparse/overworld",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "nature_arise:flower_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:frozen_caves",
+          "sources": [
+            "nature_arise"
           ]
         }
       ]

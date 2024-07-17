@@ -1,5 +1,11 @@
 {
   "sources": {
+    "additional-armoury": {
+      "id": "additional-armoury",
+      "name": "Additional Armoury",
+      "version": "2.0.0+1.21",
+      "url": "https://github.com/Provismet/Additional-Armoury"
+    },
     "advancednetherite": {
       "id": "advancednetherite",
       "name": "Advanced Netherite",
@@ -111,7 +117,7 @@
     "ceramicshears": {
       "id": "ceramicshears",
       "name": "Ceramic Shears",
-      "version": "1.21-3.1.2.0",
+      "version": "1.21-3.2.0.1",
       "url": "https://github.com/cech12/CeramicShears"
     },
     "charm": {
@@ -129,7 +135,7 @@
     "combat-plus-core": {
       "id": "combat-plus-core",
       "name": "Combat+ Core",
-      "version": "2.0.1+1.20.6",
+      "version": "3.0.0+1.21",
       "url": "https://provismet.github.io/modding?tag=null&series=Combat%2B"
     },
     "comforts": {
@@ -183,7 +189,7 @@
     "desolation": {
       "id": "desolation",
       "name": "Desolation",
-      "version": "1.6.0-beta.1",
+      "version": "1.7.0-beta.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/desolation"
     },
     "dragonloot": {
@@ -261,13 +267,13 @@
     "extended-enchanting": {
       "id": "extended-enchanting",
       "name": "Extended Enchanting",
-      "version": "1.0.2+1.20.6",
+      "version": "2.0.0+1.21",
       "url": "https://github.com/Provismet/Extended-Enchanting"
     },
     "extra-damage-enchantments": {
       "id": "extra-damage-enchantments",
       "name": "Extra Damage Enchantments",
-      "version": "1.3.0+1.20.6",
+      "version": "2.0.0+1.21",
       "url": "https://github.com/Provismet/Extra-Damage-Enchantments"
     },
     "fabric-convention-tags-v2": {
@@ -285,7 +291,7 @@
     "foodtxf": {
       "id": "foodtxf",
       "name": "Food TXF",
-      "version": "1.21-1.6.4-fabric",
+      "version": "1.21-1.6.5-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
     },
     "gardens_of_the_dead": {
@@ -327,8 +333,8 @@
     "hauntfurnace": {
       "id": "hauntfurnace",
       "name": "Haunt Furnace",
-      "version": "0.3.1-1.21",
-      "url": "https://github.com/jshipley/HauntFurnace"
+      "version": "0.3.2",
+      "url": "https://fabricmc.net/"
     },
     "hopperpots": {
       "id": "hopperpots",
@@ -408,6 +414,12 @@
       "version": "1.0.0",
       "url": "https://lieonlion.github.io/LieOnLion/"
     },
+    "luckytntmod": {
+      "id": "luckytntmod",
+      "name": "Lucky TNT Mod",
+      "version": "6.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/luckytnt"
+    },
     "material_beacons": {
       "id": "material_beacons",
       "name": "Material Beacons",
@@ -437,6 +449,12 @@
       "name": "Mining Dimensions",
       "version": "1.7.9",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
+    },
+    "miningutility": {
+      "id": "miningutility",
+      "name": "Mining Utility",
+      "version": "2.0+1.21",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mining-utility/"
     },
     "mo_glass": {
       "id": "mo_glass",
@@ -483,7 +501,7 @@
     "nature_arise": {
       "id": "nature_arise",
       "name": "Nature Arise",
-      "version": "0.9.0",
+      "version": "0.9.2",
       "url": "https://www.curseforge.com/minecraft/mc-mods/nature-arise"
     },
     "natures_spirit": {
@@ -516,6 +534,12 @@
       "version": "0.7.1",
       "url": null
     },
+    "oxidized": {
+      "id": "oxidized",
+      "name": "Oxidized",
+      "version": "1.8.3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/oxidized"
+    },
     "pdpcompat": {
       "id": "pdpcompat",
       "name": "Personal Disc Player Compatibility",
@@ -533,6 +557,12 @@
       "name": "Personal Disc Player",
       "version": "1.21-1.1.4",
       "url": "https://github.com/DentedLeft/Dented-Modding"
+    },
+    "pigsteel": {
+      "id": "pigsteel",
+      "name": "Pigsteel",
+      "version": "2.2.1",
+      "url": "https://github.com/ArshiaDPG/Pigsteel-Fabric"
     },
     "polydecorations": {
       "id": "polydecorations",
@@ -690,6 +720,12 @@
       "version": "2.0.6",
       "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
     },
+    "toneko": {
+      "id": "toneko",
+      "name": "toNeko",
+      "version": "1.1.0",
+      "url": "https://github.com/CSNeko/toNeko"
+    },
     "traverse-common": {
       "id": "traverse-common",
       "name": "Traverse: Common",
@@ -705,7 +741,7 @@
     "usefulhats": {
       "id": "usefulhats",
       "name": "Useful Hats",
-      "version": "1.21-6.2.0.0",
+      "version": "1.21-6.3.1.0",
       "url": "https://github.com/cech12/UsefulHats"
     },
     "variantbarrels": {
@@ -747,7 +783,7 @@
     "veggie_way": {
       "id": "veggie_way",
       "name": "The Veggie Way",
-      "version": "1.6.6",
+      "version": "1.6.7",
       "url": null
     },
     "walljump": {
@@ -759,13 +795,13 @@
     "wilderwild": {
       "id": "wilderwild",
       "name": "Wilder Wild",
-      "version": "2.4.5-Fabric+1.21",
+      "version": "2.4.6-mc1.21",
       "url": "https://modrinth.com/mod/wilder-wild"
     },
     "woodenshears": {
       "id": "woodenshears",
       "name": "Wooden Shears",
-      "version": "1.21-3.1.1.0",
+      "version": "1.21-3.2.0.1",
       "url": "https://github.com/cech12/WoodenShears"
     },
     "wover-tag": {
@@ -782,6 +818,248 @@
     }
   },
   "item": [
+    {
+      "id": "enchantables",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#additional-armoury:enchantable/maces",
+            "required": false
+          },
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": {
+            "id": "#additional-armoury:enchantable/daggers",
+            "required": false
+          },
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": {
+            "id": "#additional-armoury:enchantable/boomerang",
+            "required": false
+          },
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": {
+            "id": "#combat-plus:enchantable/damage",
+            "required": false
+          },
+          "sources": [
+            "combat-plus-core"
+          ]
+        },
+        {
+          "value": {
+            "id": "#combat-plus:enchantable/weapon_utility",
+            "required": false
+          },
+          "sources": [
+            "combat-plus-core"
+          ]
+        },
+        {
+          "value": {
+            "id": "#combat-plus:enchantable/aspect",
+            "required": false
+          },
+          "sources": [
+            "combat-plus-core"
+          ]
+        },
+        {
+          "value": {
+            "id": "#combat-plus:enchantable/offhand",
+            "required": false
+          },
+          "sources": [
+            "combat-plus-core"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/armor",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/equippable",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/weapon",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/sword",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/mining",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/mining_loot",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/fishing",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/trident",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/bow",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/crossbow",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/mace",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/fire_aspect",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:enchantable/durability",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#c:tools/scythe",
+          "sources": [
+            "resource_cracker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hidden_from_recipe_viewers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "additional-armoury:fireball_spell",
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": "additional-armoury:frostball_spell",
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": "additional-armoury:ghostly_orb_spell",
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": "additional-armoury:wind_tornado_spell",
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": "additional-armoury:missile_spell",
+          "sources": [
+            "additional-armoury"
+          ]
+        },
+        {
+          "value": "mythicmetals:froge",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:doge",
+          "sources": [
+            "mythicmetals"
+          ]
+        }
+      ]
+    },
     {
       "id": "buckets/lava",
       "replaced_by": [],
@@ -1715,6 +1993,12 @@
           ]
         },
         {
+          "value": "luckytntmod:toxic_stone",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
           "value": "minecraft:cobblestone",
           "sources": [
             "hauntfurnace",
@@ -2557,6 +2841,18 @@
           ]
         },
         {
+          "value": "luckytntmod:uranium_ingot",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:antimatter",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
           "value": "#c:ingots/bronze",
           "sources": [
             "ingotcraft"
@@ -2870,6 +3166,12 @@
           "value": "bno:uranium_ingot",
           "sources": [
             "bno"
+          ]
+        },
+        {
+          "value": "luckytntmod:uranium_ingot",
+          "sources": [
+            "luckytntmod"
           ]
         }
       ]
@@ -3664,6 +3966,30 @@
           ]
         },
         {
+          "value": "luckytntmod:uranium_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_uranium_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:gunpowder_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_gunpowder_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
           "value": "#mythicmetals:ores/adamantite",
           "sources": [
             "mythicmetals"
@@ -3787,6 +4113,12 @@
           "value": "#mythicmetals:ores/unobtainium",
           "sources": [
             "mythicmetals"
+          ]
+        },
+        {
+          "value": "#pigsteel:pigsteel_ores",
+          "sources": [
+            "pigsteel"
           ]
         },
         {
@@ -4417,6 +4749,18 @@
           "value": "bno:soul_uranium_ore",
           "sources": [
             "bno"
+          ]
+        },
+        {
+          "value": "luckytntmod:uranium_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_uranium_ore",
+          "sources": [
+            "luckytntmod"
           ]
         }
       ]
@@ -5955,6 +6299,18 @@
           "value": "#mythicmetals:storage_blocks/unobtainium",
           "sources": [
             "mythicmetals"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/sapphire",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/topaz",
+          "sources": [
+            "nature_arise"
           ]
         }
       ]
@@ -9478,6 +9834,36 @@
           ]
         },
         {
+          "value": "luckytntmod:red_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:green_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:blue_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:purple_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:yellow_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
           "value": "#fishofthieves:thieves_fish",
           "sources": [
             "fishofthieves"
@@ -10218,6 +10604,7 @@
           "value": "minecraft:beef",
           "sources": [
             "fabric-convention-tags-v2",
+            "hauntfurnace",
             "techreborn"
           ]
         },
@@ -10226,6 +10613,7 @@
           "sources": [
             "fabric-convention-tags-v2",
             "foodtxf",
+            "hauntfurnace",
             "techreborn"
           ]
         },
@@ -10233,6 +10621,7 @@
           "value": "minecraft:chicken",
           "sources": [
             "fabric-convention-tags-v2",
+            "hauntfurnace",
             "techreborn"
           ]
         },
@@ -10240,6 +10629,7 @@
           "value": "minecraft:rabbit",
           "sources": [
             "fabric-convention-tags-v2",
+            "hauntfurnace",
             "techreborn"
           ]
         },
@@ -10247,6 +10637,7 @@
           "value": "minecraft:mutton",
           "sources": [
             "fabric-convention-tags-v2",
+            "hauntfurnace",
             "techreborn"
           ]
         },
@@ -11191,6 +11582,24 @@
           "sources": [
             "biomesoplenty"
           ]
+        },
+        {
+          "value": "nature_arise:maple_fence_gate",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:fir_fence_gate",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:willow_fence_gate",
+          "sources": [
+            "nature_arise"
+          ]
         }
       ]
     },
@@ -11275,6 +11684,24 @@
           "value": "biomesoplenty:empyreal_fence",
           "sources": [
             "biomesoplenty"
+          ]
+        },
+        {
+          "value": "nature_arise:maple_fence",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:fir_fence",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:willow_fence",
+          "sources": [
+            "nature_arise"
           ]
         }
       ]
@@ -13822,6 +14249,457 @@
           "value": "cinderscapes:sulfur",
           "sources": [
             "cinderscapes-common"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/melee_weapon",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#combat-plus:melee_weapon",
+            "required": false
+          },
+          "sources": [
+            "combat-plus-core"
+          ]
+        },
+        {
+          "value": "enriched:steel_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_sword",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "minecraft:wooden_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:stone_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:iron_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:diamond_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:netherite_sword",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:wooden_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:stone_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:golden_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:iron_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:diamond_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:netherite_axe",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:mace",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/melee_weapons",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "mythicmetals:adamantite_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:adamantite_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:aquarium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:banglum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:bronze_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:celestium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:copper_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:durasteel_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:hallowed_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:kyber_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:legendary_banglum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:metallurgium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:mythril_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:orichalcum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:osmium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:palladium_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:prometheum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:quadrillum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:runite_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:star_platinum_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:steel_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:stormyx_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:tidesinger_axe",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:red_aegis_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:white_aegis_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:gilded_midas_gold_sword",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:royal_midas_gold_sword",
+          "sources": [
+            "mythicmetals"
           ]
         }
       ]
@@ -26029,6 +26907,12 @@
           ]
         },
         {
+          "value": "nature_arise:sapphire_shard",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
           "value": "techreborn:sapphire_gem",
           "sources": [
             "techreborn"
@@ -26058,448 +26942,6 @@
           "value": "enriched:obsidian_alloy_ingot",
           "sources": [
             "enriched"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tools/melee_weapon",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "enriched:steel_sword",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_sword",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_sword",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_sword",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_sword",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_sword",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:copper_sword",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "minecraft:wooden_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:stone_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:golden_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:iron_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:diamond_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:netherite_sword",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:wooden_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:stone_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:golden_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:iron_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:diamond_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:netherite_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:mace",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/melee_weapons",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "mythicmetals:adamantite_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:adamantite_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:aquarium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:aquarium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:banglum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:banglum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:bronze_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:bronze_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:carmot_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:carmot_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:celestium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:celestium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:copper_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:copper_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:durasteel_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:durasteel_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:hallowed_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:hallowed_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:kyber_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:kyber_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:legendary_banglum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:legendary_banglum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:metallurgium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:metallurgium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:mythril_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:mythril_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:orichalcum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:orichalcum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:osmium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:osmium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:palladium_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:palladium_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:prometheum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:prometheum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:quadrillum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:quadrillum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:runite_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:runite_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:star_platinum_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:star_platinum_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:steel_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:steel_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:stormyx_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:stormyx_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:tidesinger_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:tidesinger_axe",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:red_aegis_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:white_aegis_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:midas_gold_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:gilded_midas_gold_sword",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:royal_midas_gold_sword",
-          "sources": [
-            "mythicmetals"
           ]
         }
       ]
@@ -29577,136 +30019,6 @@
       ]
     },
     {
-      "id": "enchantables",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#minecraft:enchantable/armor",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/equippable",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/weapon",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/sword",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/mining",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/mining_loot",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/fishing",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/trident",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/bow",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/crossbow",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/mace",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/fire_aspect",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:enchantable/durability",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#c:tools/scythe",
-          "sources": [
-            "resource_cracker"
-          ]
-        }
-      ]
-    },
-    {
       "id": "foods/berry",
       "replaced_by": [],
       "sources": [],
@@ -29788,7 +30100,8 @@
         {
           "value": "minecraft:bread",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "hauntfurnace"
           ]
         },
         {
@@ -29803,7 +30116,38 @@
       "id": "foods/candies",
       "replaced_by": [],
       "sources": [],
-      "content": []
+      "content": [
+        {
+          "value": "luckytntmod:red_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:green_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:blue_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:purple_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:yellow_candy",
+          "sources": [
+            "luckytntmod"
+          ]
+        }
+      ]
     },
     {
       "id": "foods/candy",
@@ -30997,6 +31341,18 @@
           "sources": [
             "more_gems"
           ]
+        },
+        {
+          "value": "#c:gems/sapphire",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "#c:gems/topaz",
+          "sources": [
+            "nature_arise"
+          ]
         }
       ]
     },
@@ -31403,25 +31759,6 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hidden_from_recipe_viewers",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "mythicmetals:froge",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:doge",
-          "sources": [
-            "mythicmetals"
           ]
         }
       ]
@@ -32809,6 +33146,38 @@
       ]
     },
     {
+      "id": "ingots/antimatter",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "luckytntmod:antimatter",
+          "sources": [
+            "luckytntmod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/gunpowder",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "luckytntmod:gunpowder_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_gunpowder_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bread",
       "replaced_by": [],
       "sources": [],
@@ -33339,6 +33708,12 @@
           "value": "geocluster:copper_nugget",
           "sources": [
             "geocluster"
+          ]
+        },
+        {
+          "value": "oxidized:copper_nugget",
+          "sources": [
+            "oxidized"
           ]
         },
         {
@@ -34337,6 +34712,24 @@
           ]
         },
         {
+          "value": "minecraft:mossy_cobblestone",
+          "sources": [
+            "hauntfurnace"
+          ]
+        },
+        {
+          "value": "minecraft:infested_cobblestone",
+          "sources": [
+            "hauntfurnace"
+          ]
+        },
+        {
+          "value": "minecraft:cobbled_deepslate",
+          "sources": [
+            "hauntfurnace"
+          ]
+        },
+        {
           "value": "terrestria:basalt_cobblestone",
           "sources": [
             "terrestria-common"
@@ -34718,6 +35111,31 @@
           "value": "mining_dims:diamond_nugget",
           "sources": [
             "mining_dims"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torches/coal",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:torch",
+          "sources": [
+            "miningutility"
+          ]
+        },
+        {
+          "value": "minecraft:soul_torch",
+          "sources": [
+            "miningutility"
+          ]
+        },
+        {
+          "value": "miningutility:mini_torch",
+          "sources": [
+            "miningutility"
           ]
         }
       ]
@@ -37751,6 +38169,51 @@
           "value": "minecraft:stick",
           "sources": [
             "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gems/topaz",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "nature_arise:topaz_shard",
+          "sources": [
+            "nature_arise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/sapphire",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "nature_arise:sapphire_block",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "techreborn:sapphire_storage_block",
+          "sources": [
+            "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/topaz",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "nature_arise:topaz_block",
+          "sources": [
+            "nature_arise"
           ]
         }
       ]
@@ -41764,19 +42227,6 @@
       ]
     },
     {
-      "id": "storage_blocks/sapphire",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "techreborn:sapphire_storage_block",
-          "sources": [
-            "techreborn"
-          ]
-        }
-      ]
-    },
-    {
       "id": "storage_blocks/titanium",
       "replaced_by": [],
       "sources": [],
@@ -42193,6 +42643,32 @@
           "value": "minecraft:structure_block",
           "sources": [
             "tommylib"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iron_nuggets",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:iron_nugget",
+          "sources": [
+            "toneko"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tails",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#toneko:tails",
+          "sources": [
+            "toneko"
           ]
         }
       ]
@@ -43567,6 +44043,30 @@
           ]
         },
         {
+          "value": "luckytntmod:uranium_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_uranium_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:gunpowder_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_gunpowder_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
           "value": "geocluster:zinc_ore",
           "sources": [
             "geocluster"
@@ -44251,6 +44751,12 @@
           "value": "oritech:endstone_platinum_ore",
           "sources": [
             "oritech"
+          ]
+        },
+        {
+          "value": "#pigsteel:pigsteel_ores",
+          "sources": [
+            "pigsteel"
           ]
         },
         {
@@ -44958,6 +45464,18 @@
           "sources": [
             "bno"
           ]
+        },
+        {
+          "value": "luckytntmod:uranium_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_uranium_ore",
+          "sources": [
+            "luckytntmod"
+          ]
         }
       ]
     },
@@ -45364,6 +45882,18 @@
           "value": "#c:storage_blocks/raw_steel",
           "sources": [
             "ingotcraft"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/sapphire",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/topaz",
+          "sources": [
+            "nature_arise"
           ]
         }
       ]
@@ -54089,6 +54619,12 @@
           ]
         },
         {
+          "value": "luckytntmod:toxic_stone",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
           "value": "minecraft:calcite",
           "sources": [
             "gobber2",
@@ -54510,6 +55046,25 @@
           "value": "minecraft:hay_block",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/gunpowder",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "luckytntmod:gunpowder_ore",
+          "sources": [
+            "luckytntmod"
+          ]
+        },
+        {
+          "value": "luckytntmod:deepslate_gunpowder_ore",
+          "sources": [
+            "luckytntmod"
           ]
         }
       ]
@@ -56650,6 +57205,32 @@
           "value": "#mythicmetals:storage_blocks/unobtainium",
           "sources": [
             "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/sapphire",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "nature_arise:sapphire_block",
+          "sources": [
+            "nature_arise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/topaz",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "nature_arise:topaz_block",
+          "sources": [
+            "nature_arise"
           ]
         }
       ]
@@ -62924,7 +63505,7 @@
       ]
     },
     {
-      "id": "climate_temperate",
+      "id": "is_overworld",
       "replaced_by": [],
       "sources": [],
       "content": [
@@ -62953,12 +63534,360 @@
           },
           "sources": [
             "desolation"
+          ]
+        },
+        {
+          "value": {
+            "id": "#dusks_biomes:dusks_biomes",
+            "required": false
+          },
+          "sources": [
+            "dusks_biomes"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:is_overworld",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:in_the_overworld",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#modern_beta:is_modern_beta",
+          "sources": [
+            "modern_beta"
+          ]
+        },
+        {
+          "value": "nature_arise:maple_grove",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:mixed_forest",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:snowy_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:old_growth_fir_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:flower_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:boreal_forest",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:willow_swamp",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:marshland",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:maple_taiga",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "nature_arise:frozen_caves",
+          "sources": [
+            "nature_arise"
+          ]
+        },
+        {
+          "value": "#terralith:all_terralith_biomes",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:caldera",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:canyon",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:cypress_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:cypress_swamp",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:dense_woodlands",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:dunes",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:hemlock_rainforest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:hemlock_treeline",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:japanese_maple_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:lush_desert",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:lush_redwood_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:oasis",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:outback",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:rainbow_rainforest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:redwood_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:sakura_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:snowy_hemlock_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:snowy_hemlock_treeline",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:volcanic_island",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:windswept_redwood_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:autumnal_woods",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:coniferous_forest",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:desert_shrubland",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:flatlands",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:lush_swamp",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:snowy_coniferous_forest",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:woodlands",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
           ]
         }
       ]
     },
     {
-      "id": "in_overworld",
+      "id": "is_temperate/overworld",
       "replaced_by": [],
       "sources": [],
       "content": [
@@ -62987,6 +63916,306 @@
           },
           "sources": [
             "desolation"
+          ]
+        },
+        {
+          "value": "minecraft:forest",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:sunflower_plains",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:swamp",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:stony_shore",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:dark_forest",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_forest",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:birch_forest",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:old_growth_birch_forest",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:meadow",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:plains",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:climate_temperate",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#terralith:reference/temperature/temperate",
+          "sources": [
+            "terralith"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:cypress_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:cypress_swamp",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:dense_woodlands",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:hemlock_rainforest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:japanese_maple_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:lush_redwood_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:redwood_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "terrestria:sakura_forest",
+            "required": false
+          },
+          "sources": [
+            "terrestria-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:autumnal_woods",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:coniferous_forest",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:flatlands",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:lush_swamp",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "traverse:woodlands",
+            "required": false
+          },
+          "sources": [
+            "traverse-common"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:cypress_wetlands",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:mixed_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:parched_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:warm_river",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:warm_beach",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:flower_field",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:old_growth_dark_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:dark_birch_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:semi_birch_forest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:rainforest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:temperate_rainforest",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
+          ]
+        },
+        {
+          "value": {
+            "id": "wilderwild:dark_taiga",
+            "required": false
+          },
+          "sources": [
+            "wilderwild"
           ]
         }
       ]
@@ -63426,361 +64655,6 @@
       ]
     },
     {
-      "id": "is_overworld",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "#dusks_biomes:dusks_biomes",
-            "required": false
-          },
-          "sources": [
-            "dusks_biomes"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:is_overworld",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:in_the_overworld",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#modern_beta:is_modern_beta",
-          "sources": [
-            "modern_beta"
-          ]
-        },
-        {
-          "value": "nature_arise:maple_grove",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:mixed_forest",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:fir_taiga",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:snowy_fir_taiga",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:old_growth_fir_taiga",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:flower_taiga",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:boreal_forest",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:willow_swamp",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:marshland",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:maple_taiga",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "nature_arise:frozen_caves",
-          "sources": [
-            "nature_arise"
-          ]
-        },
-        {
-          "value": "#terralith:all_terralith_biomes",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:caldera",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:canyon",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:cypress_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:cypress_swamp",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:dense_woodlands",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:dunes",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:hemlock_rainforest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:hemlock_treeline",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:japanese_maple_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:lush_desert",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:lush_redwood_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:oasis",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:outback",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:rainbow_rainforest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:redwood_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:sakura_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:snowy_hemlock_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:snowy_hemlock_treeline",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:volcanic_island",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:windswept_redwood_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:autumnal_woods",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:coniferous_forest",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:desert_shrubland",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:flatlands",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:lush_swamp",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:snowy_coniferous_forest",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:woodlands",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        }
-      ]
-    },
-    {
       "id": "is_shallow_ocean",
       "replaced_by": [],
       "sources": [],
@@ -63856,313 +64730,6 @@
           "value": "terralith:gravel_beach",
           "sources": [
             "terralith"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "is_temperate/overworld",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:forest",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:sunflower_plains",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:swamp",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:stony_shore",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:dark_forest",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:windswept_forest",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:birch_forest",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:old_growth_birch_forest",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:meadow",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:plains",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:climate_temperate",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#terralith:reference/temperature/temperate",
-          "sources": [
-            "terralith"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:cypress_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:cypress_swamp",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:dense_woodlands",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:hemlock_rainforest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:japanese_maple_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:lush_redwood_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:redwood_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "terrestria:sakura_forest",
-            "required": false
-          },
-          "sources": [
-            "terrestria-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:autumnal_woods",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:coniferous_forest",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:flatlands",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:lush_swamp",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "traverse:woodlands",
-            "required": false
-          },
-          "sources": [
-            "traverse-common"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:cypress_wetlands",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:mixed_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:parched_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:warm_river",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:warm_beach",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:flower_field",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:old_growth_dark_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:dark_birch_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:semi_birch_forest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:rainforest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:temperate_rainforest",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
-          ]
-        },
-        {
-          "value": {
-            "id": "wilderwild:dark_taiga",
-            "required": false
-          },
-          "sources": [
-            "wilderwild"
           ]
         }
       ]

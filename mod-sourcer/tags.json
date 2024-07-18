@@ -63,7 +63,7 @@
     "bclib": {
       "id": "bclib",
       "name": "BCLib",
-      "version": "21.0.7",
+      "version": "21.0.8",
       "url": "https://modrinth.com/mod/bclib"
     },
     "beo": {
@@ -81,7 +81,7 @@
     "betternether": {
       "id": "betternether",
       "name": "Better Nether",
-      "version": "21.0.6",
+      "version": "21.0.7",
       "url": "https://www.curseforge.com/minecraft/mc-mods/betternether"
     },
     "biomesoplenty": {
@@ -222,10 +222,16 @@
       "version": "1.11.5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric"
     },
+    "economical_villager_trading": {
+      "id": "economical_villager_trading",
+      "name": "Economical Villager Trading",
+      "version": "1.3.0",
+      "url": "https://modrinth.com/mod/economical-villager-trading"
+    },
     "emerald_tools": {
       "id": "emerald_tools",
       "name": "Emerald Tools",
-      "version": "1.8.10",
+      "version": "1.8.11",
       "url": "https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric"
     },
     "enchancement": {
@@ -333,8 +339,8 @@
     "hauntfurnace": {
       "id": "hauntfurnace",
       "name": "Haunt Furnace",
-      "version": "0.3.2",
-      "url": "https://fabricmc.net/"
+      "version": "0.3.3",
+      "url": "https://modrinth.com/mod/haunt-furnace"
     },
     "hopperpots": {
       "id": "hopperpots",
@@ -359,6 +365,12 @@
       "name": "IngotCraft",
       "version": "1.21-2.4.3-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
+    },
+    "jmc": {
+      "id": "jmc",
+      "name": "Just More Cakes!",
+      "version": "1.19.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/just-more-cakes"
     },
     "leaves_us_in_peace": {
       "id": "leaves_us_in_peace",
@@ -453,7 +465,7 @@
     "miningutility": {
       "id": "miningutility",
       "name": "Mining Utility",
-      "version": "2.0+1.21",
+      "version": "2.0.1+1.21",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mining-utility/"
     },
     "mo_glass": {
@@ -483,7 +495,7 @@
     "more_gems": {
       "id": "more_gems",
       "name": "More Gems",
-      "version": "1.7.11",
+      "version": "1.7.12",
       "url": ""
     },
     "mr_mine_treasure": {
@@ -531,7 +543,7 @@
     "oritech": {
       "id": "oritech",
       "name": "Oritech",
-      "version": "0.7.1",
+      "version": "0.7.2",
       "url": null
     },
     "oxidized": {
@@ -699,7 +711,7 @@
     "the_bumblezone": {
       "id": "the_bumblezone",
       "name": "The Bumblezone - Fabric",
-      "version": "7.6.15+1.21-fabric",
+      "version": "7.6.16+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "tinycoal": {
@@ -717,7 +729,7 @@
     "toms_storage": {
       "id": "toms_storage",
       "name": "Tom's Simple Storage Mod",
-      "version": "2.0.6",
+      "version": "2.0.7",
       "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
     },
     "toneko": {
@@ -807,7 +819,7 @@
     "wover-tag": {
       "id": "wover-tag",
       "name": "WorldWeaver - Tag API",
-      "version": "21.0.8",
+      "version": "21.0.9",
       "url": "https://github.com/quiqueck/WorldWeaver"
     },
     "xtraarrows": {
@@ -8518,25 +8530,29 @@
         {
           "value": "minecraft:wheat_seeds",
           "sources": [
-            "hauntfurnace"
+            "hauntfurnace",
+            "jmc"
           ]
         },
         {
           "value": "minecraft:pumpkin_seeds",
           "sources": [
-            "hauntfurnace"
+            "hauntfurnace",
+            "jmc"
           ]
         },
         {
           "value": "minecraft:melon_seeds",
           "sources": [
-            "hauntfurnace"
+            "hauntfurnace",
+            "jmc"
           ]
         },
         {
           "value": "minecraft:beetroot_seeds",
           "sources": [
-            "hauntfurnace"
+            "hauntfurnace",
+            "jmc"
           ]
         },
         {
@@ -16047,6 +16063,18 @@
           "sources": [
             "croptopia"
           ]
+        },
+        {
+          "value": "jmc:cheesecake",
+          "sources": [
+            "jmc"
+          ]
+        },
+        {
+          "value": "minecraft:air",
+          "sources": [
+            "jmc"
+          ]
         }
       ]
     },
@@ -16085,6 +16113,12 @@
           "value": "croptopia:cheese",
           "sources": [
             "croptopia"
+          ]
+        },
+        {
+          "value": "jmc:cream_cheese",
+          "sources": [
+            "jmc"
           ]
         }
       ]
@@ -25420,6 +25454,19 @@
       ]
     },
     {
+      "id": "villager_currencies",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:emerald",
+          "sources": [
+            "economical_villager_trading"
+          ]
+        }
+      ]
+    },
+    {
       "id": "obsidian",
       "replaced_by": [],
       "sources": [],
@@ -33212,6 +33259,12 @@
           "sources": [
             "foodtxf"
           ]
+        },
+        {
+          "value": "jmc:cream_cheese",
+          "sources": [
+            "jmc"
+          ]
         }
       ]
     },
@@ -34994,6 +35047,76 @@
           "value": "techreborn:steel_storage_block",
           "sources": [
             "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cakes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#jmc:cakes",
+          "sources": [
+            "jmc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cheesecakes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "jmc:cheesecake",
+          "sources": [
+            "jmc"
+          ]
+        },
+        {
+          "value": "minecraft:air",
+          "sources": [
+            "jmc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red_dye",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#c:dye_red",
+            "required": false
+          },
+          "sources": [
+            "jmc"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:dyes/red",
+            "required": false
+          },
+          "sources": [
+            "jmc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slime_balls",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:slime_ball",
+          "sources": [
+            "jmc"
           ]
         }
       ]
@@ -46597,17 +46720,12 @@
           ]
         },
         {
-          "value": "#c:terrain",
-          "sources": [
-            "bclib"
-          ]
-        },
-        {
           "value": {
             "id": "#c:terrain",
             "required": false
           },
           "sources": [
+            "bclib",
             "wover-tag"
           ]
         }
@@ -46640,17 +46758,12 @@
           ]
         },
         {
-          "value": "#c:terrain",
-          "sources": [
-            "bclib"
-          ]
-        },
-        {
           "value": {
             "id": "#c:terrain",
             "required": false
           },
           "sources": [
+            "bclib",
             "wover-tag"
           ]
         }
@@ -46776,24 +46889,19 @@
           ]
         },
         {
-          "value": "#c:nether_mycelium",
+          "value": {
+            "id": "#c:nether_mycelium",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
           "value": "betternether:nether_mycelium",
           "sources": [
             "betternether"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:nether_mycelium",
-            "required": false
-          },
-          "sources": [
-            "wover-tag"
           ]
         }
       ]
@@ -46934,21 +47042,33 @@
           ]
         },
         {
-          "value": "#c:nether_mycelium",
+          "value": {
+            "id": "#c:nether_mycelium",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
-          "value": "#c:nether_ores",
+          "value": {
+            "id": "#c:nether_ores",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
-          "value": "#c:netherrack",
+          "value": {
+            "id": "#c:netherrack",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -46966,9 +47086,13 @@
           ]
         },
         {
-          "value": "#c:soul_ground",
+          "value": {
+            "id": "#c:soul_ground",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -46981,42 +47105,6 @@
           "value": "betternether:soul_sandstone_cut",
           "sources": [
             "betternether"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:nether_mycelium",
-            "required": false
-          },
-          "sources": [
-            "wover-tag"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:nether_ores",
-            "required": false
-          },
-          "sources": [
-            "wover-tag"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:netherrack",
-            "required": false
-          },
-          "sources": [
-            "wover-tag"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:soul_ground",
-            "required": false
-          },
-          "sources": [
-            "wover-tag"
           ]
         }
       ]
@@ -47858,9 +47946,13 @@
           ]
         },
         {
-          "value": "#c:end_stones",
+          "value": {
+            "id": "#c:end_stones",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -47899,15 +47991,23 @@
           ]
         },
         {
-          "value": "#c:mycelium",
+          "value": {
+            "id": "#c:mycelium",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
-          "value": "#c:nether_terrain",
+          "value": {
+            "id": "#c:nether_terrain",
+            "required": false
+          },
           "sources": [
-            "bclib"
+            "bclib",
+            "wover-tag"
           ]
         },
         {
@@ -47935,33 +48035,6 @@
           "value": "minecraft:sculk",
           "sources": [
             "bclib",
-            "wover-tag"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:end_stones",
-            "required": false
-          },
-          "sources": [
-            "wover-tag"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:mycelium",
-            "required": false
-          },
-          "sources": [
-            "wover-tag"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:nether_terrain",
-            "required": false
-          },
-          "sources": [
             "wover-tag"
           ]
         }
@@ -55491,6 +55564,32 @@
           "value": "#mythicmetals:storage_blocks/steel",
           "sources": [
             "mythicmetals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cakes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#jmc:cakes",
+          "sources": [
+            "jmc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "candle_cakes",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#jmc:candle_cakes",
+          "sources": [
+            "jmc"
           ]
         }
       ]

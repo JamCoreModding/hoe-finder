@@ -51,7 +51,7 @@ class TagEntry:
 
     @classmethod
     def from_json(cls, json, sources):
-        resolved_sources = {sources[x] for x in json['sources']}
+        resolved_sources = [sources[x] for x in json['sources']]
         return TagEntry(json['value'], resolved_sources)
 
 
@@ -150,7 +150,7 @@ class TagContainer:
         if('sources' in json):
             json_sources = json['sources']
 
-        tags.sources = {TagSource.from_json(x) for x in json_sources.values()}
+        tags.sources = [TagSource.from_json(x) for x in json_sources.values()]
         sources = {s.mod_id: s for s in tags.sources}
 
         def load_tags(key):

@@ -54,6 +54,12 @@
       "version": "1.9.1",
       "url": null
     },
+    "basic_fluid_hopper": {
+      "id": "basic_fluid_hopper",
+      "name": "Basic Fluid Hopper",
+      "version": "0.2-1.21",
+      "url": "https://github.com/jshipley/FluidHopper"
+    },
     "basicweapons": {
       "id": "basicweapons",
       "name": "Basic Weapons",
@@ -213,7 +219,7 @@
     "dusks_biomes": {
       "id": "dusks_biomes",
       "name": "Dusk's Biomes",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://github.com/Teamvoided/DusksBiomes"
     },
     "earthtojavamobs": {
@@ -414,6 +420,12 @@
       "version": "1.0.2",
       "url": "https://lieonlion.github.io/LieOnLion/"
     },
+    "lolmlmv": {
+      "id": "lolmlmv",
+      "name": "More Loom Variants",
+      "version": "1.0.0",
+      "url": "https://pnku.de/"
+    },
     "lolmlv": {
       "id": "lolmlv",
       "name": "More Lectern Variants",
@@ -459,7 +471,7 @@
     "mining_dims": {
       "id": "mining_dims",
       "name": "Mining Dimensions",
-      "version": "1.7.9",
+      "version": "1.7.10",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
     },
     "miningutility": {
@@ -495,7 +507,7 @@
     "more_gems": {
       "id": "more_gems",
       "name": "More Gems",
-      "version": "1.7.12",
+      "version": "1.7.13",
       "url": ""
     },
     "mr_mine_treasure": {
@@ -507,7 +519,7 @@
     "mythicmetals": {
       "id": "mythicmetals",
       "name": "Mythic Metals",
-      "version": "0.20.0+1.21-alpha4",
+      "version": "0.20.0+1.21-alpha5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mythicmetals"
     },
     "nature_arise": {
@@ -753,7 +765,7 @@
     "usefulhats": {
       "id": "usefulhats",
       "name": "Useful Hats",
-      "version": "1.21-6.3.1.0",
+      "version": "1.21-6.4.0.0",
       "url": "https://github.com/cech12/UsefulHats"
     },
     "variantbarrels": {
@@ -5724,6 +5736,52 @@
           "value": "techreborn:zinc_storage_block",
           "sources": [
             "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buckets/honey",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "basic_fluid_hopper:honey_bucket",
+          "sources": [
+            "basic_fluid_hopper"
+          ]
+        },
+        {
+          "value": "the_bumblezone:honey_bucket",
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": {
+            "id": "create:honey_bucket",
+            "required": false
+          },
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": {
+            "id": "cyclic:honey_bucket",
+            "required": false
+          },
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": {
+            "id": "inspirations:honey_bucket",
+            "required": false
+          },
+          "sources": [
+            "the_bumblezone"
           ]
         }
       ]
@@ -34746,6 +34804,12 @@
           ]
         },
         {
+          "value": "more_gems:moissanite_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
           "value": "resourceful_tools:crack_hammer_diamond",
           "sources": [
             "resourceful_tools"
@@ -36912,6 +36976,205 @@
       ]
     },
     {
+      "id": "treasure_bag_skyblock",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:diamond",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:emerald",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:slime_ball",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:gunpowder",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:iron_ingot",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:gold_ingot",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:ender_pearl",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:quartz",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:echo_shard",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:breeze_rod",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:blaze_rod",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "minecraft:shulker_shell",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:citrine_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:tourmaline_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:kunzite_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:emerald_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:topaz_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:alexandrite_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:corundum_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:sapphire_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:spinel_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:carbonado_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:moissanite_juju",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:citrine",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:tourmaline",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:kunzite",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:topaz",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:alexandrite",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:corundum",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:sapphire",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:spinel",
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": "more_gems:carbonado",
+          "sources": [
+            "more_gems"
+          ]
+        }
+      ]
+    },
+    {
       "id": "grindstones",
       "replaced_by": [],
       "sources": [],
@@ -36939,6 +37202,22 @@
           },
           "sources": [
             "lolmlv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "looms",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:looms",
+            "required": false
+          },
+          "sources": [
+            "lolmlmv"
           ]
         }
       ]
@@ -42579,46 +42858,6 @@
       "replaced_by": [],
       "sources": [],
       "content": []
-    },
-    {
-      "id": "buckets/honey",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "the_bumblezone:honey_bucket",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": {
-            "id": "create:honey_bucket",
-            "required": false
-          },
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": {
-            "id": "cyclic:honey_bucket",
-            "required": false
-          },
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": {
-            "id": "inspirations:honey_bucket",
-            "required": false
-          },
-          "sources": [
-            "the_bumblezone"
-          ]
-        }
-      ]
     },
     {
       "id": "buckets/royal_jelly",
@@ -56527,6 +56766,22 @@
       ]
     },
     {
+      "id": "looms",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:looms",
+            "required": false
+          },
+          "sources": [
+            "lolmlmv"
+          ]
+        }
+      ]
+    },
+    {
       "id": "smithing_tables",
       "replaced_by": [],
       "sources": [],
@@ -58132,16 +58387,22 @@
   ],
   "fluid": [
     {
-      "id": "hidden_from_recipe_viewers",
-      "replaced_by": [],
-      "sources": [],
-      "content": []
-    },
-    {
       "id": "honey",
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "basic_fluid_hopper:honey",
+          "sources": [
+            "basic_fluid_hopper"
+          ]
+        },
+        {
+          "value": "basic_fluid_hopper:flowing_honey",
+          "sources": [
+            "basic_fluid_hopper"
+          ]
+        },
         {
           "value": "#the_bumblezone:honey",
           "sources": [
@@ -58173,6 +58434,61 @@
           ]
         }
       ]
+    },
+    {
+      "id": "visual/honey",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "basic_fluid_hopper:honey",
+          "sources": [
+            "basic_fluid_hopper"
+          ]
+        },
+        {
+          "value": "basic_fluid_hopper:flowing_honey",
+          "sources": [
+            "basic_fluid_hopper"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:honey",
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:royal_jelly",
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": {
+            "id": "productivebees:honey",
+            "required": false
+          },
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": {
+            "id": "productivebees:flowing_honey",
+            "required": false
+          },
+          "sources": [
+            "the_bumblezone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hidden_from_recipe_viewers",
+      "replaced_by": [],
+      "sources": [],
+      "content": []
     },
     {
       "id": "lava",
@@ -58208,43 +58524,6 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "visual/honey",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "#the_bumblezone:honey",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "#the_bumblezone:royal_jelly",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": {
-            "id": "productivebees:honey",
-            "required": false
-          },
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": {
-            "id": "productivebees:flowing_honey",
-            "required": false
-          },
-          "sources": [
-            "the_bumblezone"
           ]
         }
       ]

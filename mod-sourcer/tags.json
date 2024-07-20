@@ -219,7 +219,7 @@
     "dusks_biomes": {
       "id": "dusks_biomes",
       "name": "Dusk's Biomes",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "url": "https://github.com/Teamvoided/DusksBiomes"
     },
     "earthtojavamobs": {
@@ -297,7 +297,7 @@
     "fishofthieves": {
       "id": "fishofthieves",
       "name": "Fish of Thieves",
-      "version": "4.0.0",
+      "version": "4.0.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves"
     },
     "foodtxf": {
@@ -305,6 +305,12 @@
       "name": "Food TXF",
       "version": "1.21-1.6.5-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
+    },
+    "frostiful": {
+      "id": "frostiful",
+      "name": "Frostiful",
+      "version": "2.0.0-alpha.2",
+      "url": "https://github.com/TheDeathlyCow/frostiful/wiki"
     },
     "gardens_of_the_dead": {
       "id": "gardens_of_the_dead",
@@ -564,6 +570,12 @@
       "version": "1.8.3",
       "url": "https://www.curseforge.com/minecraft/mc-mods/oxidized"
     },
+    "packedup": {
+      "id": "packedup",
+      "name": "Packed Up",
+      "version": "1.0.30+c",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/packed-up-backpacks"
+    },
     "pdpcompat": {
       "id": "pdpcompat",
       "name": "Personal Disc Player Compatibility",
@@ -588,6 +600,12 @@
       "version": "2.2.1",
       "url": "https://github.com/ArshiaDPG/Pigsteel-Fabric"
     },
+    "pointblank": {
+      "id": "pointblank",
+      "name": "Point Blank",
+      "version": "1.6.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/geckolib"
+    },
     "polydecorations": {
       "id": "polydecorations",
       "name": "PolyDecorations",
@@ -609,8 +627,14 @@
     "r_roc_done_right": {
       "id": "r_roc_done_right",
       "name": "Rocks Done Right, by Recinber",
-      "version": "beta_1.3.4-1.21",
+      "version": "beta_1.4.1-1.21",
       "url": "https://modrinth.com/project/rocks-done-right"
+    },
+    "randomisfits": {
+      "id": "randomisfits",
+      "name": "Random Misfits TXF",
+      "version": "1.21-1.0.3-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/random-misfits-txf"
     },
     "reimaginingpotatoes": {
       "id": "reimaginingpotatoes",
@@ -723,7 +747,7 @@
     "the_bumblezone": {
       "id": "the_bumblezone",
       "name": "The Bumblezone - Fabric",
-      "version": "7.6.16+1.21-fabric",
+      "version": "7.6.17+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "tinycoal": {
@@ -1726,6 +1750,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "frostiful:ice_pane",
+          "sources": [
+            "frostiful"
           ]
         },
         {
@@ -13353,6 +13383,12 @@
           ]
         },
         {
+          "value": "#randomisfits:multitools",
+          "sources": [
+            "randomisfits"
+          ]
+        },
+        {
           "value": "#c:tools/crack_hammer",
           "sources": [
             "resource_cracker"
@@ -14468,6 +14504,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "frostiful:frost_wand",
+          "sources": [
+            "frostiful"
           ]
         },
         {
@@ -33106,6 +33148,12 @@
           ]
         },
         {
+          "value": "frostiful:frost_wand",
+          "sources": [
+            "frostiful"
+          ]
+        },
+        {
           "value": "#the_bumblezone:tools/spears",
           "sources": [
             "the_bumblezone"
@@ -33240,6 +33288,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "frostiful:frost_wand",
+          "sources": [
+            "frostiful"
           ]
         },
         {
@@ -33780,6 +33834,19 @@
           "value": "#foodtxf:skillets",
           "sources": [
             "foodtxf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icicles",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "frostiful:icicle",
+          "sources": [
+            "frostiful"
           ]
         }
       ]
@@ -38848,6 +38915,19 @@
       ]
     },
     {
+      "id": "gunpowder",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:gunpowder",
+          "sources": [
+            "pointblank"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bamboo_sheet",
       "replaced_by": [],
       "sources": [],
@@ -43671,6 +43751,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "frostiful:ice_pane",
+          "sources": [
+            "frostiful"
           ]
         },
         {
@@ -55382,6 +55468,19 @@
       ]
     },
     {
+      "id": "icicles",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "frostiful:icicle",
+          "sources": [
+            "frostiful"
+          ]
+        }
+      ]
+    },
+    {
       "id": "aluminum_ores",
       "replaced_by": [],
       "sources": [],
@@ -66925,6 +67024,12 @@
           "value": "minecraft:impaling",
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "frostiful:ice_breaker",
+          "sources": [
+            "frostiful"
           ]
         }
       ]

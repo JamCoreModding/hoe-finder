@@ -93,7 +93,7 @@
     "better_mcdonalds_mod": {
       "id": "better_mcdonalds_mod",
       "name": "Better McDonald's Mod",
-      "version": "4.1.0+1.21",
+      "version": "4.2.0+1.21",
       "url": "https://sites.google.com/view/moritz-htk/mods/better-mcdonalds-mod"
     },
     "betterend": {
@@ -111,7 +111,7 @@
     "biomesoplenty": {
       "id": "biomesoplenty",
       "name": "BiomesOPlenty",
-      "version": "21.0.0.11",
+      "version": "21.0.0.13",
       "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
     },
     "blockus": {
@@ -141,7 +141,7 @@
     "bronze": {
       "id": "bronze",
       "name": "Bronze",
-      "version": "1.0.7+1.21",
+      "version": "1.0.8+1.21",
       "url": "https://bronze.khazoda.com"
     },
     "ceramicshears": {
@@ -243,7 +243,7 @@
     "dramaticdoors": {
       "id": "dramaticdoors",
       "name": "Dramatic Doors (NeoQuiFab)",
-      "version": "1.21-3.2.2",
+      "version": "1.21-3.2.4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/dramatic-doors"
     },
     "duckling": {
@@ -543,7 +543,7 @@
     "missingwilds": {
       "id": "missingwilds",
       "name": "MissingWilds",
-      "version": "1.3.1+1.21",
+      "version": "1.3.3+1.21",
       "url": "https://ultrusmods.me/mod/missing-wilds/"
     },
     "mo_glass": {
@@ -576,10 +576,16 @@
       "version": "1.7.14",
       "url": ""
     },
+    "morevanillashields": {
+      "id": "morevanillashields",
+      "name": "More Vanilla Shields",
+      "version": "1.0.1-1.21",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/more-vanilla-shields"
+    },
     "mr_mine_treasure": {
       "id": "mr_mine_treasure",
       "name": "Mine Treasure",
-      "version": "1.4.3",
+      "version": "1.4.5",
       "url": "https://modrinth.com/datapack/mine-treasure"
     },
     "mythicmetals": {
@@ -597,7 +603,7 @@
     "natures_spirit": {
       "id": "natures_spirit",
       "name": "Nature's Spirit",
-      "version": "1.5.5-1.21",
+      "version": "1.6.0-1.21",
       "url": null
     },
     "nears": {
@@ -621,7 +627,7 @@
     "oritech": {
       "id": "oritech",
       "name": "Oritech",
-      "version": "0.7.2",
+      "version": "0.8.0",
       "url": null
     },
     "oxidized": {
@@ -695,6 +701,12 @@
       "name": "Random Misfits TXF",
       "version": "1.21-1.0.5-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/random-misfits-txf"
+    },
+    "reforested": {
+      "id": "reforested",
+      "name": "Reforested",
+      "version": "0.1.25",
+      "url": "https://fabricmc.net/"
     },
     "regions_unexplored": {
       "id": "regions_unexplored",
@@ -849,7 +861,7 @@
     "toms_storage": {
       "id": "toms_storage",
       "name": "Tom's Simple Storage Mod",
-      "version": "2.0.8",
+      "version": "2.0.9",
       "url": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric"
     },
     "toneko": {
@@ -863,6 +875,12 @@
       "name": "Traverse: Common",
       "version": "8.0.0",
       "url": null
+    },
+    "untitledduckmod": {
+      "id": "untitledduckmod",
+      "name": "Untitled Duck Mod",
+      "version": "0.7.0",
+      "url": "https://github.com/Okabintaro/UntitledDuckMod"
     },
     "usefulfood": {
       "id": "usefulfood",
@@ -1273,18 +1291,6 @@
           ]
         },
         {
-          "value": "better_mcdonalds_mod:cooked_beef_patty",
-          "sources": [
-            "better_mcdonalds_mod"
-          ]
-        },
-        {
-          "value": "better_mcdonalds_mod:cooked_bacon",
-          "sources": [
-            "better_mcdonalds_mod"
-          ]
-        },
-        {
           "value": "minecraft:cooked_beef",
           "sources": [
             "fabric-convention-tags-v2",
@@ -1360,18 +1366,6 @@
           "value": "anthropophagy:tethered_heart",
           "sources": [
             "anthropophagy"
-          ]
-        },
-        {
-          "value": "better_mcdonalds_mod:beef_patty",
-          "sources": [
-            "better_mcdonalds_mod"
-          ]
-        },
-        {
-          "value": "better_mcdonalds_mod:raw_bacon",
-          "sources": [
-            "better_mcdonalds_mod"
           ]
         },
         {
@@ -2578,6 +2572,18 @@
           "value": "duckling:duck_egg",
           "sources": [
             "duckling"
+          ]
+        },
+        {
+          "value": "untitledduckmod:duck_egg",
+          "sources": [
+            "untitledduckmod"
+          ]
+        },
+        {
+          "value": "untitledduckmod:goose_egg",
+          "sources": [
+            "untitledduckmod"
           ]
         }
       ]
@@ -10099,21 +10105,17 @@
           ]
         },
         {
-          "value": {
-            "id": "#c:seeds/tomato",
-            "required": false
-          },
+          "value": "#c:seeds/tomato",
           "sources": [
-            "better_mcdonalds_mod"
+            "better_mcdonalds_mod",
+            "croptopia"
           ]
         },
         {
-          "value": {
-            "id": "#c:seeds/lettuce",
-            "required": false
-          },
+          "value": "#c:seeds/lettuce",
           "sources": [
-            "better_mcdonalds_mod"
+            "better_mcdonalds_mod",
+            "croptopia"
           ]
         },
         {
@@ -10303,12 +10305,6 @@
           ]
         },
         {
-          "value": "#c:seeds/lettuce",
-          "sources": [
-            "croptopia"
-          ]
-        },
-        {
           "value": "#c:seeds/mustard",
           "sources": [
             "croptopia"
@@ -10424,12 +10420,6 @@
         },
         {
           "value": "#c:seeds/tomatillo",
-          "sources": [
-            "croptopia"
-          ]
-        },
-        {
-          "value": "#c:seeds/tomato",
           "sources": [
             "croptopia"
           ]
@@ -10576,19 +10566,13 @@
       "sources": [],
       "content": [
         {
-          "value": {
-            "id": "#c:crops/tomato",
-            "required": false
-          },
+          "value": "#c:crops/tomato",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:crops/lettuce",
-            "required": false
-          },
+          "value": "#c:crops/lettuce",
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -11158,10 +11142,7 @@
       "sources": [],
       "content": [
         {
-          "value": {
-            "id": "#c:dusts/salt",
-            "required": false
-          },
+          "value": "#c:dusts/salt",
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -11610,7 +11591,26 @@
       "sources": [],
       "content": [
         {
-          "value": "better_mcdonalds_mod:cheese",
+          "value": "#c:foods/cheese",
+          "sources": [
+            "better_mcdonalds_mod",
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#c:foods/sauce",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        },
+        {
+          "value": "#c:foods/burger",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        },
+        {
+          "value": "#c:foods/drink",
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -11629,24 +11629,6 @@
         },
         {
           "value": "better_mcdonalds_mod:mcflurry",
-          "sources": [
-            "better_mcdonalds_mod"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/sauces",
-            "required": false
-          },
-          "sources": [
-            "better_mcdonalds_mod"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/burgers",
-            "required": false
-          },
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -12042,12 +12024,6 @@
           ]
         },
         {
-          "value": "#c:foods/cheese",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
           "value": "#c:foods/dough",
           "sources": [
             "foodtxf"
@@ -12226,46 +12202,46 @@
           "sources": [
             "the_bumblezone"
           ]
+        },
+        {
+          "value": "untitledduckmod:raw_duck",
+          "sources": [
+            "untitledduckmod"
+          ]
+        },
+        {
+          "value": "untitledduckmod:raw_goose",
+          "sources": [
+            "untitledduckmod"
+          ]
         }
       ]
     },
     {
-      "id": "foods/burgers",
+      "id": "foods/burger",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": {
-            "id": "#c:foods/burgers/hamburger",
-            "required": false
-          },
+          "value": "#c:foods/burgers/hamburger",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/burgers/cheeseburger",
-            "required": false
-          },
+          "value": "#c:foods/burgers/cheeseburger",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/burgers/chickenburger",
-            "required": false
-          },
+          "value": "#c:foods/burgers/chickenburger",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/burgers/fishburger",
-            "required": false
-          },
+          "value": "#c:foods/burgers/fishburger",
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -12343,42 +12319,170 @@
       ]
     },
     {
-      "id": "foods/drinks",
+      "id": "foods/cheese",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": {
-            "id": "#c:foods/drinks/cola",
-            "required": false
-          },
+          "value": "better_mcdonalds_mod:cheese",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/drinks/orange_juice",
-            "required": false
-          },
+          "value": "foodtxf:cheese",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "foodtxf:cheese_slice",
+          "sources": [
+            "foodtxf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_meat",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:foods/cooked_meat/cooked_beef",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/drinks/lemon_juice",
-            "required": false
-          },
+          "value": "#c:foods/cooked_meat/cooked_bacon",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
+          "value": "minecraft:cooked_beef",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_porkchop",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_chicken",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_rabbit",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:cooked_mutton",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
           "value": {
-            "id": "#c:foods/drinks/ice_tea",
+            "id": "#c:foods/cooked_meats",
             "required": false
           },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "foodtxf:cooked_player_flesh",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "more_food:cooked_phantom",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "more_food:cooked_bacon",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_rabbit",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_chicken",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_mutton",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_porkchop",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/cooked_meats/cooked_beef",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "untitledduckmod:cooked_duck",
+          "sources": [
+            "untitledduckmod"
+          ]
+        },
+        {
+          "value": "untitledduckmod:cooked_goose",
+          "sources": [
+            "untitledduckmod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_meat/cooked_bacon",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "better_mcdonalds_mod:cooked_bacon",
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -12386,7 +12490,51 @@
       ]
     },
     {
-      "id": "foods/drinks/cola",
+      "id": "foods/cooked_meat/cooked_beef",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "better_mcdonalds_mod:cooked_beef_patty",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/drink",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:foods/drinks/coke",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        },
+        {
+          "value": "#c:foods/drinks/orange_juice",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        },
+        {
+          "value": "#c:foods/drinks/lemon_juice",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        },
+        {
+          "value": "#c:foods/drinks/ice_tea",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/drinks/coke",
       "replaced_by": [],
       "sources": [],
       "content": [
@@ -12438,42 +12586,732 @@
       ]
     },
     {
-      "id": "foods/sauces",
+      "id": "foods/raw_meat",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": {
-            "id": "#c:foods/sauces/mayonnaise",
-            "required": false
-          },
+          "value": "#c:foods/raw_meat/raw_beef",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/sauces/sweet_sour_sauce",
-            "required": false
-          },
+          "value": "#c:foods/raw_meat/raw_bacon",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
+          "value": "minecraft:beef",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:porkchop",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:chicken",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:rabbit",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:mutton",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
           "value": {
-            "id": "#c:foods/sauces/ketchup",
+            "id": "#c:foods/raw_meats",
             "required": false
           },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "foodtxf:player_flesh",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsdelight:bison_mince",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsdelight:kangaroo_shank",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsdelight:loose_moose_rib",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsdelight:raw_bison",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsdelight:raw_bunfungus",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsdelight:raw_bunfungus_drumstick",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsmobs:lobster_tail",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "alexsmobs:moose_ribs",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "aquaculture:frog_legs_raw",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "biomemakeover:raw_toad",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "blue_skies:carabeef",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "blue_skies:venison",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "blue_skies:monitor_tail",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "chococraft:chocobo_drumstick_raw",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "crustaceans:crab",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "crustaceans:lobster",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "delightful:raw_goat",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "delightful:venison_chops",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_axolotl",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_bat",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_bear",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_bee",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_cat",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_dolphin",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_fox",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_goat",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_horse",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_llama",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_parrot",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_squid",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_turtle",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_villager",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_wolf",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_strider",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:raw_iron_golem",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "dropthemeat:piglin_porkchop",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "environmental:duck",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "environmental:venison",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "exoticbirds:raw_birdmeat",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmersdelight:bacon",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmersdelight:chicken_cuts",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmersdelight:ham",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmersdelight:minced_beef",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmersdelight:mutton_chops",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmlife:tribull_shank",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "farmlife:galliraptor",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "goodall:raw_venison",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "infernalexp:raw_hogchop",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "naturalist:venison",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "nethersdelight:hoglin_loin",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "nethersdelight:strider_slice",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "nethersdelight:ground_strider",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "piglin_bag:ilin",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "quark:crab_leg",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "quark:frog_leg",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "simplefarming:raw_bacon",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "simplefarming:raw_chicken_wing",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "simplefarming:raw_horse_meat",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "simplefarming:raw_sausage",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "twilightdelight:raw_meef_slice",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "twilightforest:raw_venison",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "twilightforest:raw_meef",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "tconstruct:bacon",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "xercamod:item_raw_patty",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "xercamod:item_raw_chicken_patty",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "xercamod:item_raw_sausage",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "more_food:raw_bacon",
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": "untitledduckmod:raw_duck",
+          "sources": [
+            "untitledduckmod"
+          ]
+        },
+        {
+          "value": "untitledduckmod:raw_goose",
+          "sources": [
+            "untitledduckmod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/raw_meat/raw_bacon",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "better_mcdonalds_mod:raw_bacon",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/raw_meat/raw_beef",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "better_mcdonalds_mod:beef_patty",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/sauce",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:foods/sauces/mayonnaise",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/sauces/mustard",
-            "required": false
-          },
+          "value": "#c:foods/sauces/sweet_sour_sauce",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        },
+        {
+          "value": "#c:foods/sauces/ketchup",
+          "sources": [
+            "better_mcdonalds_mod"
+          ]
+        },
+        {
+          "value": "#c:foods/sauces/mustard",
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -12533,24 +13371,18 @@
       ]
     },
     {
-      "id": "foods/vegetables",
+      "id": "foods/vegetable",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": {
-            "id": "#c:foods/vegetables/tomato",
-            "required": false
-          },
+          "value": "#c:foods/vegetables/tomato",
           "sources": [
             "better_mcdonalds_mod"
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/vegetables/lettuce",
-            "required": false
-          },
+          "value": "#c:foods/vegetables/lettuce",
           "sources": [
             "better_mcdonalds_mod"
           ]
@@ -12558,8 +13390,7 @@
         {
           "value": "minecraft:carrot",
           "sources": [
-            "fabric-convention-tags-v2",
-            "veggie_way"
+            "fabric-convention-tags-v2"
           ]
         },
         {
@@ -12587,15 +13418,66 @@
           ]
         },
         {
-          "value": "minecraft:dried_kelp",
+          "value": {
+            "id": "#c:foods/vegetables",
+            "required": false
+          },
           "sources": [
-            "veggie_way"
+            "fabric-convention-tags-v2"
           ]
         },
         {
-          "value": "veggie_way:pumpkin_chunk",
+          "value": {
+            "id": "#c:vegetables/cabbage",
+            "required": false
+          },
           "sources": [
-            "veggie_way"
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:vegetables/tomato",
+            "required": false
+          },
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/carrot",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/kelp",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/potato",
+            "required": false
+          },
+          "sources": [
+            "more_food"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:foods/vegetables/melon_slice",
+            "required": false
+          },
+          "sources": [
+            "more_food"
           ]
         }
       ]
@@ -27853,6 +28735,12 @@
           ]
         },
         {
+          "value": "untitledduckmod:duck_feather",
+          "sources": [
+            "untitledduckmod"
+          ]
+        },
+        {
           "value": "minecraft:feather",
           "sources": [
             "usefulhats"
@@ -33612,115 +34500,6 @@
       ]
     },
     {
-      "id": "foods/cooked_meat",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:cooked_beef",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:cooked_porkchop",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:cooked_chicken",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:cooked_rabbit",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:cooked_mutton",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/cooked_meats",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "foodtxf:cooked_player_flesh",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "more_food:cooked_phantom",
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": "more_food:cooked_bacon",
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/cooked_meats/cooked_rabbit",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/cooked_meats/cooked_chicken",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/cooked_meats/cooked_mutton",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/cooked_meats/cooked_porkchop",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/cooked_meats/cooked_beef",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        }
-      ]
-    },
-    {
       "id": "foods/cookie",
       "replaced_by": [],
       "sources": [],
@@ -34251,658 +35030,6 @@
       ]
     },
     {
-      "id": "foods/raw_meat",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:beef",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:porkchop",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:chicken",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:rabbit",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:mutton",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/raw_meats",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "foodtxf:player_flesh",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsdelight:bison_mince",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsdelight:kangaroo_shank",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsdelight:loose_moose_rib",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsdelight:raw_bison",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsdelight:raw_bunfungus",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsdelight:raw_bunfungus_drumstick",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsmobs:lobster_tail",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "alexsmobs:moose_ribs",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "aquaculture:frog_legs_raw",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "biomemakeover:raw_toad",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "blue_skies:carabeef",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "blue_skies:venison",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "blue_skies:monitor_tail",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "chococraft:chocobo_drumstick_raw",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "crustaceans:crab",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "crustaceans:lobster",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "delightful:raw_goat",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "delightful:venison_chops",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_axolotl",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_bat",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_bear",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_bee",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_cat",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_dolphin",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_fox",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_goat",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_horse",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_llama",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_parrot",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_squid",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_turtle",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_villager",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_wolf",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_strider",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:raw_iron_golem",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "dropthemeat:piglin_porkchop",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "environmental:duck",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "environmental:venison",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "exoticbirds:raw_birdmeat",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "farmersdelight:bacon",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "farmersdelight:chicken_cuts",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "farmersdelight:ham",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "farmersdelight:minced_beef",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "farmersdelight:mutton_chops",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "farmlife:tribull_shank",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "farmlife:galliraptor",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "goodall:raw_venison",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "infernalexp:raw_hogchop",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "naturalist:venison",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "nethersdelight:hoglin_loin",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "nethersdelight:strider_slice",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "nethersdelight:ground_strider",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "piglin_bag:ilin",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "quark:crab_leg",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "quark:frog_leg",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "simplefarming:raw_bacon",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "simplefarming:raw_chicken_wing",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "simplefarming:raw_horse_meat",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "simplefarming:raw_sausage",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "twilightdelight:raw_meef_slice",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "twilightforest:raw_venison",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "twilightforest:raw_meef",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "tconstruct:bacon",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "xercamod:item_raw_patty",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "xercamod:item_raw_chicken_patty",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "xercamod:item_raw_sausage",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "more_food:raw_bacon",
-          "sources": [
-            "more_food"
-          ]
-        }
-      ]
-    },
-    {
       "id": "foods/soup",
       "replaced_by": [],
       "sources": [],
@@ -35022,14 +35149,15 @@
       ]
     },
     {
-      "id": "foods/vegetable",
+      "id": "foods/vegetables",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
           "value": "minecraft:carrot",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "veggie_way"
           ]
         },
         {
@@ -35057,66 +35185,15 @@
           ]
         },
         {
-          "value": {
-            "id": "#c:foods/vegetables",
-            "required": false
-          },
+          "value": "minecraft:dried_kelp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "veggie_way"
           ]
         },
         {
-          "value": {
-            "id": "#c:vegetables/cabbage",
-            "required": false
-          },
+          "value": "veggie_way:pumpkin_chunk",
           "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:vegetables/tomato",
-            "required": false
-          },
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/vegetables/carrot",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/vegetables/kelp",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/vegetables/potato",
-            "required": false
-          },
-          "sources": [
-            "more_food"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:foods/vegetables/melon_slice",
-            "required": false
-          },
-          "sources": [
-            "more_food"
+            "veggie_way"
           ]
         }
       ]
@@ -37123,25 +37200,6 @@
       "content": [
         {
           "value": "foodtxf:dough_ball",
-          "sources": [
-            "foodtxf"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "foods/cheese",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "foodtxf:cheese",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "foodtxf:cheese_slice",
           "sources": [
             "foodtxf"
           ]
@@ -40948,6 +41006,73 @@
       ]
     },
     {
+      "id": "shields",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "morevanillashields:leather_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:gold_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:diamond_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:netherite_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:emerald_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:amethyst_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:redstone_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:obsidian_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:coal_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        },
+        {
+          "value": "morevanillashields:end_crystal_shield",
+          "sources": [
+            "morevanillashields"
+          ]
+        }
+      ]
+    },
+    {
       "id": "foods/cooked_meats/cooked_beef",
       "replaced_by": [],
       "sources": [],
@@ -42564,6 +42689,33 @@
           "value": "minecraft:gunpowder",
           "sources": [
             "pointblank"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gears/copper",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "reforested:copper_gear",
+          "sources": [
+            "reforested"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honeycombs",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:honeycomb",
+          "sources": [
+            "reforested",
+            "the_bumblezone"
           ]
         }
       ]
@@ -49288,19 +49440,6 @@
       ]
     },
     {
-      "id": "honeycombs",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:honeycomb",
-          "sources": [
-            "the_bumblezone"
-          ]
-        }
-      ]
-    },
-    {
       "id": "pollens",
       "replaced_by": [],
       "sources": [],
@@ -49447,6 +49586,44 @@
           "value": "#minecraft:wool",
           "sources": [
             "toneko"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/cooked_duck",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "untitledduckmod:cooked_duck",
+          "sources": [
+            "untitledduckmod"
+          ]
+        },
+        {
+          "value": "untitledduckmod:cooked_goose",
+          "sources": [
+            "untitledduckmod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foods/raw_duck",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "untitledduckmod:raw_duck",
+          "sources": [
+            "untitledduckmod"
+          ]
+        },
+        {
+          "value": "untitledduckmod:raw_goose",
+          "sources": [
+            "untitledduckmod"
           ]
         }
       ]

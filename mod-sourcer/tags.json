@@ -45,8 +45,14 @@
     "armourers_workshop": {
       "id": "armourers_workshop",
       "name": "Armourer's Workshop",
-      "version": "3.0.0-beta.11",
+      "version": "3.0.0-beta.12",
       "url": "https://github.com/Armourers-Workshop/Armourers-Workshop"
+    },
+    "artifacts": {
+      "id": "artifacts",
+      "name": "Artifacts",
+      "version": "12.0.3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts"
     },
     "axesareweapons": {
       "id": "axesareweapons",
@@ -81,7 +87,7 @@
     "bclib": {
       "id": "bclib",
       "name": "BCLib",
-      "version": "21.0.9",
+      "version": "21.0.10",
       "url": "https://modrinth.com/mod/bclib"
     },
     "beo": {
@@ -99,13 +105,13 @@
     "betterend": {
       "id": "betterend",
       "name": "Better End",
-      "version": "21.0.5",
+      "version": "21.0.6",
       "url": "https://modrinth.com/mod/betterend"
     },
     "betternether": {
       "id": "betternether",
       "name": "Better Nether",
-      "version": "21.0.8",
+      "version": "21.0.9",
       "url": "https://www.curseforge.com/minecraft/mc-mods/betternether"
     },
     "biomesoplenty": {
@@ -141,7 +147,7 @@
     "bronze": {
       "id": "bronze",
       "name": "Bronze",
-      "version": "1.0.8+1.21",
+      "version": "1.0.9+1.21",
       "url": "https://bronze.khazoda.com"
     },
     "ceramicshears": {
@@ -231,7 +237,7 @@
     "doggytalents": {
       "id": "doggytalents",
       "name": "Doggy Talents Next",
-      "version": "1.18.25",
+      "version": "1.18.27",
       "url": "https://legacy.curseforge.com/minecraft/mc-mods/doggy-talents-next"
     },
     "dragonloot": {
@@ -531,7 +537,7 @@
     "mining_dims": {
       "id": "mining_dims",
       "name": "Mining Dimensions",
-      "version": "1.7.12",
+      "version": "1.8.0",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
     },
     "miningutility": {
@@ -611,6 +617,12 @@
       "name": "Nears",
       "version": "2.0.6",
       "url": null
+    },
+    "new_shield_variants": {
+      "id": "new_shield_variants",
+      "name": "New Shield Variants",
+      "version": "1.3.0",
+      "url": "https://fabricmc.net/"
     },
     "nox": {
       "id": "nox",
@@ -698,9 +710,9 @@
     },
     "randomisfits": {
       "id": "randomisfits",
-      "name": "Random Misfits TXF",
-      "version": "1.21-1.0.5-fabric",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/random-misfits-txf"
+      "name": "Random Misfits",
+      "version": "1.21-1.0.6-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/random-misfits"
     },
     "reforested": {
       "id": "reforested",
@@ -711,7 +723,7 @@
     "regions_unexplored": {
       "id": "regions_unexplored",
       "name": "Regions Unexplored",
-      "version": "0.5.6",
+      "version": "0.5.6.1",
       "url": "https://fabricmc.net/"
     },
     "reimaginingpotatoes": {
@@ -843,7 +855,7 @@
     "the_bumblezone": {
       "id": "the_bumblezone",
       "name": "The Bumblezone - Fabric",
-      "version": "7.6.18+1.21-fabric",
+      "version": "7.6.21+1.21-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone"
     },
     "tinycoal": {
@@ -945,7 +957,7 @@
     "wilderwild": {
       "id": "wilderwild",
       "name": "Wilder Wild",
-      "version": "2.4.6-mc1.21",
+      "version": "2.4.8-mc1.21",
       "url": "https://modrinth.com/mod/wilder-wild"
     },
     "woodenshears": {
@@ -957,7 +969,7 @@
     "wover-tag": {
       "id": "wover-tag",
       "name": "WorldWeaver - Tag API",
-      "version": "21.0.10",
+      "version": "21.0.11",
       "url": "https://github.com/quiqueck/WorldWeaver"
     },
     "xtraarrows": {
@@ -37058,6 +37070,78 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "new_shield_variants:blaze_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:diamond_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:dragon_head_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:ender_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:fire_charge_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:gold_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:iron_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:netherite_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:redstone_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:shulker_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:stone_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
+        },
+        {
+          "value": "new_shield_variants:tnt_shield",
+          "sources": [
+            "new_shield_variants"
+          ]
         }
       ]
     },
@@ -42689,6 +42773,19 @@
           "value": "minecraft:gunpowder",
           "sources": [
             "pointblank"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/multitool",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#randomisfits:multitools",
+          "sources": [
+            "randomisfits"
           ]
         }
       ]
@@ -70108,6 +70205,25 @@
       ]
     },
     {
+      "id": "capturing_not_supported",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "artifacts:mimic",
+          "sources": [
+            "artifacts"
+          ]
+        },
+        {
+          "value": "doggytalents:dog",
+          "sources": [
+            "doggytalents"
+          ]
+        }
+      ]
+    },
+    {
       "id": "boats",
       "replaced_by": [],
       "sources": [],
@@ -70484,19 +70600,6 @@
           "value": "minecraft:spawner_minecart",
           "sources": [
             "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "capturing_not_supported",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "doggytalents:dog",
-          "sources": [
-            "doggytalents"
           ]
         }
       ]

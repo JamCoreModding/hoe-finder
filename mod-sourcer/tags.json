@@ -234,6 +234,12 @@
       "version": "1.7.0",
       "url": "https://www.curseforge.com/minecraft/mc-mods/desolation"
     },
+    "dimensionalores": {
+      "id": "dimensionalores",
+      "name": "Dimensional Ores",
+      "version": "1.0.0",
+      "url": "https://modrinth.com/mod/dimensional-ores"
+    },
     "doggytalents": {
       "id": "doggytalents",
       "name": "Doggy Talents Next",
@@ -275,6 +281,12 @@
       "name": "Economical Villager Trading",
       "version": "1.3.0",
       "url": "https://modrinth.com/mod/economical-villager-trading"
+    },
+    "effectiveweapons": {
+      "id": "effectiveweapons",
+      "name": "Effective Weapons",
+      "version": "1.0",
+      "url": null
     },
     "emerald_tools": {
       "id": "emerald_tools",
@@ -564,6 +576,12 @@
       "version": "1.5.5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric"
     },
+    "mobs_of_mythology": {
+      "id": "mobs_of_mythology",
+      "name": "Mobs of Mythology",
+      "version": "2.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mobs-of-mythology"
+    },
     "modern_beta": {
       "id": "modern_beta",
       "name": "Moderner Beta Fabric",
@@ -696,6 +714,12 @@
       "version": "0.4.0-pre.5+1.21",
       "url": "https://pb4.eu"
     },
+    "quad-lolmsmv": {
+      "id": "quad-lolmsmv",
+      "name": "More Smoker Variants",
+      "version": "1.1.0",
+      "url": "https://pnku.de/"
+    },
     "quickiemod": {
       "id": "quickiemod",
       "name": "QuickieMod",
@@ -711,7 +735,7 @@
     "randomisfits": {
       "id": "randomisfits",
       "name": "Random Misfits",
-      "version": "1.21-1.0.6-fabric",
+      "version": "1.21-1.1.0-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/random-misfits"
     },
     "reforested": {
@@ -879,7 +903,7 @@
     "toneko": {
       "id": "toneko",
       "name": "toNeko",
-      "version": "1.1.3",
+      "version": "1.1.5",
       "url": "https://github.com/CSNeko/toNeko"
     },
     "traverse-common": {
@@ -7047,6 +7071,12 @@
           ]
         },
         {
+          "value": "mobs_of_mythology:bronze_ingot",
+          "sources": [
+            "mobs_of_mythology"
+          ]
+        },
+        {
           "value": "magistuarmory:bronze_ingot",
           "sources": [
             "magistuarmory"
@@ -7593,6 +7623,42 @@
           "value": "bronze:bronze_axe",
           "sources": [
             "bronze"
+          ]
+        },
+        {
+          "value": "effectiveweapons:pact_axe",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:spiraling_sword",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:blessed_lance",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:rogue_dagger",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:iron_lance",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:iron_dagger",
+          "sources": [
+            "effectiveweapons"
           ]
         },
         {
@@ -15156,6 +15222,12 @@
           ]
         },
         {
+          "value": "effectiveweapons:lapis_circlet",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
           "value": "endreborn:ender_boots",
           "sources": [
             "endorium"
@@ -17065,6 +17137,42 @@
           },
           "sources": [
             "combat-plus-core"
+          ]
+        },
+        {
+          "value": "effectiveweapons:pact_axe",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:spiraling_sword",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:blessed_lance",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:rogue_dagger",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:iron_lance",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:iron_dagger",
+          "sources": [
+            "effectiveweapons"
           ]
         },
         {
@@ -29209,88 +29317,605 @@
       ]
     },
     {
-      "id": "obsidian",
+      "id": "tools",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
-          "value": "minecraft:obsidian",
+          "value": "effectiveweapons:pact_axe",
           "sources": [
-            "emerald_tools"
+            "effectiveweapons"
           ]
         },
         {
-          "value": "minecraft:crying_obsidian",
+          "value": "effectiveweapons:spiraling_sword",
           "sources": [
-            "emerald_tools"
+            "effectiveweapons"
           ]
         },
         {
-          "value": "regions_unexplored:cobalt_obsidian",
+          "value": "effectiveweapons:blessed_lance",
           "sources": [
-            "regions_unexplored"
+            "effectiveweapons"
           ]
-        }
-      ]
-    },
-    {
-      "id": "rubies",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
+        },
+        {
+          "value": "effectiveweapons:rogue_dagger",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:dekaja_tome",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:double_bow",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:iron_lance",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:iron_dagger",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "enriched:steel_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:steel_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:obsidian_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:copper_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:ruby_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:sapphire_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:tanzanite_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_axe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_hoe",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_shovel",
+          "sources": [
+            "enriched"
+          ]
+        },
+        {
+          "value": "enriched:emerald_pickaxe",
+          "sources": [
+            "enriched"
+          ]
+        },
         {
           "value": {
-            "id": "emerald_tools:ruby",
+            "id": "#minecraft:axes",
             "required": false
           },
           "sources": [
-            "emerald_tools"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": {
-            "id": "simple_gems:ruby",
+            "id": "#minecraft:hoes",
             "required": false
           },
           "sources": [
-            "simple-gems"
-          ]
-        },
-        {
-          "value": "simple_gems:ruby",
-          "sources": [
-            "simple_gems"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "steel_ingots",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": {
-            "id": "emerald_tools:steel_ingot",
-            "required": false
-          },
-          "sources": [
-            "emerald_tools"
+            "fabric-convention-tags-v2"
           ]
         },
         {
           "value": {
-            "id": "#mcore:steal_ingots",
+            "id": "#minecraft:pickaxes",
             "required": false
           },
           "sources": [
-            "mcore"
+            "fabric-convention-tags-v2"
           ]
         },
         {
-          "value": "magistuarmory:steel_ingot",
+          "value": {
+            "id": "#minecraft:shovels",
+            "required": false
+          },
           "sources": [
-            "magistuarmory"
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#minecraft:swords",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/bow",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/brush",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/crossbow",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/fishing_rod",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/igniter",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/shear",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/shield",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/spear",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/mining_tool",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/melee_weapon",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/ranged_weapon",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "#foodtxf:blenders",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:cutting_boards",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:juicers",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:knives",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:mixing_bowls",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:rolling_pins",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#foodtxf:skillets",
+          "sources": [
+            "foodtxf"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/adamantite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/aquarium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/bronze",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/carmot",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/celestium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/copper",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/durasteel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/hallowed",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/kyber",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/legendary_banglum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/metallurgium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/mythril",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/orichalcum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/osmium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/palladium",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/prometheum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/quadrillum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/runite",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/star_platinum",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/steel",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/stormyx",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "#mythicmetals:tools/tidesinger",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "mythicmetals:carmot_staff",
+          "sources": [
+            "mythicmetals"
+          ]
+        },
+        {
+          "value": "polydecorations:trowel",
+          "sources": [
+            "polydecorations"
+          ]
+        },
+        {
+          "value": "polydecorations:hammer",
+          "sources": [
+            "polydecorations"
+          ]
+        },
+        {
+          "value": "#randomisfits:multitools",
+          "sources": [
+            "randomisfits"
+          ]
+        },
+        {
+          "value": "#c:tools/crack_hammer",
+          "sources": [
+            "resource_cracker"
+          ]
+        },
+        {
+          "value": "#c:tools/chisel",
+          "sources": [
+            "resource_cracker"
+          ]
+        },
+        {
+          "value": "#c:tools/scythe",
+          "sources": [
+            "resource_cracker"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/clubs",
+            "required": false
+          },
+          "sources": [
+            "simpleclubs"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:tools/cannons",
+          "sources": [
+            "the_bumblezone"
           ]
         }
       ]
@@ -29300,6 +29925,12 @@
       "replaced_by": [],
       "sources": [],
       "content": [
+        {
+          "value": "effectiveweapons:double_bow",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
         {
           "value": "emerald_tools:emerald_bow",
           "sources": [
@@ -29400,6 +30031,303 @@
           "value": "gobber2:gobber2_bow_end",
           "sources": [
             "gobber2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/bows",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "effectiveweapons:double_bow",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "minecraft:bow",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:citrine_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:tourmaline_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:kunzite_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:topaz_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:alexandrite_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:corundum_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:sapphire_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:spinel_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:carbonado_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        },
+        {
+          "value": {
+            "id": "more_gems:moissanite_bow",
+            "required": false
+          },
+          "sources": [
+            "more_gems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/ranged_weapon",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "effectiveweapons:dekaja_tome",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:double_bow",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "minecraft:bow",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:crossbow",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:trident",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:tools/ranged_weapons",
+            "required": false
+          },
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "frostiful:frost_wand",
+          "sources": [
+            "frostiful"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:tools/spears",
+          "sources": [
+            "the_bumblezone"
+          ]
+        },
+        {
+          "value": "#the_bumblezone:tools/cannons",
+          "sources": [
+            "the_bumblezone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools/ranged_weapons",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "effectiveweapons:dekaja_tome",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "effectiveweapons:double_bow",
+          "sources": [
+            "effectiveweapons"
+          ]
+        },
+        {
+          "value": "minecraft:bow",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:crossbow",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:trident",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obsidian",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:obsidian",
+          "sources": [
+            "emerald_tools"
+          ]
+        },
+        {
+          "value": "minecraft:crying_obsidian",
+          "sources": [
+            "emerald_tools"
+          ]
+        },
+        {
+          "value": "regions_unexplored:cobalt_obsidian",
+          "sources": [
+            "regions_unexplored"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rubies",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "emerald_tools:ruby",
+            "required": false
+          },
+          "sources": [
+            "emerald_tools"
+          ]
+        },
+        {
+          "value": {
+            "id": "simple_gems:ruby",
+            "required": false
+          },
+          "sources": [
+            "simple-gems"
+          ]
+        },
+        {
+          "value": "simple_gems:ruby",
+          "sources": [
+            "simple_gems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "steel_ingots",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "emerald_tools:steel_ingot",
+            "required": false
+          },
+          "sources": [
+            "emerald_tools"
+          ]
+        },
+        {
+          "value": {
+            "id": "#mcore:steal_ingots",
+            "required": false
+          },
+          "sources": [
+            "mcore"
+          ]
+        },
+        {
+          "value": "magistuarmory:steel_ingot",
+          "sources": [
+            "magistuarmory"
           ]
         }
       ]
@@ -30782,562 +31710,6 @@
           "value": "enriched:obsidian_alloy_ingot",
           "sources": [
             "enriched"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "enriched:steel_axe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:steel_hoe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:steel_shovel",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:steel_pickaxe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_axe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_hoe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_shovel",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:obsidian_pickaxe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:copper_axe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:copper_hoe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:copper_shovel",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:copper_pickaxe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_axe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_hoe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_shovel",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:ruby_pickaxe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_axe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_hoe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_shovel",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:sapphire_pickaxe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_axe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_hoe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_shovel",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:tanzanite_pickaxe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_axe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_hoe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_shovel",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": "enriched:emerald_pickaxe",
-          "sources": [
-            "enriched"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:axes",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:hoes",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:pickaxes",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:shovels",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#minecraft:swords",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/bow",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/brush",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/crossbow",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/fishing_rod",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/igniter",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/shear",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/shield",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/spear",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/mining_tool",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/melee_weapon",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/ranged_weapon",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "#foodtxf:blenders",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:cutting_boards",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:juicers",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:knives",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:mixing_bowls",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:rolling_pins",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#foodtxf:skillets",
-          "sources": [
-            "foodtxf"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/adamantite",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/aquarium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/banglum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/bronze",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/carmot",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/celestium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/copper",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/durasteel",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/hallowed",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/kyber",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/legendary_banglum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/metallurgium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/mythril",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/orichalcum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/osmium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/palladium",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/prometheum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/quadrillum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/runite",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/star_platinum",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/steel",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/stormyx",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "#mythicmetals:tools/tidesinger",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "mythicmetals:carmot_staff",
-          "sources": [
-            "mythicmetals"
-          ]
-        },
-        {
-          "value": "polydecorations:trowel",
-          "sources": [
-            "polydecorations"
-          ]
-        },
-        {
-          "value": "polydecorations:hammer",
-          "sources": [
-            "polydecorations"
-          ]
-        },
-        {
-          "value": "#randomisfits:multitools",
-          "sources": [
-            "randomisfits"
-          ]
-        },
-        {
-          "value": "#c:tools/crack_hammer",
-          "sources": [
-            "resource_cracker"
-          ]
-        },
-        {
-          "value": "#c:tools/chisel",
-          "sources": [
-            "resource_cracker"
-          ]
-        },
-        {
-          "value": "#c:tools/scythe",
-          "sources": [
-            "resource_cracker"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/clubs",
-            "required": false
-          },
-          "sources": [
-            "simpleclubs"
-          ]
-        },
-        {
-          "value": "#the_bumblezone:tools/cannons",
-          "sources": [
-            "the_bumblezone"
           ]
         }
       ]
@@ -35862,13 +36234,16 @@
     },
     {
       "id": "player_workstations/furnaces",
-      "replaced_by": [],
+      "replaced_by": [
+        "quad-lolmsmv"
+      ],
       "sources": [],
       "content": [
         {
           "value": "minecraft:furnace",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "quad-lolmsmv"
           ]
         }
       ]
@@ -36694,109 +37069,6 @@
       ]
     },
     {
-      "id": "tools/bows",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:bow",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:citrine_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:tourmaline_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:kunzite_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:topaz_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:alexandrite_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:corundum_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:sapphire_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:spinel_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:carbonado_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        },
-        {
-          "value": {
-            "id": "more_gems:moissanite_bow",
-            "required": false
-          },
-          "sources": [
-            "more_gems"
-          ]
-        }
-      ]
-    },
-    {
       "id": "tools/brush",
       "replaced_by": [],
       "sources": [],
@@ -36921,83 +37193,6 @@
       "content": [
         {
           "value": "minecraft:mace",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tools/ranged_weapon",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:bow",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:crossbow",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:trident",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": {
-            "id": "#c:tools/ranged_weapons",
-            "required": false
-          },
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "frostiful:frost_wand",
-          "sources": [
-            "frostiful"
-          ]
-        },
-        {
-          "value": "#the_bumblezone:tools/spears",
-          "sources": [
-            "the_bumblezone"
-          ]
-        },
-        {
-          "value": "#the_bumblezone:tools/cannons",
-          "sources": [
-            "the_bumblezone"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tools/ranged_weapons",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:bow",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:crossbow",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:trident",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -40540,6 +40735,19 @@
       ]
     },
     {
+      "id": "bronze_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "mobs_of_mythology:bronze_block",
+          "sources": [
+            "mobs_of_mythology"
+          ]
+        }
+      ]
+    },
+    {
       "id": "cartography_tables",
       "replaced_by": [],
       "sources": [],
@@ -41085,6 +41293,22 @@
           },
           "sources": [
             "lolmst"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smokers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:smokers",
+            "required": false
+          },
+          "sources": [
+            "quad-lolmsmv"
           ]
         }
       ]
@@ -49648,6 +49872,19 @@
       ]
     },
     {
+      "id": "ears",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#toneko:ears",
+          "sources": [
+            "toneko"
+          ]
+        }
+      ]
+    },
+    {
       "id": "iron_nuggets",
       "replaced_by": [],
       "sources": [],
@@ -51073,6 +51310,114 @@
           "value": "cinderscapes:sulfur_ore",
           "sources": [
             "cinderscapes-common"
+          ]
+        },
+        {
+          "value": "dimensionalores:quartz_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:deepslate_quartz_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:nether_coal_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:nether_copper_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:nether_diamond_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:nether_emerald_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:nether_iron_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:nether_lapis_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:nether_redstone_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_coal_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_copper_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_diamond_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_emerald_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_gold_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_iron_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_lapis_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_redstone_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_quartz_ore",
+          "sources": [
+            "dimensionalores"
           ]
         },
         {
@@ -58858,6 +59203,12 @@
           "sources": [
             "bronze"
           ]
+        },
+        {
+          "value": "mobs_of_mythology:bronze_block",
+          "sources": [
+            "mobs_of_mythology"
+          ]
         }
       ]
     },
@@ -59729,6 +60080,24 @@
           "value": "cinderscapes:sulfur_quartz_ore",
           "sources": [
             "cinderscapes-common"
+          ]
+        },
+        {
+          "value": "dimensionalores:quartz_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:deepslate_quartz_ore",
+          "sources": [
+            "dimensionalores"
+          ]
+        },
+        {
+          "value": "dimensionalores:end_quartz_ore",
+          "sources": [
+            "dimensionalores"
           ]
         },
         {
@@ -64012,13 +64381,16 @@
     },
     {
       "id": "player_workstations/furnaces",
-      "replaced_by": [],
+      "replaced_by": [
+        "quad-lolmsmv"
+      ],
       "sources": [],
       "content": [
         {
           "value": "minecraft:furnace",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "quad-lolmsmv"
           ]
         }
       ]
@@ -66305,6 +66677,22 @@
           },
           "sources": [
             "lolmst"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smokers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": {
+            "id": "#lieonstudio:smokers",
+            "required": false
+          },
+          "sources": [
+            "quad-lolmsmv"
           ]
         }
       ]

@@ -408,6 +408,12 @@
       "version": "1.7.5",
       "url": "https://www.curseforge.com/minecraft/mc-mods/greater-eye-of-ender-fabric"
     },
+    "guarding": {
+      "id": "guarding",
+      "name": "Guarding",
+      "version": "1.21-2.7.0",
+      "url": "https://twitter.com/TeamAbodeMC"
+    },
     "hauntfurnace": {
       "id": "hauntfurnace",
       "name": "Haunt Furnace",
@@ -519,7 +525,7 @@
     "magistuarmory": {
       "id": "magistuarmory",
       "name": "Epic Knights: Shields, Armor and Weapons",
-      "version": "9.10",
+      "version": "9.11",
       "url": "https://www.curseforge.com/minecraft/mc-mods/Epic-Knights"
     },
     "material_beacons": {
@@ -549,7 +555,7 @@
     "mining_dims": {
       "id": "mining_dims",
       "name": "Mining Dimensions",
-      "version": "1.8.0",
+      "version": "1.8.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric"
     },
     "miningutility": {
@@ -579,7 +585,7 @@
     "mobs_of_mythology": {
       "id": "mobs_of_mythology",
       "name": "Mobs of Mythology",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mobs-of-mythology"
     },
     "modern_beta": {
@@ -903,7 +909,7 @@
     "toneko": {
       "id": "toneko",
       "name": "toNeko",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "url": "https://github.com/CSNeko/toNeko"
     },
     "traverse-common": {
@@ -971,6 +977,12 @@
       "name": "The Veggie Way",
       "version": "1.6.7",
       "url": null
+    },
+    "verdance": {
+      "id": "verdance",
+      "name": "Verdance",
+      "version": "1.21-1.0.0",
+      "url": "https://twitter.com/TeamAbodeMC"
     },
     "walljump": {
       "id": "walljump",
@@ -1591,8 +1603,7 @@
           "value": "minecraft:cobblestone",
           "sources": [
             "armourers_workshop",
-            "fabric-convention-tags-v2",
-            "magistuarmory"
+            "fabric-convention-tags-v2"
           ]
         },
         {
@@ -3638,6 +3649,12 @@
           "sources": [
             "techreborn"
           ]
+        },
+        {
+          "value": "magistuarmory:silver_ingot",
+          "sources": [
+            "magistuarmory"
+          ]
         }
       ]
     },
@@ -3692,6 +3709,12 @@
           "value": "techreborn:tin_ingot",
           "sources": [
             "techreborn"
+          ]
+        },
+        {
+          "value": "magistuarmory:tin_ingot",
+          "sources": [
+            "magistuarmory"
           ]
         }
       ]
@@ -7074,12 +7097,6 @@
           "value": "mobs_of_mythology:bronze_ingot",
           "sources": [
             "mobs_of_mythology"
-          ]
-        },
-        {
-          "value": "magistuarmory:bronze_ingot",
-          "sources": [
-            "magistuarmory"
           ]
         }
       ]
@@ -12292,6 +12309,12 @@
           "sources": [
             "untitledduckmod"
           ]
+        },
+        {
+          "value": "verdance:grilled_cantaloupe_slice",
+          "sources": [
+            "verdance"
+          ]
         }
       ]
     },
@@ -15460,6 +15483,12 @@
           "value": "techreborn:bronze_ingot",
           "sources": [
             "techreborn"
+          ]
+        },
+        {
+          "value": "magistuarmory:bronze_ingot",
+          "sources": [
+            "magistuarmory"
           ]
         }
       ]
@@ -30323,12 +30352,6 @@
           "sources": [
             "mcore"
           ]
-        },
-        {
-          "value": "magistuarmory:steel_ingot",
-          "sources": [
-            "magistuarmory"
-          ]
         }
       ]
     },
@@ -31204,6 +31227,12 @@
           "value": "techreborn:steel_ingot",
           "sources": [
             "techreborn"
+          ]
+        },
+        {
+          "value": "magistuarmory:steel_ingot",
+          "sources": [
+            "magistuarmory"
           ]
         }
       ]
@@ -34597,6 +34626,12 @@
           "sources": [
             "foodtxf"
           ]
+        },
+        {
+          "value": "verdance:mulberry",
+          "sources": [
+            "verdance"
+          ]
         }
       ]
     },
@@ -35121,6 +35156,12 @@
           },
           "sources": [
             "more_food"
+          ]
+        },
+        {
+          "value": "verdance:cantaloupe_slice",
+          "sources": [
+            "verdance"
           ]
         }
       ]
@@ -36182,6 +36223,7 @@
           "sources": [
             "fabric-convention-tags-v2",
             "goldenhopper",
+            "magistuarmory",
             "mythicmetals"
           ]
         }
@@ -37242,6 +37284,12 @@
           ]
         },
         {
+          "value": "guarding:netherite_shield",
+          "sources": [
+            "guarding"
+          ]
+        },
+        {
           "value": "mythicmetals:stormyx_shield",
           "sources": [
             "mythicmetals"
@@ -38078,12 +38126,6 @@
           "sources": [
             "geocluster"
           ]
-        },
-        {
-          "value": "magistuarmory:silver_ingot",
-          "sources": [
-            "magistuarmory"
-          ]
         }
       ]
     },
@@ -38109,12 +38151,6 @@
           "value": "geocluster:tin_ingot",
           "sources": [
             "geocluster"
-          ]
-        },
-        {
-          "value": "magistuarmory:tin_ingot",
-          "sources": [
-            "magistuarmory"
           ]
         }
       ]
@@ -48379,6 +48415,12 @@
           "sources": [
             "techreborn"
           ]
+        },
+        {
+          "value": "magistuarmory:steel_plate",
+          "sources": [
+            "magistuarmory"
+          ]
         }
       ]
     },
@@ -49885,14 +49927,13 @@
       ]
     },
     {
-      "id": "iron_nuggets",
+      "id": "nuggets/iron_nuggets",
       "replaced_by": [],
       "sources": [],
       "content": [
         {
           "value": "minecraft:iron_nugget",
           "sources": [
-            "magistuarmory",
             "toneko"
           ]
         }
@@ -50073,71 +50114,6 @@
           "value": "#variantvanillablocks:chests",
           "sources": [
             "variantvanillablocks"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "gold_nuggets",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:gold_nugget",
-          "sources": [
-            "magistuarmory"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "steel_nuggets",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "magistuarmory:steel_nugget",
-          "sources": [
-            "magistuarmory"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "steel_plate",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "magistuarmory:steel_plate",
-          "sources": [
-            "magistuarmory"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "steel_plates",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "magistuarmory:steel_plate",
-          "sources": [
-            "magistuarmory"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "wooden_rods",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "minecraft:stick",
-          "sources": [
-            "magistuarmory"
           ]
         }
       ]

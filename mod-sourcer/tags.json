@@ -15,7 +15,7 @@
     "adventure_map_developer": {
       "id": "adventure_map_developer",
       "name": "Adventure Map Developer",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "url": "https://caotenhoch2.wixsite.com/caotenhoch2"
     },
     "adventurez": {
@@ -51,13 +51,13 @@
     "artifacts": {
       "id": "artifacts",
       "name": "Artifacts",
-      "version": "12.0.3",
+      "version": "12.0.4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts"
     },
     "axesareweapons": {
       "id": "axesareweapons",
       "name": "Axes Are Weapons",
-      "version": "1.9.0",
+      "version": "1.9.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons"
     },
     "balm-fabric": {
@@ -237,7 +237,7 @@
     "dimensionalores": {
       "id": "dimensionalores",
       "name": "Dimensional Ores",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "url": "https://modrinth.com/mod/dimensional-ores"
     },
     "doggytalents": {
@@ -267,7 +267,7 @@
     "dusks_biomes": {
       "id": "dusks_biomes",
       "name": "Dusk's Biomes",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "url": "https://github.com/Teamvoided/DusksBiomes"
     },
     "earthtojavamobs": {
@@ -291,7 +291,7 @@
     "emerald_tools": {
       "id": "emerald_tools",
       "name": "Emerald Tools",
-      "version": "1.8.13",
+      "version": "1.8.14",
       "url": "https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric"
     },
     "enchancement": {
@@ -351,7 +351,7 @@
     "fabric-convention-tags-v2": {
       "id": "fabric-convention-tags-v2",
       "name": "Fabric Convention Tags (v2)",
-      "version": "2.4.2+c111832ad1",
+      "version": "2.5.0+c5e2b5c6d1",
       "url": "https://fabricmc.net"
     },
     "fishofthieves": {
@@ -359,6 +359,12 @@
       "name": "Fish of Thieves",
       "version": "4.0.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves"
+    },
+    "fog": {
+      "id": "fog",
+      "name": "Fog",
+      "version": "1.0.5-1.21",
+      "url": "https://fabricmc.net/"
     },
     "foodtxf": {
       "id": "foodtxf",
@@ -393,7 +399,7 @@
     "gobber2": {
       "id": "gobber2",
       "name": "Gobber2",
-      "version": "2.10.21",
+      "version": "2.10.23",
       "url": ""
     },
     "goldenhopper": {
@@ -525,7 +531,7 @@
     "magistuarmory": {
       "id": "magistuarmory",
       "name": "Epic Knights: Shields, Armor and Weapons",
-      "version": "9.11",
+      "version": "9.13",
       "url": "https://www.curseforge.com/minecraft/mc-mods/Epic-Knights"
     },
     "material_beacons": {
@@ -585,7 +591,7 @@
     "mobs_of_mythology": {
       "id": "mobs_of_mythology",
       "name": "Mobs of Mythology",
-      "version": "2.0.1",
+      "version": "2.0.3",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mobs-of-mythology"
     },
     "modern_beta": {
@@ -603,7 +609,7 @@
     "more_gems": {
       "id": "more_gems",
       "name": "More Gems",
-      "version": "1.7.14",
+      "version": "1.7.16",
       "url": ""
     },
     "morevanillashields": {
@@ -720,6 +726,12 @@
       "version": "0.4.0-pre.5+1.21",
       "url": "https://pb4.eu"
     },
+    "quad-lolmbdv": {
+      "id": "quad-lolmbdv",
+      "name": "More Bed Variants",
+      "version": "1.1.0",
+      "url": "https://pnku.de/"
+    },
     "quad-lolmsmv": {
       "id": "quad-lolmsmv",
       "name": "More Smoker Variants",
@@ -741,13 +753,13 @@
     "randomisfits": {
       "id": "randomisfits",
       "name": "Random Misfits",
-      "version": "1.21-1.1.0-fabric",
+      "version": "1.21-1.1.2-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/random-misfits"
     },
     "reforested": {
       "id": "reforested",
       "name": "Reforested",
-      "version": "0.1.25",
+      "version": "0.1.27",
       "url": "https://fabricmc.net/"
     },
     "regions_unexplored": {
@@ -789,7 +801,7 @@
     "ring_of_miner": {
       "id": "ring_of_miner",
       "name": "Ring Of Miner",
-      "version": "1.7.8",
+      "version": "1.7.9",
       "url": "https://www.curseforge.com/minecraft/mc-mods/ring-of-the-miner-fabric"
     },
     "rounded": {
@@ -909,7 +921,7 @@
     "toneko": {
       "id": "toneko",
       "name": "toNeko",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "url": "https://github.com/CSNeko/toNeko"
     },
     "traverse-common": {
@@ -975,7 +987,7 @@
     "veggie_way": {
       "id": "veggie_way",
       "name": "The Veggie Way",
-      "version": "1.6.7",
+      "version": "1.6.8",
       "url": null
     },
     "verdance": {
@@ -983,6 +995,12 @@
       "name": "Verdance",
       "version": "1.21-1.0.0",
       "url": "https://twitter.com/TeamAbodeMC"
+    },
+    "voided_variance": {
+      "id": "voided_variance",
+      "name": "VoidedVariance",
+      "version": "1.1.0",
+      "url": "https://github.com/Teamvoided/VoidedVariance"
     },
     "walljump": {
       "id": "walljump",
@@ -1636,6 +1654,18 @@
           "value": "the_bumblezone:sugar_infused_cobblestone",
           "sources": [
             "the_bumblezone"
+          ]
+        },
+        {
+          "value": "voided_variance:infested_mossy_cobblestone",
+          "sources": [
+            "voided_variance"
+          ]
+        },
+        {
+          "value": "voided_variance:infested_cobbled_deepslate",
+          "sources": [
+            "voided_variance"
           ]
         }
       ]
@@ -2645,7 +2675,8 @@
           "sources": [
             "balm-fabric",
             "foodtxf",
-            "ingotcraft"
+            "ingotcraft",
+            "randomisfits"
           ]
         },
         {
@@ -2653,7 +2684,8 @@
           "sources": [
             "balm-fabric",
             "foodtxf",
-            "ingotcraft"
+            "ingotcraft",
+            "randomisfits"
           ]
         },
         {
@@ -3055,6 +3087,7 @@
             "energizedpower",
             "foodtxf",
             "ingotcraft",
+            "randomisfits",
             "usefulhats"
           ]
         }
@@ -3072,7 +3105,8 @@
             "energizedpower",
             "expandedstorage",
             "foodtxf",
-            "ingotcraft"
+            "ingotcraft",
+            "randomisfits"
           ]
         }
       ]
@@ -13507,12 +13541,6 @@
           ]
         },
         {
-          "value": "minecraft:melon_slice",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
           "value": "minecraft:beetroot",
           "sources": [
             "fabric-convention-tags-v2"
@@ -14664,13 +14692,14 @@
           ]
         },
         {
-          "value": "minecraft:beetroot",
+          "value": "minecraft:melon_slice",
           "sources": [
+            "fabric-convention-tags-v2",
             "veggie_way"
           ]
         },
         {
-          "value": "minecraft:melon_slice",
+          "value": "minecraft:beetroot",
           "sources": [
             "veggie_way"
           ]
@@ -17149,6 +17178,7 @@
           "value": "minecraft:slime_ball",
           "sources": [
             "colourful_portals",
+            "fabric-convention-tags-v2",
             "jmc"
           ]
         }
@@ -17247,6 +17277,18 @@
           ]
         },
         {
+          "value": "minecraft:mace",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:trident",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
           "value": "minecraft:wooden_sword",
           "sources": [
             "fabric-convention-tags-v2"
@@ -17314,12 +17356,6 @@
         },
         {
           "value": "minecraft:netherite_axe",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:mace",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -28856,6 +28892,15 @@
           "sources": [
             "earthtojavamobs"
           ]
+        },
+        {
+          "value": {
+            "id": "#lieonstudio:beds",
+            "required": false
+          },
+          "sources": [
+            "quad-lolmbdv"
+          ]
         }
       ]
     },
@@ -34596,6 +34641,19 @@
       ]
     },
     {
+      "id": "fertilizers",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:bone_meal",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        }
+      ]
+    },
+    {
       "id": "foods/berry",
       "replaced_by": [],
       "sources": [],
@@ -35033,6 +35091,12 @@
           ]
         },
         {
+          "value": "minecraft:melon_slice",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
           "value": {
             "id": "#c:foods/fruits",
             "required": false
@@ -35185,12 +35249,6 @@
         },
         {
           "value": "minecraft:golden_carrot",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:glistering_melon_slice",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -35593,12 +35651,6 @@
         },
         {
           "value": "minecraft:potato",
-          "sources": [
-            "fabric-convention-tags-v2"
-          ]
-        },
-        {
-          "value": "minecraft:melon_slice",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -36561,6 +36613,12 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "voided_variance:cut_red_sandstone_stair",
+          "sources": [
+            "voided_variance"
+          ]
         }
       ]
     },
@@ -36628,6 +36686,18 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "voided_variance:cut_sandstone_stair",
+          "sources": [
+            "voided_variance"
+          ]
+        },
+        {
+          "value": "voided_variance:cut_red_sandstone_stair",
+          "sources": [
+            "voided_variance"
           ]
         }
       ]
@@ -36730,6 +36800,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "voided_variance:cut_sandstone_stair",
+          "sources": [
+            "voided_variance"
           ]
         }
       ]
@@ -61144,6 +61220,15 @@
           "sources": [
             "earthtojavamobs"
           ]
+        },
+        {
+          "value": {
+            "id": "#lieonstudio:beds",
+            "required": false
+          },
+          "sources": [
+            "quad-lolmbdv"
+          ]
         }
       ]
     },
@@ -62086,6 +62171,18 @@
           "value": "the_bumblezone:sugar_infused_cobblestone",
           "sources": [
             "the_bumblezone"
+          ]
+        },
+        {
+          "value": "voided_variance:infested_mossy_cobblestone",
+          "sources": [
+            "voided_variance"
+          ]
+        },
+        {
+          "value": "voided_variance:infested_cobbled_deepslate",
+          "sources": [
+            "voided_variance"
           ]
         }
       ]
@@ -64504,6 +64601,12 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "voided_variance:cut_red_sandstone_stair",
+          "sources": [
+            "voided_variance"
+          ]
         }
       ]
     },
@@ -64571,6 +64674,18 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "voided_variance:cut_sandstone_stair",
+          "sources": [
+            "voided_variance"
+          ]
+        },
+        {
+          "value": "voided_variance:cut_red_sandstone_stair",
+          "sources": [
+            "voided_variance"
           ]
         }
       ]
@@ -64673,6 +64788,12 @@
           },
           "sources": [
             "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "voided_variance:cut_sandstone_stair",
+          "sources": [
+            "voided_variance"
           ]
         }
       ]
@@ -71755,19 +71876,22 @@
         {
           "value": "minecraft:deep_dark",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:dripstone_caves",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:lush_caves",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -71776,7 +71900,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -71855,31 +71980,36 @@
         {
           "value": "minecraft:the_end",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:small_end_islands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_midlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_highlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_barrens",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         }
       ]
@@ -72078,11 +72208,37 @@
         {
           "value": "minecraft:taiga",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_pine_taiga",
+          "sources": [
+            "fabric-convention-tags-v2",
+            "fog"
+          ]
+        },
+        {
+          "value": "minecraft:old_growth_spruce_taiga",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_hills",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_gravelly_hills",
+          "sources": [
+            "fabric-convention-tags-v2"
+          ]
+        },
+        {
+          "value": "minecraft:windswept_forest",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -72090,35 +72246,47 @@
         {
           "value": "minecraft:snowy_plains",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:ice_spikes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:grove",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:snowy_slopes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:jagged_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:frozen_peaks",
+          "sources": [
+            "fabric-convention-tags-v2",
+            "fog"
+          ]
+        },
+        {
+          "value": "minecraft:stony_shore",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -72126,43 +72294,50 @@
         {
           "value": "minecraft:snowy_beach",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:snowy_taiga",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:frozen_river",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:cold_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:frozen_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:deep_cold_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:deep_frozen_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -72171,7 +72346,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -72469,37 +72645,43 @@
         {
           "value": "minecraft:dark_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_spruce_taiga",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:bamboo_jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:mangrove_swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -72508,7 +72690,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -72641,7 +72824,8 @@
         {
           "value": "minecraft:desert",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -72753,31 +72937,36 @@
         {
           "value": "minecraft:the_end",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:small_end_islands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_midlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_highlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_barrens",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         }
       ]
@@ -72835,31 +73024,36 @@
         {
           "value": "minecraft:nether_wastes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:crimson_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:warped_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:soul_sand_valley",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:basalt_deltas",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -72983,43 +73177,50 @@
         {
           "value": "minecraft:desert",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:badlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:wooded_badlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:eroded_badlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:savanna",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:savanna_plateau",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_savanna",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73028,7 +73229,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73173,31 +73375,36 @@
         {
           "value": "minecraft:nether_wastes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:crimson_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:warped_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:soul_sand_valley",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:basalt_deltas",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73360,85 +73567,99 @@
         {
           "value": "minecraft:swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:mangrove_swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:bamboo_jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:sparse_jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:desert",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:badlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:wooded_badlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:eroded_badlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:savanna",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:savanna_plateau",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_savanna",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:stony_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:warm_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73447,7 +73668,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73816,7 +74038,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73825,7 +74048,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73834,7 +74058,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -73872,7 +74097,8 @@
           "value": "minecraft:mushroom_fields",
           "sources": [
             "creeperoverhaul",
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -74026,13 +74252,15 @@
         {
           "value": "minecraft:plains",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:sunflower_plains",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -74426,49 +74654,57 @@
         {
           "value": "minecraft:snowy_beach",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:snowy_plains",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:ice_spikes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:snowy_taiga",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:grove",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:snowy_slopes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:jagged_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:frozen_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -74826,17 +75062,26 @@
         {
           "value": "minecraft:wooded_badlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:savanna",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:savanna_plateau",
+          "sources": [
+            "fabric-convention-tags-v2",
+            "fog"
+          ]
+        },
+        {
+          "value": "minecraft:sparse_jungle",
           "sources": [
             "fabric-convention-tags-v2"
           ]
@@ -74844,43 +75089,50 @@
         {
           "value": "minecraft:windswept_savanna",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_hills",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_gravelly_hills",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:snowy_slopes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:jagged_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:frozen_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -74889,7 +75141,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75089,13 +75342,15 @@
         {
           "value": "minecraft:mangrove_swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75273,13 +75528,15 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:grove",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75288,7 +75545,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75442,7 +75700,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75741,49 +76000,57 @@
         {
           "value": "minecraft:swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:mangrove_swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:bamboo_jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:sparse_jungle",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:beach",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:lush_caves",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:dripstone_caves",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75792,7 +76059,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75910,13 +76178,15 @@
         {
           "value": "minecraft:warped_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:crimson_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75925,7 +76195,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -75962,7 +76233,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76069,7 +76341,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76078,7 +76351,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76439,61 +76713,71 @@
         {
           "value": "minecraft:forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:sunflower_plains",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:swamp",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:stony_shore",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:dark_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:meadow",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:plains",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76502,7 +76786,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76758,7 +77043,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76792,13 +77078,15 @@
         {
           "value": "minecraft:birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76871,7 +77159,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76897,19 +77186,22 @@
           "value": "minecraft:sunflower_plains",
           "sources": [
             "fabric-convention-tags-v2",
+            "fog",
             "wilderwild"
           ]
         },
         {
           "value": "minecraft:meadow",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:cherry_grove",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -76918,7 +77210,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77039,13 +77332,15 @@
         {
           "value": "minecraft:frozen_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:ice_spikes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77085,25 +77380,29 @@
         {
           "value": "minecraft:snowy_slopes",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:meadow",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:grove",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:cherry_grove",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77112,7 +77411,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77143,19 +77443,22 @@
         {
           "value": "minecraft:old_growth_birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_pine_taiga",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_spruce_taiga",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77192,31 +77495,36 @@
         {
           "value": "minecraft:ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:lukewarm_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:warm_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:cold_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:frozen_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77241,7 +77549,8 @@
         {
           "value": "minecraft:stony_shore",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77284,37 +77593,43 @@
         {
           "value": "minecraft:forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:flower_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:dark_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:old_growth_birch_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77323,7 +77638,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77588,7 +77904,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77597,7 +77914,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77655,25 +77973,29 @@
         {
           "value": "minecraft:windswept_hills",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_gravelly_hills",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:windswept_savanna",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -77719,13 +78041,15 @@
         {
           "value": "minecraft:mushroom_fields",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:deep_dark",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81010,7 +81334,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81019,7 +81344,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81062,19 +81388,22 @@
         {
           "value": "minecraft:frozen_river",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:deep_frozen_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:frozen_ocean",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81102,7 +81431,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81130,7 +81460,8 @@
         {
           "value": "#c:is_cold/overworld",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81234,7 +81565,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81271,19 +81603,22 @@
         {
           "value": "#c:is_dry/overworld",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "#c:is_dry/nether",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "#c:is_dry/end",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81341,7 +81676,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81350,7 +81686,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         }
       ]
@@ -81363,7 +81700,8 @@
         {
           "value": "minecraft:flower_forest",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81372,7 +81710,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81436,7 +81775,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81560,7 +81900,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81579,13 +81920,15 @@
         {
           "value": "#c:is_hot/overworld",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "#c:is_hot/nether",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81637,7 +81980,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81680,19 +82024,22 @@
         {
           "value": "minecraft:frozen_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:jagged_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:stony_peaks",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81701,7 +82048,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81723,7 +82071,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81732,7 +82081,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         }
       ]
@@ -81748,7 +82098,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81757,7 +82108,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81766,7 +82118,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         }
       ]
@@ -81779,19 +82132,22 @@
         {
           "value": "minecraft:end_highlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_midlands",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
           "value": "minecraft:end_barrens",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81800,7 +82156,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         }
       ]
@@ -81816,7 +82173,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81856,7 +82214,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81899,7 +82258,8 @@
         {
           "value": "minecraft:snowy_plains",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81921,7 +82281,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81946,7 +82307,8 @@
         {
           "value": "#c:is_temperate/overworld",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -81992,7 +82354,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -82001,7 +82364,8 @@
             "required": false
           },
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {
@@ -82044,7 +82408,8 @@
         {
           "value": "minecraft:the_void",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         }
       ]
@@ -82057,7 +82422,8 @@
         {
           "value": "#c:is_wet/overworld",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "fog"
           ]
         },
         {

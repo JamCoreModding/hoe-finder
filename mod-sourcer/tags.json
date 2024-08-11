@@ -105,13 +105,13 @@
     "betterend": {
       "id": "betterend",
       "name": "Better End",
-      "version": "21.0.7",
+      "version": "21.0.8",
       "url": "https://modrinth.com/mod/betterend"
     },
     "betternether": {
       "id": "betternether",
       "name": "Better Nether",
-      "version": "21.0.10",
+      "version": "21.0.11",
       "url": "https://www.curseforge.com/minecraft/mc-mods/betternether"
     },
     "biomesoplenty": {
@@ -309,7 +309,7 @@
     "enderite": {
       "id": "enderite",
       "name": "Enderite CJ Edition",
-      "version": "1.21-2.2.2",
+      "version": "1.21-2.2.3",
       "url": "https://www.curseforge.com/minecraft/mc-mods/enderite-cj-edition/"
     },
     "endorium": {
@@ -375,13 +375,13 @@
     "foodtxf": {
       "id": "foodtxf",
       "name": "Food TXF",
-      "version": "1.21.1-1.7.1-fabric",
+      "version": "1.21.1-1.7.2-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/food-txf"
     },
     "frostiful": {
       "id": "frostiful",
       "name": "Frostiful",
-      "version": "2.0.0-beta.1",
+      "version": "2.0.0-beta.2",
       "url": "https://github.com/TheDeathlyCow/frostiful/wiki"
     },
     "gardens_of_the_dead": {
@@ -453,7 +453,7 @@
     "ingotcraft": {
       "id": "ingotcraft",
       "name": "IngotCraft",
-      "version": "1.21.1-2.4.4-fabric",
+      "version": "1.21.1-2.4.5-fabric",
       "url": "https://www.curseforge.com/minecraft/mc-mods/ingotcraft"
     },
     "ironbookshelves": {
@@ -527,6 +527,12 @@
       "name": "More Smithing Tables",
       "version": "1.1.0",
       "url": "https://lieonlion.github.io/LieOnLion/"
+    },
+    "lootr": {
+      "id": "lootr",
+      "name": "Lootr",
+      "version": "0.9.35.88",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/lootr-fabric"
     },
     "luckytntmod": {
       "id": "luckytntmod",
@@ -609,7 +615,7 @@
     "more_food": {
       "id": "more_food",
       "name": "More Food",
-      "version": "2.0.0+1.21",
+      "version": "2.1.0+1.21",
       "url": "https://www.curseforge.com/minecraft/mc-mods/more-food-xd"
     },
     "more_gems": {
@@ -645,7 +651,7 @@
     "natures_spirit": {
       "id": "natures_spirit",
       "name": "Nature's Spirit",
-      "version": "1.6.0-1.21",
+      "version": "1.6.1-1.21",
       "url": null
     },
     "nears": {
@@ -819,7 +825,7 @@
     "rounded": {
       "id": "rounded",
       "name": "Rounded",
-      "version": "1.0.4",
+      "version": "1.1.0",
       "url": "https://modrinth.com/mod/rounded_mod"
     },
     "rudimentary": {
@@ -869,6 +875,12 @@
       "name": "SlimyBoyos",
       "version": "13.0.4",
       "url": "https://www.curseforge.com/minecraft/mc-mods/slimyboyos"
+    },
+    "smithery": {
+      "id": "smithery",
+      "name": "smithery",
+      "version": "0.2",
+      "url": "https://robinsplaza.org/"
     },
     "snowrealmagic": {
       "id": "snowrealmagic",
@@ -1041,7 +1053,7 @@
     "wover-tag": {
       "id": "wover-tag",
       "name": "WorldWeaver - Tag API",
-      "version": "21.0.12",
+      "version": "21.0.13",
       "url": "https://github.com/quiqueck/WorldWeaver"
     },
     "xtraarrows": {
@@ -1049,6 +1061,12 @@
       "name": "Xtra Arrows 3",
       "version": "3.4.2",
       "url": "https://www.curseforge.com/minecraft/mc-mods/xtra-arrows"
+    },
+    "yajusenpai": {
+      "id": "yajusenpai",
+      "name": "Yaju Senpai",
+      "version": "2024.0.0",
+      "url": "https://modrinth.com/mod/yaju-senpai"
     }
   },
   "item": [
@@ -3235,6 +3253,18 @@
           "sources": [
             "resource_cracker"
           ]
+        },
+        {
+          "value": "#c:nuggets/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:nuggets/yajusenpai",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -3362,6 +3392,12 @@
           "value": "minecraft:gravel",
           "sources": [
             "energizedpower"
+          ]
+        },
+        {
+          "value": "yajusenpai:yj_gravel",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -3702,6 +3738,18 @@
           "value": "#techreborn:ingots",
           "sources": [
             "techreborn"
+          ]
+        },
+        {
+          "value": "#c:ingots/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:ingots/yajusenpai",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -4983,6 +5031,36 @@
           "value": "resource_nether_ores:nether_redstone_ore",
           "sources": [
             "resource_nether_ores"
+          ]
+        },
+        {
+          "value": "#yajusenpai:yjnium_ores",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#yajusenpai:yajusenpai_ores",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:ores/yajusenpai",
+            "required": false
+          },
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:ores/yjnium",
+            "required": false
+          },
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -7240,6 +7318,24 @@
           "value": "#c:storage_blocks/topaz",
           "sources": [
             "nature_arise"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/raw_yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/raw_yajusenpai",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -10714,6 +10810,18 @@
           "sources": [
             "verdance"
           ]
+        },
+        {
+          "value": "yajusenpai:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:baked_potato_senpai",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -12817,6 +12925,12 @@
           "sources": [
             "terrestria-common"
           ]
+        },
+        {
+          "value": "yajusenpai:yj_sand",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -13539,6 +13653,12 @@
           "value": "veggie_way:cactus_chunk",
           "sources": [
             "veggie_way"
+          ]
+        },
+        {
+          "value": "yajusenpai:apple_inm",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -16404,6 +16524,24 @@
           "value": "simpleclubs:breeze_club",
           "sources": [
             "simpleclubs"
+          ]
+        },
+        {
+          "value": "yajusenpai:yjnium_sword",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:yajusenpai_sword",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:jaken_yoruikimasyoune_sword",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -20345,6 +20483,18 @@
           "sources": [
             "regions_unexplored"
           ]
+        },
+        {
+          "value": "#c:apple",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:fruits/apple",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -20379,6 +20529,12 @@
           },
           "sources": [
             "foodtxf"
+          ]
+        },
+        {
+          "value": "yajusenpai:apple_inm",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -26182,6 +26338,12 @@
           "sources": [
             "croptopia"
           ]
+        },
+        {
+          "value": "yajusenpai:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -29216,6 +29378,12 @@
           "sources": [
             "the_bumblezone"
           ]
+        },
+        {
+          "value": "yajusenpai:soft_smartphone",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -31808,7 +31976,20 @@
         {
           "value": "minecraft:chain",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "smithery"
+          ]
+        },
+        {
+          "value": "smithery:netherite_chain",
+          "sources": [
+            "smithery"
+          ]
+        },
+        {
+          "value": "smithery:gold_chain",
+          "sources": [
+            "smithery"
           ]
         }
       ]
@@ -35055,6 +35236,12 @@
           "sources": [
             "veggie_way"
           ]
+        },
+        {
+          "value": "yajusenpai:potato_senpai",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -36997,21 +37184,6 @@
       ]
     },
     {
-      "id": "ingots/enderite",
-      "replaced_by": [],
-      "sources": [],
-      "content": [
-        {
-          "value": "enderitemod:enderite_ingot",
-          "sources": [
-            "foodtxf",
-            "ingotcraft",
-            "ironbookshelves"
-          ]
-        }
-      ]
-    },
-    {
       "id": "pointed_dripstones",
       "replaced_by": [],
       "sources": [],
@@ -38795,6 +38967,19 @@
           "value": "techreborn:steel_storage_block",
           "sources": [
             "techreborn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/enderite",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "enderitemod:enderite_ingot",
+          "sources": [
+            "ironbookshelves"
           ]
         }
       ]
@@ -49740,6 +49925,438 @@
           ]
         }
       ]
+    },
+    {
+      "id": "apple",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:apple_inm",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:icetea",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:drinks/tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:drinks/ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:drinks/icetea",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drinks/ice_tea",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drinks/icetea",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drinks/tea",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glowstone_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:glowstone",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ice_tea",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icetea",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:ice_tea",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/yajusenpai",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yajusenpai_ingot",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingots/yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yjnium_ingot",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nether_stars",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yj_star",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nuggets/yajusenpai",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yajusenpai_nugget",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nuggets/yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yjnium_nugget",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/yajusenpai",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yajusenpai_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:deepslate_yajusenpai_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yjnium_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:deepslate_yjnium_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_materials/yajusenpai",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:raw_yajusenpai",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_materials/yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:raw_yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_yajusenpai_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:storage_blocks/raw_yajusenpai",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_yajusenpai_ores",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:raw_materials/yajusenpai",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_yjnium_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:storage_blocks/raw_yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw_yjnium_ores",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:raw_materials/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_yajusenpai",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:raw_yajusenpai_block",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:raw_yjnium_block",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yjnium_block",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wheat_crops",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "minecraft:wheat",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yajusenpai_ingots",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:ingots/yajusenpai",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yajusenpai_nuggets",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:nuggets/yajusenpai",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yjnium_blocks",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:storage_blocks/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yjnium_ingots",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:ingots/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yjnium_nuggets",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "#c:nuggets/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
     }
   ],
   "block": [
@@ -50488,6 +51105,12 @@
           "value": "basalt-crusher:black_gravel",
           "sources": [
             "basalt-crusher"
+          ]
+        },
+        {
+          "value": "yajusenpai:yj_gravel",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -52011,6 +52634,36 @@
           "sources": [
             "techreborn"
           ]
+        },
+        {
+          "value": "#yajusenpai:yjnium_ores",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#yajusenpai:yajusenpai_ores",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:ores/yajusenpai",
+            "required": false
+          },
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": {
+            "id": "#c:ores/yjnium",
+            "required": false
+          },
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -52985,6 +53638,24 @@
           "value": "#c:storage_blocks/topaz",
           "sources": [
             "nature_arise"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/raw_yjnium",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "#c:storage_blocks/raw_yajusenpai",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -54855,6 +55526,12 @@
           ]
         },
         {
+          "value": "lootr:lootr_barrel",
+          "sources": [
+            "lootr"
+          ]
+        },
+        {
           "value": "#c:barrels/copper",
           "sources": [
             "metalbarrels"
@@ -55455,6 +56132,18 @@
           "sources": [
             "fabric-convention-tags-v2"
           ]
+        },
+        {
+          "value": "lootr:lootr_chest",
+          "sources": [
+            "lootr"
+          ]
+        },
+        {
+          "value": "lootr:lootr_inventory",
+          "sources": [
+            "lootr"
+          ]
         }
       ]
     },
@@ -55753,6 +56442,12 @@
           "value": "terrestria:basalt_sand",
           "sources": [
             "terrestria-common"
+          ]
+        },
+        {
+          "value": "yajusenpai:yj_sand",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -59018,7 +59713,20 @@
         {
           "value": "minecraft:chain",
           "sources": [
-            "fabric-convention-tags-v2"
+            "fabric-convention-tags-v2",
+            "smithery"
+          ]
+        },
+        {
+          "value": "smithery:netherite_chain",
+          "sources": [
+            "smithery"
+          ]
+        },
+        {
+          "value": "smithery:gold_chain",
+          "sources": [
+            "smithery"
           ]
         }
       ]
@@ -59079,6 +59787,18 @@
           "value": "voided_variance:infested_cobbled_deepslate",
           "sources": [
             "voided_variance"
+          ]
+        },
+        {
+          "value": "yajusenpai:yj_stone",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:yj_deepslate",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]
@@ -61924,6 +62644,18 @@
           "sources": [
             "the_bumblezone"
           ]
+        },
+        {
+          "value": "yajusenpai:yj_stone",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:yj_deepslate",
+          "sources": [
+            "yajusenpai"
+          ]
         }
       ]
     },
@@ -63290,6 +64022,19 @@
           },
           "sources": [
             "leaves_us_in_peace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chests/trapped",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "lootr:lootr_trapped_chest",
+          "sources": [
+            "lootr"
           ]
         }
       ]
@@ -67672,6 +68417,83 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ores/yajusenpai",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yajusenpai_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:deepslate_yajusenpai_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ores/yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yjnium_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        },
+        {
+          "value": "yajusenpai:deepslate_yjnium_ore",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_yajusenpai",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:raw_yajusenpai_block",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/raw_yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:raw_yjnium_block",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_blocks/yjnium",
+      "replaced_by": [],
+      "sources": [],
+      "content": [
+        {
+          "value": "yajusenpai:yjnium_block",
+          "sources": [
+            "yajusenpai"
+          ]
+        }
+      ]
     }
   ],
   "fluid": [
@@ -71425,6 +72247,12 @@
           },
           "sources": [
             "traverse-common"
+          ]
+        },
+        {
+          "value": "yajusenpai:yajusenpai",
+          "sources": [
+            "yajusenpai"
           ]
         }
       ]

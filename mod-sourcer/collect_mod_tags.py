@@ -10,14 +10,9 @@ from datastructures import *
 
 build_dir = Path('build')
 
-TAG_PATTERN = re.compile("^data/c/tags/(item|block|fluid|entity_type|worldgen/biome|enchantment)/(.*).json$")
-
+TAG_PATTERN = re.compile("^data/minecraft/tags/(item)s?/(hoes).json$")
 
 def load_tags(mod_jar: ZipFile, source: TagSource, tags: TagContainer):
-    """
-    Loads all tags from the 'c' namespace found in the given ZIP file, and returns them
-    as a tag collection.
-    """
     matches = filter(None, (TAG_PATTERN.match(entry) for entry in mod_jar.namelist()))
     for match in matches:
         path = match.group(0)

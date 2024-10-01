@@ -4,3 +4,5 @@ mod-sourcer/mods/
 mod-sourcer/mods.backup/
 mod-sourcer/tags.json
 mod-sourcer/tags.txt
+.vscode/
+.direnv/

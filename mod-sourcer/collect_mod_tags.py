@@ -29,28 +29,32 @@ def load_tags(mod_jar: ZipFile, source: TagSource, tags: TagContainer):
 def pull_mod_tags(mod_path: Path, tags: TagContainer):
     print("Loading", mod_path)
 
-    with ZipFile(str(mod_path)) as mod_jar:
-        # Grab the fabric-mod.json to get the mod id
-        try:
-            fabric_mod_info = json.loads(mod_jar.read("fabric.mod.json"))
-        except KeyError:
-            print("Failed to find fabric.mod.json in", mod_path)
-            return False
-        except JSONDecodeError:
-            print("Invalid fabric.mod.json file in", mod_path)
-            return False
+    try:
+        with ZipFile(str(mod_path)) as mod_jar:
+            # Grab the fabric-mod.json to get the mod id
+            try:
+                fabric_mod_info = json.loads(mod_jar.read("fabric.mod.json"))
+            except KeyError:
+                print("Failed to find fabric.mod.json in", mod_path)
+                return False
+            except JSONDecodeError:
+                print("Invalid fabric.mod.json file in", mod_path)
+                return False
 
-        mod_id = fabric_mod_info['id']
-        try:
-            mod_name = fabric_mod_info['name']
-        except KeyError:
-            mod_name = mod_id
-        mod_version = fabric_mod_info['version']
-        mod_url = fabric_mod_info.get('contact', {}).get('homepage', None)
+            mod_id = fabric_mod_info['id']
+            try:
+                mod_name = fabric_mod_info['name']
+            except KeyError:
+                mod_name = mod_id
+            mod_version = fabric_mod_info['version']
+            mod_url = fabric_mod_info.get('contact', {}).get('homepage', None)
 
-        tag_source = TagSource(mod_id, mod_name, mod_version, mod_url)
+            tag_source = TagSource(mod_id, mod_name, mod_version, mod_url)
 
-        load_tags(mod_jar, tag_source, tags)
+            load_tags(mod_jar, tag_source, tags)
+    except Exception as e:
+        print("Failed to load tags from", mod_path, ":", e)
+        return False
 
     return True
 

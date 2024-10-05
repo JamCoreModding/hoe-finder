@@ -8,7 +8,8 @@ import os
 
 from datastructures import *
 
-MAX_MODS = 250
+MAX_MODS = 2500
+MOD_OFFSET = 2500
 DEFAULT_HEADERS = {
     'User-Agent': 'JamCoreModding/hoe-finder <james[at]jamalam.tech> <discord:jamalam>'
 }
@@ -18,8 +19,8 @@ def get_modrinth_project_ids():
 
     for page in range(0, max(MAX_MODS // 100, 1)):
         query_params = {
-            'offset': page * 100,
-            'limit': MAX_MODS - page * 100,
+            'offset': MOD_OFFSET + page * 100,
+            'limit': 100,
             'facets': '[["project_type:mod"]]'
         }
         request = requests.get("https://api.modrinth.com/v2/search", params=query_params, headers=DEFAULT_HEADERS)
@@ -44,7 +45,7 @@ def get_project_download_url(project_id):
     request = requests.get(f"https://api.modrinth.com/v2/project/{project_id}/version", params=query_params, headers=DEFAULT_HEADERS)
 
     if request.status_code != 200:
-        print("Failed to fetch versions for project", project_id, ":", request.text)
+        print(f"Failed to fetch versions for project {project_id}")
         return None
 
     versions = json.loads(request.text)
@@ -64,26 +65,28 @@ def run():
 
     if not mods_dir.exists():
         mods_dir.mkdir()
-    else:
-        for file in mods_dir.glob('*'):
-            os.remove(file)
 
     modrinth_project_ids = get_modrinth_project_ids()
+    print(f"Found {len(modrinth_project_ids)} mods")
 
-    for project_id in modrinth_project_ids:
+    for idx, project_id in enumerate(modrinth_project_ids):
         download_url = get_project_download_url(project_id)
         if download_url is None:
             print("Failed to find download for project", project_id)
             continue
 
-        print("Downloading", download_url)
+        print(f"Downloading {download_url} ({idx + 1}/{len(modrinth_project_ids)})")
         filename = download_url.split('/')[-1]
 
-        with requests.get(download_url, stream=True) as request:
-            request.raise_for_status()
-            with open(mods_dir / filename, 'wb') as fh:
-                for chunk in request.iter_content(chunk_size=8192):
-                    fh.write(chunk)
+        try:
+            with requests.get(download_url, stream=True) as request:
+                request.raise_for_status()
+                with open(mods_dir / filename, 'wb') as fh:
+                    for chunk in request.iter_content(chunk_size=8192):
+                        fh.write(chunk)
+        except Exception as e:
+            print(f"Failed to download {download_url} ({e})")
+            continue
 
 if __name__ == '__main__':
     run()
